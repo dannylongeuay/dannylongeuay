@@ -1,3 +1,4 @@
+import logging
 from jinja2 import Template
 from requests import get
 
@@ -11,6 +12,7 @@ def main():
         qotd = response.json().get('contents').get('quotes')[0].get('quote')
     with open('README.md', 'w') as fp:
         fp.write(readme_template.render(qotd=qotd))
+    logging.info('updated README.md')
 
 if __name__ == "__main__":
     main()

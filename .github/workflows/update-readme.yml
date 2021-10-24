@@ -19,5 +19,12 @@ jobs:
           poetry-version: 1.1.11
       - name: Run Update Readme Script
         run: |
-          poetry install
+          poetry install --no-dev
           poetry run python update_readme.py
+      - name: Push changes
+        run: |
+          git config --global user.name 'dannylongeuay'
+          git config --global user.email 'dannylongeuay@yahoo.com'
+          git add -A
+          git commit -m 'chore: updated readme'
+          git push
