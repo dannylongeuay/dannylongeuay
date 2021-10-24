@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">DevOps enthusiast</h3>
+<h3 align="center">Senior Site Reliability Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Quote of the Day: (theysaidso.com) </h3>
+<h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
 <q>Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</q>
 <hr/>
-<p>Last updated at 2021-10-24 03:43:30 UTC</p>
+<p>Last updated at 2021-10-24 18:43:29 UTC</p>
