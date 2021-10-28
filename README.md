@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Stress is like a pulse, if you have it you are alive.</q>
+<q>You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).</q>
 <hr/>
-<p>Last updated at 2021-10-27 02:10:42 UTC</p>
+<p>Last updated at 2021-10-28 02:11:01 UTC</p>
