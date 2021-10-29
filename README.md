@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).</q>
+<q>All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</q>
 <hr/>
-<p>Last updated at 2021-10-28 02:11:01 UTC</p>
+<p>Last updated at 2021-10-29 02:10:59 UTC</p>
