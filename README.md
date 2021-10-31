@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vision without action is daydream. Action without vision is nightmare..</q>
+<q>He who is not courageous enough to take risks will accomplish nothing in life.</q>
 <hr/>
-<p>Last updated at 2021-10-30 02:13:01 UTC</p>
+<p>Last updated at 2021-10-31 02:17:18 UTC</p>
