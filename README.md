@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it.</q>
+<q>The man who removes a mountain begins by carrying away small stones..</q>
 <hr/>
-<p>Last updated at 2021-11-01 02:18:04 UTC</p>
+<p>Last updated at 2021-11-02 02:18:34 UTC</p>
