@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The man who removes a mountain begins by carrying away small stones..</q>
+<q>When you win, say nothing. When you lose, say less.</q>
 <hr/>
-<p>Last updated at 2021-11-02 02:18:34 UTC</p>
+<p>Last updated at 2021-11-03 02:11:05 UTC</p>
