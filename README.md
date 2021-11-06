@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You will never win if you never begin.</q>
+<q>Win any way as long as you can get away with it. Nice guys finish last.</q>
 <hr/>
-<p>Last updated at 2021-11-05 02:17:30 UTC</p>
+<p>Last updated at 2021-11-06 02:17:37 UTC</p>
