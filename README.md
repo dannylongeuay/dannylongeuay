@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.</q>
+<q>It wasn't raining when Noah built the ark..</q>
 <hr/>
-<p>Last updated at 2021-11-11 02:15:18 UTC</p>
+<p>Last updated at 2021-11-12 02:15:22 UTC</p>
