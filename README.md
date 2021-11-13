@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It wasn't raining when Noah built the ark..</q>
+<q>Winning is nice if you don't lose your integrity in the process.</q>
 <hr/>
-<p>Last updated at 2021-11-12 02:15:22 UTC</p>
+<p>Last updated at 2021-11-13 02:12:42 UTC</p>
