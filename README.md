@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning is nice if you don't lose your integrity in the process.</q>
+<q>Stress is like a pulse, if you have it you are alive.</q>
 <hr/>
-<p>Last updated at 2021-11-13 02:12:42 UTC</p>
+<p>Last updated at 2021-11-14 02:16:23 UTC</p>
