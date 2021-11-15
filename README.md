@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Stress is like a pulse, if you have it you are alive.</q>
+<q>Winning isn't everything.. It's the only thing.</q>
 <hr/>
-<p>Last updated at 2021-11-14 02:16:23 UTC</p>
+<p>Last updated at 2021-11-15 02:13:04 UTC</p>
