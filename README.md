@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning isn't everything.. It's the only thing.</q>
+<q>People who are crazy enough to think they can change the world, are the ones who do.</q>
 <hr/>
-<p>Last updated at 2021-11-15 02:13:04 UTC</p>
+<p>Last updated at 2021-11-16 02:13:24 UTC</p>
