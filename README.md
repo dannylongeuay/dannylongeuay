@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>People who are crazy enough to think they can change the world, are the ones who do.</q>
+<q>If you want to test your memory, try to recall what you were worrying about one year ago today.</q>
 <hr/>
-<p>Last updated at 2021-11-16 02:13:24 UTC</p>
+<p>Last updated at 2021-11-17 02:13:02 UTC</p>
