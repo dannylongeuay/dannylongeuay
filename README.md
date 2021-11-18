@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you want to test your memory, try to recall what you were worrying about one year ago today.</q>
+<q>What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!</q>
 <hr/>
-<p>Last updated at 2021-11-17 02:13:02 UTC</p>
+<p>Last updated at 2021-11-18 02:12:25 UTC</p>
