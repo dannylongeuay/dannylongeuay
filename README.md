@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!</q>
+<q>You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.</q>
 <hr/>
-<p>Last updated at 2021-11-18 02:12:25 UTC</p>
+<p>Last updated at 2021-11-19 02:16:08 UTC</p>
