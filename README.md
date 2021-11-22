@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vision without action is daydream. Action without vision is nightmare..</q>
+<q>From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.</q>
 <hr/>
-<p>Last updated at 2021-11-21 02:17:10 UTC</p>
+<p>Last updated at 2021-11-22 02:16:40 UTC</p>
