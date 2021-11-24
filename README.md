@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>We don't have to do all of it alone. We were never meant to.</q>
+<q>If we ever stop thinking about the person we want to become, we stop learning and taking risks.</q>
 <hr/>
-<p>Last updated at 2021-11-23 00:28:53 UTC</p>
+<p>Last updated at 2021-11-24 00:29:21 UTC</p>
