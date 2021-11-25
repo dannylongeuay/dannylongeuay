@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If we ever stop thinking about the person we want to become, we stop learning and taking risks.</q>
+<q>Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</q>
 <hr/>
-<p>Last updated at 2021-11-24 00:29:21 UTC</p>
+<p>Last updated at 2021-11-25 00:29:29 UTC</p>
