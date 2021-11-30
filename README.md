@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Don't be tempted to break momentum-work through it.</q>
+<q>Luck is a dividend of sweat. The more you sweat, the luckier you get</q>
 <hr/>
-<p>Last updated at 2021-11-29 00:30:05 UTC</p>
+<p>Last updated at 2021-11-30 00:30:34 UTC</p>
