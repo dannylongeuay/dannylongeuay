@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Luck is a dividend of sweat. The more you sweat, the luckier you get</q>
+<q>A man who has no imagination has no wings.</q>
 <hr/>
-<p>Last updated at 2021-11-30 00:30:34 UTC</p>
+<p>Last updated at 2021-12-01 00:31:28 UTC</p>
