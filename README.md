@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>A man who has no imagination has no wings.</q>
+<q>Winning is nice if you don't lose your integrity in the process.</q>
 <hr/>
-<p>Last updated at 2021-12-01 00:31:28 UTC</p>
+<p>Last updated at 2021-12-02 00:29:32 UTC</p>
