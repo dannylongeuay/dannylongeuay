@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning is nice if you don't lose your integrity in the process.</q>
+<q>Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.</q>
 <hr/>
-<p>Last updated at 2021-12-02 00:29:32 UTC</p>
+<p>Last updated at 2021-12-03 00:29:54 UTC</p>
