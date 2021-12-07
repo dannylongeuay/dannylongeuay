@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>I keep asking myself these three questions.. What do you have? What do you want? What will you give up?</q>
+<q>It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</q>
 <hr/>
-<p>Last updated at 2021-12-06 00:31:13 UTC</p>
+<p>Last updated at 2021-12-07 00:31:28 UTC</p>
