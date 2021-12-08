@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</q>
+<q>If you want to make your dreams come true, the first thing you have to do is wake up.</q>
 <hr/>
-<p>Last updated at 2021-12-07 00:31:28 UTC</p>
+<p>Last updated at 2021-12-08 00:32:05 UTC</p>
