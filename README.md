@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.</q>
+<q>Effort only fully releases its reward after a person refuses to quit.</q>
 <hr/>
-<p>Last updated at 2021-12-09 00:30:11 UTC</p>
+<p>Last updated at 2021-12-10 00:31:22 UTC</p>
