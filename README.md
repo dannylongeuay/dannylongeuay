@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Effort only fully releases its reward after a person refuses to quit.</q>
+<q>A show of confidence raises the bar</q>
 <hr/>
-<p>Last updated at 2021-12-10 00:31:22 UTC</p>
+<p>Last updated at 2021-12-11 00:29:19 UTC</p>
