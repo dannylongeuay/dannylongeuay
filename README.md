@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</q>
+<q>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</q>
 <hr/>
-<p>Last updated at 2021-12-13 00:31:01 UTC</p>
+<p>Last updated at 2021-12-14 00:32:34 UTC</p>
