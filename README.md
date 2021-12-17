@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>He who is not courageous enough to take risks will accomplish nothing in life.</q>
+<q>Extend beyond your preconceived limits!</q>
 <hr/>
-<p>Last updated at 2021-12-16 00:30:39 UTC</p>
+<p>Last updated at 2021-12-17 00:33:11 UTC</p>
