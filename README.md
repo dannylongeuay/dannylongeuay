@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</q>
+<q>We don't have to do all of it alone. We were never meant to.</q>
 <hr/>
-<p>Last updated at 2021-12-18 00:31:24 UTC</p>
+<p>Last updated at 2021-12-19 00:33:29 UTC</p>
