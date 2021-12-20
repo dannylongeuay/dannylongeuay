@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>We don't have to do all of it alone. We were never meant to.</q>
+<q>Winning is nice if you don't lose your integrity in the process.</q>
 <hr/>
-<p>Last updated at 2021-12-19 00:33:29 UTC</p>
+<p>Last updated at 2021-12-20 00:32:14 UTC</p>
