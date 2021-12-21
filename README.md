@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning is nice if you don't lose your integrity in the process.</q>
+<q>If you have dreams it is your responsibility to make them happen.</q>
 <hr/>
-<p>Last updated at 2021-12-20 00:32:14 UTC</p>
+<p>Last updated at 2021-12-21 00:33:46 UTC</p>
