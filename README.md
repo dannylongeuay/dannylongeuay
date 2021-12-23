@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The journey of a thousand miles begins with one step.</q>
+<q>A quitter never wins and a winner never quits</q>
 <hr/>
-<p>Last updated at 2021-12-22 00:32:38 UTC</p>
+<p>Last updated at 2021-12-23 00:31:37 UTC</p>
