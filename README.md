@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</q>
+<q>Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</q>
 <hr/>
-<p>Last updated at 2021-12-24 00:30:52 UTC</p>
+<p>Last updated at 2021-12-25 00:30:30 UTC</p>
