@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your life does not get better by chance. It gets better by change.</q>
+<q>Stop complaining. Start creating.</q>
 <hr/>
-<p>Last updated at 2021-12-26 00:33:43 UTC</p>
+<p>Last updated at 2021-12-27 00:31:59 UTC</p>
