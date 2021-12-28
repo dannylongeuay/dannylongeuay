@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Stop complaining. Start creating.</q>
+<q>Our words are buttressed by our deeds, and our deeds are inspired by our convictions.</q>
 <hr/>
-<p>Last updated at 2021-12-27 00:31:59 UTC</p>
+<p>Last updated at 2021-12-28 00:31:35 UTC</p>
