@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Our words are buttressed by our deeds, and our deeds are inspired by our convictions.</q>
+<q>Named must your fear be before banish it you can.</q>
 <hr/>
-<p>Last updated at 2021-12-28 00:31:35 UTC</p>
+<p>Last updated at 2021-12-29 00:31:05 UTC</p>
