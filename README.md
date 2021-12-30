@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Named must your fear be before banish it you can.</q>
+<q>When you win, say nothing. When you lose, say less.</q>
 <hr/>
-<p>Last updated at 2021-12-29 00:31:05 UTC</p>
+<p>Last updated at 2021-12-30 00:31:24 UTC</p>
