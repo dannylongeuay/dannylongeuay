@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When you win, say nothing. When you lose, say less.</q>
+<q>If I work as hard as I can, I wonder how much I can do in a day?</q>
 <hr/>
-<p>Last updated at 2021-12-30 00:31:24 UTC</p>
+<p>Last updated at 2021-12-31 00:32:46 UTC</p>
