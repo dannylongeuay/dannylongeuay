@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If I work as hard as I can, I wonder how much I can do in a day?</q>
+<q>You are very powerful, provided you know how powerful you are.</q>
 <hr/>
-<p>Last updated at 2021-12-31 00:32:46 UTC</p>
+<p>Last updated at 2022-01-01 00:32:45 UTC</p>
