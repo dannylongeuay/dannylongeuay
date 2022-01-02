@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You are very powerful, provided you know how powerful you are.</q>
+<q>Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.</q>
 <hr/>
-<p>Last updated at 2022-01-01 00:32:45 UTC</p>
+<p>Last updated at 2022-01-02 00:33:07 UTC</p>
