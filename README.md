@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.</q>
+<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
 <hr/>
-<p>Last updated at 2022-01-02 00:33:07 UTC</p>
+<p>Last updated at 2022-01-03 00:31:42 UTC</p>
