@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
+<q>It wasn't raining when Noah built the ark..</q>
 <hr/>
-<p>Last updated at 2022-01-03 00:31:42 UTC</p>
+<p>Last updated at 2022-01-04 00:32:19 UTC</p>
