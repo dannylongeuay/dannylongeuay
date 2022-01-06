@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You will never win if you never begin.</q>
+<q>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</q>
 <hr/>
-<p>Last updated at 2022-01-05 00:34:05 UTC</p>
+<p>Last updated at 2022-01-06 00:34:09 UTC</p>
