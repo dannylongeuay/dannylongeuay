@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.</q>
+<q>The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.</q>
 <hr/>
-<p>Last updated at 2022-01-10 00:32:50 UTC</p>
+<p>Last updated at 2022-01-11 00:34:20 UTC</p>
