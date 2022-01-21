@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.</q>
+<q>Unable to retrieve Quote of the Day.</q>
 <hr/>
-<p>Last updated at 2022-01-11 00:34:20 UTC</p>
+<p>Last updated at 2022-01-21 00:30:55 UTC</p>
