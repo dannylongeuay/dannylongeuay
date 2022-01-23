@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.</q>
+<q>The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.</q>
 <hr/>
-<p>Last updated at 2022-01-22 00:29:17 UTC</p>
+<p>Last updated at 2022-01-23 00:30:32 UTC</p>
