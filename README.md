@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</q>
+<q>Great things are done by a series of small things brought together.</q>
 <hr/>
-<p>Last updated at 2022-01-24 00:30:24 UTC</p>
+<p>Last updated at 2022-01-25 00:33:52 UTC</p>
