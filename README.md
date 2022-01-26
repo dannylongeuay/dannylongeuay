@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Great things are done by a series of small things brought together.</q>
+<q>If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.</q>
 <hr/>
-<p>Last updated at 2022-01-25 00:33:52 UTC</p>
+<p>Last updated at 2022-01-26 00:34:29 UTC</p>
