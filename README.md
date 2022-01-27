@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.</q>
+<q>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</q>
 <hr/>
-<p>Last updated at 2022-01-26 00:34:29 UTC</p>
+<p>Last updated at 2022-01-27 00:30:37 UTC</p>
