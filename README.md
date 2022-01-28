@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</q>
+<q>Some men see things as they are and say why.. I dream things that never were and say why not.</q>
 <hr/>
-<p>Last updated at 2022-01-27 00:30:37 UTC</p>
+<p>Last updated at 2022-01-28 00:30:22 UTC</p>
