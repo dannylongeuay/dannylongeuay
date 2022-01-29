@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Some men see things as they are and say why.. I dream things that never were and say why not.</q>
+<q>People rise to the occasion without hesitation when they feel inspired and challenged.</q>
 <hr/>
-<p>Last updated at 2022-01-28 00:30:22 UTC</p>
+<p>Last updated at 2022-01-29 00:28:51 UTC</p>
