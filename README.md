@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>People rise to the occasion without hesitation when they feel inspired and challenged.</q>
+<q>When you win, say nothing. When you lose, say less.</q>
 <hr/>
-<p>Last updated at 2022-01-29 00:28:51 UTC</p>
+<p>Last updated at 2022-01-30 00:31:27 UTC</p>
