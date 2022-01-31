@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When you win, say nothing. When you lose, say less.</q>
+<q>I am an optimist. It does not seem too much use being anything else..</q>
 <hr/>
-<p>Last updated at 2022-01-30 00:31:27 UTC</p>
+<p>Last updated at 2022-01-31 00:30:44 UTC</p>
