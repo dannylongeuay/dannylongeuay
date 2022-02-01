@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>I am an optimist. It does not seem too much use being anything else..</q>
+<q>The man who has confidence in himself gains the confidence of others.</q>
 <hr/>
-<p>Last updated at 2022-01-31 00:30:44 UTC</p>
+<p>Last updated at 2022-02-01 00:32:05 UTC</p>
