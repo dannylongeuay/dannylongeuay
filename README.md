@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The man who has confidence in himself gains the confidence of others.</q>
+<q>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.</q>
 <hr/>
-<p>Last updated at 2022-02-01 00:32:05 UTC</p>
+<p>Last updated at 2022-02-02 00:33:13 UTC</p>
