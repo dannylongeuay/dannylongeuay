@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.</q>
+<q>Luck is a dividend of sweat. The more you sweat, the luckier you get</q>
 <hr/>
-<p>Last updated at 2022-02-02 00:33:13 UTC</p>
+<p>Last updated at 2022-02-03 00:30:43 UTC</p>
