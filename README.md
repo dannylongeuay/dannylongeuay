@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Luck is a dividend of sweat. The more you sweat, the luckier you get</q>
+<q>The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.</q>
 <hr/>
-<p>Last updated at 2022-02-03 00:30:43 UTC</p>
+<p>Last updated at 2022-02-04 00:32:05 UTC</p>
