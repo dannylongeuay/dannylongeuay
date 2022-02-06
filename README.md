@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Extend beyond your preconceived limits!</q>
+<q>Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.</q>
 <hr/>
-<p>Last updated at 2022-02-05 00:26:15 UTC</p>
+<p>Last updated at 2022-02-06 00:37:28 UTC</p>
