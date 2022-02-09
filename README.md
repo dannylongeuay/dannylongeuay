@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.</q>
+<q>Unable to retrieve Quote of the Day.</q>
 <hr/>
-<p>Last updated at 2022-02-08 00:32:26 UTC</p>
+<p>Last updated at 2022-02-09 00:35:47 UTC</p>
