@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.</q>
+<q>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</q>
 <hr/>
-<p>Last updated at 2022-02-10 00:32:45 UTC</p>
+<p>Last updated at 2022-02-11 00:35:21 UTC</p>
