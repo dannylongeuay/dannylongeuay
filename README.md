@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</q>
+<q>Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.</q>
 <hr/>
-<p>Last updated at 2022-02-11 00:35:21 UTC</p>
+<p>Last updated at 2022-02-12 00:35:05 UTC</p>
