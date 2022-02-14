@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.</q>
+<q>We lose ourselves in the things we love. We find ourselves there, too.</q>
 <hr/>
-<p>Last updated at 2022-02-13 00:35:42 UTC</p>
+<p>Last updated at 2022-02-14 00:31:56 UTC</p>
