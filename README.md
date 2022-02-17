@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you like what you do, and you're lucky enough to be good at it, do it for that reason.</q>
+<q>The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</q>
 <hr/>
-<p>Last updated at 2022-02-16 00:32:29 UTC</p>
+<p>Last updated at 2022-02-17 00:30:39 UTC</p>
