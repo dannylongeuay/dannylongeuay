@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Great things are done by a series of small things brought together.</q>
+<q>Excellence prospers in the absence of excuses.</q>
 <hr/>
-<p>Last updated at 2022-02-18 00:37:57 UTC</p>
+<p>Last updated at 2022-02-19 00:37:13 UTC</p>
