@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Excellence prospers in the absence of excuses.</q>
+<q>A quitter never wins and a winner never quits</q>
 <hr/>
-<p>Last updated at 2022-02-19 00:37:13 UTC</p>
+<p>Last updated at 2022-02-20 00:40:11 UTC</p>
