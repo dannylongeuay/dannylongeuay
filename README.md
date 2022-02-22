@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</q>
+<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
 <hr/>
-<p>Last updated at 2022-02-21 00:34:54 UTC</p>
+<p>Last updated at 2022-02-22 00:34:53 UTC</p>
