@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>People who are crazy enough to think they can change the world, are the ones who do.</q>
+<q>By failing to prepare, you are preparing to fail.</q>
 <hr/>
-<p>Last updated at 2022-02-24 00:37:35 UTC</p>
+<p>Last updated at 2022-02-25 00:41:13 UTC</p>
