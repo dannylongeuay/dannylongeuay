@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Predicting Rain Doesn't Count. Building Arks Does.</q>
+<q>An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</q>
 <hr/>
-<p>Last updated at 2022-02-28 00:38:18 UTC</p>
+<p>Last updated at 2022-03-01 00:41:31 UTC</p>
