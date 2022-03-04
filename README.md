@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You make a living by what you earn; you make a life by what you give.</q>
+<q>Let our advance worrying become advance thinking and planning.</q>
 <hr/>
-<p>Last updated at 2022-03-03 00:39:36 UTC</p>
+<p>Last updated at 2022-03-04 00:42:22 UTC</p>
