@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Let our advance worrying become advance thinking and planning.</q>
+<q>When you win, say nothing. When you lose, say less.</q>
 <hr/>
-<p>Last updated at 2022-03-04 00:42:22 UTC</p>
+<p>Last updated at 2022-03-05 00:40:22 UTC</p>
