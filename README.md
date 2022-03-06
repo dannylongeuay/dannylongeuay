@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When you win, say nothing. When you lose, say less.</q>
+<q>Your life does not get better by chance. It gets better by change.</q>
 <hr/>
-<p>Last updated at 2022-03-05 00:40:22 UTC</p>
+<p>Last updated at 2022-03-06 00:38:28 UTC</p>
