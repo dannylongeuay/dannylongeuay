@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your life does not get better by chance. It gets better by change.</q>
+<q>I wanted to achieve something essential in life, something that is not measured by money or position in society. The mountains are not stadiums where I satisfy my ambitions to achieve. They are my cathedrals, the houses of my religion. In the mountains I attempt to understand my life. They are the way I practice my religion. In the mountains I celebrate creation, on each journey I am reborn.</q>
 <hr/>
-<p>Last updated at 2022-03-06 00:38:28 UTC</p>
+<p>Last updated at 2022-03-07 00:38:04 UTC</p>
