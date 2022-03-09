@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</q>
+<q>Unable to retrieve Quote of the Day.</q>
 <hr/>
-<p>Last updated at 2022-03-08 00:38:08 UTC</p>
+<p>Last updated at 2022-03-09 00:39:02 UTC</p>
