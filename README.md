@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Great things are done by a series of small things brought together.</q>
+<q>If you cannot do great things, do small things in a great way.</q>
 <hr/>
-<p>Last updated at 2022-03-12 00:36:07 UTC</p>
+<p>Last updated at 2022-03-13 00:37:13 UTC</p>
