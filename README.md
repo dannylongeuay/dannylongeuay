@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you cannot do great things, do small things in a great way.</q>
+<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
 <hr/>
-<p>Last updated at 2022-03-13 00:37:13 UTC</p>
+<p>Last updated at 2022-03-14 00:40:38 UTC</p>
