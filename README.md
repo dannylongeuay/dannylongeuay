@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
+<q>Your overnight success story is always a result of everything you have done in your life until that moment.</q>
 <hr/>
-<p>Last updated at 2022-03-14 00:40:38 UTC</p>
+<p>Last updated at 2022-03-15 00:43:16 UTC</p>
