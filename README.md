@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your overnight success story is always a result of everything you have done in your life until that moment.</q>
+<q>The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better</q>
 <hr/>
-<p>Last updated at 2022-03-15 00:43:16 UTC</p>
+<p>Last updated at 2022-03-16 00:40:17 UTC</p>
