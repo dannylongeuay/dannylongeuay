@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Stop complaining. Start creating.</q>
+<q>Let our advance worrying become advance thinking and planning.</q>
 <hr/>
-<p>Last updated at 2022-03-20 00:39:00 UTC</p>
+<p>Last updated at 2022-03-21 00:39:08 UTC</p>
