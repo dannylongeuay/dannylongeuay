@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Let our advance worrying become advance thinking and planning.</q>
+<q>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</q>
 <hr/>
-<p>Last updated at 2022-03-21 00:39:08 UTC</p>
+<p>Last updated at 2022-03-22 00:40:05 UTC</p>
