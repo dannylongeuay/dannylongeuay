@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning is nice if you don't lose your integrity in the process.</q>
+<q>The real opportunity for success lies within the person and not in the job.</q>
 <hr/>
-<p>Last updated at 2022-03-23 00:44:58 UTC</p>
+<p>Last updated at 2022-03-24 00:42:24 UTC</p>
