@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Many a false step was made by standing still.</q>
+<q>Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.</q>
 <hr/>
-<p>Last updated at 2022-03-26 00:40:30 UTC</p>
+<p>Last updated at 2022-03-27 00:44:55 UTC</p>
