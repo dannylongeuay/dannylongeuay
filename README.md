@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>He who is not courageous enough to take risks will accomplish nothing in life.</q>
+<q>The determination to win is the better part of winning.</q>
 <hr/>
-<p>Last updated at 2022-03-28 00:41:26 UTC</p>
+<p>Last updated at 2022-03-29 00:45:52 UTC</p>
