@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The determination to win is the better part of winning.</q>
+<q>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</q>
 <hr/>
-<p>Last updated at 2022-03-29 00:45:52 UTC</p>
+<p>Last updated at 2022-03-30 00:42:05 UTC</p>
