@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</q>
+<q>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.</q>
 <hr/>
-<p>Last updated at 2022-03-30 00:42:05 UTC</p>
+<p>Last updated at 2022-03-31 00:42:29 UTC</p>
