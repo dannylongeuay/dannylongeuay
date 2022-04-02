@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).</q>
+<q>Unable to retrieve Quote of the Day.</q>
 <hr/>
-<p>Last updated at 2022-04-01 00:46:47 UTC</p>
+<p>Last updated at 2022-04-02 00:41:14 UTC</p>
