@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.</q>
+<q>If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.</q>
 <hr/>
-<p>Last updated at 2022-04-03 00:45:14 UTC</p>
+<p>Last updated at 2022-04-04 00:42:06 UTC</p>
