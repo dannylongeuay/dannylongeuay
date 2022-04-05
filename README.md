@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.</q>
+<q>We don't have to do all of it alone. We were never meant to.</q>
 <hr/>
-<p>Last updated at 2022-04-04 00:42:06 UTC</p>
+<p>Last updated at 2022-04-05 00:42:05 UTC</p>
