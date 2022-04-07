@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning isn't everything.. It's the only thing.</q>
+<q>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</q>
 <hr/>
-<p>Last updated at 2022-04-06 00:44:54 UTC</p>
+<p>Last updated at 2022-04-07 00:44:11 UTC</p>
