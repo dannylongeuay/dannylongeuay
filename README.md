@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</q>
+<q>When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.</q>
 <hr/>
-<p>Last updated at 2022-04-07 00:44:11 UTC</p>
+<p>Last updated at 2022-04-08 00:44:21 UTC</p>
