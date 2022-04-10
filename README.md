@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</q>
+<q>The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.</q>
 <hr/>
-<p>Last updated at 2022-04-09 00:41:50 UTC</p>
+<p>Last updated at 2022-04-10 00:44:32 UTC</p>
