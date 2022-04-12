@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>We lose ourselves in the things we love. We find ourselves there, too.</q>
+<q>It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</q>
 <hr/>
-<p>Last updated at 2022-04-11 00:44:16 UTC</p>
+<p>Last updated at 2022-04-12 00:41:19 UTC</p>
