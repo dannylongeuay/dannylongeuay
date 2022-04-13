@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</q>
+<q>Whether you think you can or think you can't, you're right..</q>
 <hr/>
-<p>Last updated at 2022-04-12 00:41:19 UTC</p>
+<p>Last updated at 2022-04-13 00:48:51 UTC</p>
