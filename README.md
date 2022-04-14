@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Whether you think you can or think you can't, you're right..</q>
+<q>I am an optimist. It does not seem too much use being anything else..</q>
 <hr/>
-<p>Last updated at 2022-04-13 00:48:51 UTC</p>
+<p>Last updated at 2022-04-14 00:50:04 UTC</p>
