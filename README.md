@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>I am an optimist. It does not seem too much use being anything else..</q>
+<q>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</q>
 <hr/>
-<p>Last updated at 2022-04-14 00:50:04 UTC</p>
+<p>Last updated at 2022-04-15 00:45:21 UTC</p>
