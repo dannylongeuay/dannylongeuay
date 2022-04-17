@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you like what you do, and you're lucky enough to be good at it, do it for that reason.</q>
+<q>Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.</q>
 <hr/>
-<p>Last updated at 2022-04-16 00:43:46 UTC</p>
+<p>Last updated at 2022-04-17 00:46:25 UTC</p>
