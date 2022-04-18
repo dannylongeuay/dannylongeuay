@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.</q>
+<q>Think in terms of opportunities and solutions instead of problems, disappointment, and failure.</q>
 <hr/>
-<p>Last updated at 2022-04-17 00:46:25 UTC</p>
+<p>Last updated at 2022-04-18 00:53:41 UTC</p>
