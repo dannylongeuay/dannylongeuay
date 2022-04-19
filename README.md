@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Think in terms of opportunities and solutions instead of problems, disappointment, and failure.</q>
+<q>Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.</q>
 <hr/>
-<p>Last updated at 2022-04-18 00:53:41 UTC</p>
+<p>Last updated at 2022-04-19 00:50:19 UTC</p>
