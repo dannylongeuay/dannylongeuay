@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.</q>
+<q>It wasn't raining when Noah built the ark..</q>
 <hr/>
-<p>Last updated at 2022-04-21 00:51:03 UTC</p>
+<p>Last updated at 2022-04-22 00:51:44 UTC</p>
