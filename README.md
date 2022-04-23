@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It wasn't raining when Noah built the ark..</q>
+<q>An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</q>
 <hr/>
-<p>Last updated at 2022-04-22 00:51:44 UTC</p>
+<p>Last updated at 2022-04-23 00:44:28 UTC</p>
