@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.</q>
+<q>Do not be afraid to give up the good for the great.</q>
 <hr/>
-<p>Last updated at 2022-04-24 00:44:14 UTC</p>
+<p>Last updated at 2022-04-25 00:41:55 UTC</p>
