@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Do not be afraid to give up the good for the great.</q>
+<q>Those who know how to win are much more numerous than those who know how to make proper use of their victories</q>
 <hr/>
-<p>Last updated at 2022-04-25 00:41:55 UTC</p>
+<p>Last updated at 2022-04-26 00:49:42 UTC</p>
