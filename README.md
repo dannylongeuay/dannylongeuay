@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Those who know how to win are much more numerous than those who know how to make proper use of their victories</q>
+<q>Vision without action is daydream. Action without vision is nightmare..</q>
 <hr/>
-<p>Last updated at 2022-04-26 00:49:42 UTC</p>
+<p>Last updated at 2022-04-27 00:57:30 UTC</p>
