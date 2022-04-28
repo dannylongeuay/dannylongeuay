@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vision without action is daydream. Action without vision is nightmare..</q>
+<q>The real opportunity for success lies within the person and not in the job.</q>
 <hr/>
-<p>Last updated at 2022-04-27 00:57:30 UTC</p>
+<p>Last updated at 2022-04-28 01:05:54 UTC</p>
