@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The real opportunity for success lies within the person and not in the job.</q>
+<q>Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.</q>
 <hr/>
-<p>Last updated at 2022-04-28 01:05:54 UTC</p>
+<p>Last updated at 2022-04-29 00:49:46 UTC</p>
