@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Senior Site Reliability Engineer</h3>
+<h3 align="center">Site Reliability Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,4 @@
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
 <q>It is easy to sit up and take notice, What is difficult is getting up and taking action.</q>
 <hr/>
-<p>Last updated at 2022-05-03 00:54:34 UTC</p>
+<p>Last updated at 2022-05-03 18:30:47 UTC</p>
