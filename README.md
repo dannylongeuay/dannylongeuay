@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It is easy to sit up and take notice, What is difficult is getting up and taking action.</q>
+<q>You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.</q>
 <hr/>
-<p>Last updated at 2022-05-03 18:30:47 UTC</p>
+<p>Last updated at 2022-05-04 00:51:08 UTC</p>
