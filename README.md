@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.</q>
+<q>Winning is nice if you don't lose your integrity in the process.</q>
 <hr/>
-<p>Last updated at 2022-05-04 00:51:08 UTC</p>
+<p>Last updated at 2022-05-05 00:52:19 UTC</p>
