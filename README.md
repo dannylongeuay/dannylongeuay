@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning is nice if you don't lose your integrity in the process.</q>
+<q>Excellence prospers in the absence of excuses.</q>
 <hr/>
-<p>Last updated at 2022-05-05 00:52:19 UTC</p>
+<p>Last updated at 2022-05-06 00:44:04 UTC</p>
