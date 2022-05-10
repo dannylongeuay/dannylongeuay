@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you are born poor, it is not your mistake. But if you die poor it is your mistake.</q>
+<q>If you don't have confidence, you'll always find a way not to win</q>
 <hr/>
-<p>Last updated at 2022-05-09 00:51:38 UTC</p>
+<p>Last updated at 2022-05-10 00:46:41 UTC</p>
