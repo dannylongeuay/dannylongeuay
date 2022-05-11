@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you don't have confidence, you'll always find a way not to win</q>
+<q>We don't have to do all of it alone. We were never meant to.</q>
 <hr/>
-<p>Last updated at 2022-05-10 00:46:41 UTC</p>
+<p>Last updated at 2022-05-11 00:56:20 UTC</p>
