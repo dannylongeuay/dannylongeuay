@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>We don't have to do all of it alone. We were never meant to.</q>
+<q>People who are crazy enough to think they can change the world, are the ones who do.</q>
 <hr/>
-<p>Last updated at 2022-05-11 00:56:20 UTC</p>
+<p>Last updated at 2022-05-12 00:51:40 UTC</p>
