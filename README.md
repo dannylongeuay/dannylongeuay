@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>People who are crazy enough to think they can change the world, are the ones who do.</q>
+<q>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</q>
 <hr/>
-<p>Last updated at 2022-05-12 00:51:40 UTC</p>
+<p>Last updated at 2022-05-13 00:58:22 UTC</p>
