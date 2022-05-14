@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</q>
+<q>If you have dreams it is your responsibility to make them happen.</q>
 <hr/>
-<p>Last updated at 2022-05-13 00:58:22 UTC</p>
+<p>Last updated at 2022-05-14 00:58:50 UTC</p>
