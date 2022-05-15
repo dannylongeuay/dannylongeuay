@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you have dreams it is your responsibility to make them happen.</q>
+<q>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</q>
 <hr/>
-<p>Last updated at 2022-05-14 00:58:50 UTC</p>
+<p>Last updated at 2022-05-15 01:02:06 UTC</p>
