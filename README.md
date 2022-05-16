@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</q>
+<q>Remove the temptation to settle for anything short of what you deserve.</q>
 <hr/>
-<p>Last updated at 2022-05-15 01:02:06 UTC</p>
+<p>Last updated at 2022-05-16 00:53:10 UTC</p>
