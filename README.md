@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.</q>
+<q>The determination to win is the better part of winning.</q>
 <hr/>
-<p>Last updated at 2022-05-17 00:50:15 UTC</p>
+<p>Last updated at 2022-05-18 00:41:36 UTC</p>
