@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The determination to win is the better part of winning.</q>
+<q>Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.</q>
 <hr/>
-<p>Last updated at 2022-05-18 00:41:36 UTC</p>
+<p>Last updated at 2022-05-19 00:59:02 UTC</p>
