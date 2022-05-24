@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.</q>
+<q>Your life does not get better by chance. It gets better by change.</q>
 <hr/>
-<p>Last updated at 2022-05-23 00:48:03 UTC</p>
+<p>Last updated at 2022-05-24 00:55:18 UTC</p>
