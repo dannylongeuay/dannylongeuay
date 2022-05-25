@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your life does not get better by chance. It gets better by change.</q>
+<q>Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.</q>
 <hr/>
-<p>Last updated at 2022-05-24 00:55:18 UTC</p>
+<p>Last updated at 2022-05-25 00:53:58 UTC</p>
