@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vision without action is daydream. Action without vision is nightmare..</q>
+<q>There's such a thin line between winning and losing.</q>
 <hr/>
-<p>Last updated at 2022-05-28 00:50:50 UTC</p>
+<p>Last updated at 2022-05-29 00:53:43 UTC</p>
