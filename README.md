@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When there is no distraction, there is clarity.</q>
+<q>Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.</q>
 <hr/>
-<p>Last updated at 2022-05-30 00:56:07 UTC</p>
+<p>Last updated at 2022-05-31 00:53:12 UTC</p>
