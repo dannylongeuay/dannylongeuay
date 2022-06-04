@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Don't be tempted to break momentum-work through it.</q>
+<q>Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.</q>
 <hr/>
-<p>Last updated at 2022-06-03 00:43:10 UTC</p>
+<p>Last updated at 2022-06-04 00:47:23 UTC</p>
