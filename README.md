@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.</q>
+<q>Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</q>
 <hr/>
-<p>Last updated at 2022-06-04 00:47:23 UTC</p>
+<p>Last updated at 2022-06-05 00:56:03 UTC</p>
