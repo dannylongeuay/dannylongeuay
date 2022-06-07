@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.</q>
+<q>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!</q>
 <hr/>
-<p>Last updated at 2022-06-06 00:52:46 UTC</p>
+<p>Last updated at 2022-06-07 00:42:39 UTC</p>
