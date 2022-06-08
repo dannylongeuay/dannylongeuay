@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!</q>
+<q>If you like what you do, and you're lucky enough to be good at it, do it for that reason.</q>
 <hr/>
-<p>Last updated at 2022-06-07 00:42:39 UTC</p>
+<p>Last updated at 2022-06-08 00:50:11 UTC</p>
