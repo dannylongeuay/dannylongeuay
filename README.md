@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</q>
+<q>Failure is the condiment that gives success its flavor.</q>
 <hr/>
-<p>Last updated at 2022-06-10 00:53:15 UTC</p>
+<p>Last updated at 2022-06-11 00:48:01 UTC</p>
