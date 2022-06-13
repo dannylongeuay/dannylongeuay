@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.</q>
+<q>Sustenance! Your health is always the best prescription.</q>
 <hr/>
-<p>Last updated at 2022-06-12 00:53:17 UTC</p>
+<p>Last updated at 2022-06-13 00:53:36 UTC</p>
