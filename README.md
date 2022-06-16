@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.</q>
+<q>When you win, say nothing. When you lose, say less.</q>
 <hr/>
-<p>Last updated at 2022-06-15 00:54:37 UTC</p>
+<p>Last updated at 2022-06-16 00:52:57 UTC</p>
