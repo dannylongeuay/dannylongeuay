@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When you win, say nothing. When you lose, say less.</q>
+<q>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</q>
 <hr/>
-<p>Last updated at 2022-06-16 00:52:57 UTC</p>
+<p>Last updated at 2022-06-17 00:52:49 UTC</p>
