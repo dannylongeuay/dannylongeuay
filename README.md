@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</q>
+<q>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</q>
 <hr/>
-<p>Last updated at 2022-06-17 00:52:49 UTC</p>
+<p>Last updated at 2022-06-18 00:52:25 UTC</p>
