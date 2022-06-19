@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</q>
+<q>Named must your fear be before banish it you can.</q>
 <hr/>
-<p>Last updated at 2022-06-18 00:52:25 UTC</p>
+<p>Last updated at 2022-06-19 00:52:45 UTC</p>
