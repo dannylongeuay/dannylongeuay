@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Named must your fear be before banish it you can.</q>
+<q>People rise to the occasion without hesitation when they feel inspired and challenged.</q>
 <hr/>
-<p>Last updated at 2022-06-19 00:52:45 UTC</p>
+<p>Last updated at 2022-06-20 00:53:14 UTC</p>
