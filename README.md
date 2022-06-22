@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>What you do speaks so loudly that I cannot hear what you say.</q>
+<q>You will never win if you never begin.</q>
 <hr/>
-<p>Last updated at 2022-06-21 00:53:35 UTC</p>
+<p>Last updated at 2022-06-22 00:57:43 UTC</p>
