@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>People who are crazy enough to think they can change the world, are the ones who do.</q>
+<q>Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</q>
 <hr/>
-<p>Last updated at 2022-06-24 00:52:49 UTC</p>
+<p>Last updated at 2022-06-25 00:52:14 UTC</p>
