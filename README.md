@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</q>
+<q>Some men see things as they are and say why.. I dream things that never were and say why not.</q>
 <hr/>
-<p>Last updated at 2022-06-25 00:52:14 UTC</p>
+<p>Last updated at 2022-06-26 00:56:39 UTC</p>
