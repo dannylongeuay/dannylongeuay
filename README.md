@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You must be the change you want to see in the world..</q>
+<q>A show of confidence raises the bar</q>
 <hr/>
-<p>Last updated at 2022-06-27 00:58:04 UTC</p>
+<p>Last updated at 2022-06-28 00:55:29 UTC</p>
