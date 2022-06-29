@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>A show of confidence raises the bar</q>
+<q>It is easy to sit up and take notice, What is difficult is getting up and taking action.</q>
 <hr/>
-<p>Last updated at 2022-06-28 00:55:29 UTC</p>
+<p>Last updated at 2022-06-29 00:52:30 UTC</p>
