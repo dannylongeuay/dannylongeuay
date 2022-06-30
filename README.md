@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It is easy to sit up and take notice, What is difficult is getting up and taking action.</q>
+<q>It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</q>
 <hr/>
-<p>Last updated at 2022-06-29 00:52:30 UTC</p>
+<p>Last updated at 2022-06-30 00:52:58 UTC</p>
