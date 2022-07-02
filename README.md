@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning isn't everything.. It's the only thing.</q>
+<q>Named must your fear be before banish it you can.</q>
 <hr/>
-<p>Last updated at 2022-07-01 01:00:37 UTC</p>
+<p>Last updated at 2022-07-02 00:53:52 UTC</p>
