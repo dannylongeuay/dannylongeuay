@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Sustenance! Your health is always the best prescription.</q>
+<q>When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again'-my gut reaction is, 'What a badass.'</q>
 <hr/>
-<p>Last updated at 2022-07-05 00:54:56 UTC</p>
+<p>Last updated at 2022-07-06 00:58:17 UTC</p>
