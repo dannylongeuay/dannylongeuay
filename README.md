@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You are very powerful, provided you know how powerful you are.</q>
+<q>Whether you think you can or think you can't, you're right..</q>
 <hr/>
-<p>Last updated at 2022-07-09 00:48:01 UTC</p>
+<p>Last updated at 2022-07-10 00:59:55 UTC</p>
