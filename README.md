@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Whether you think you can or think you can't, you're right..</q>
+<q>You must be the change you want to see in the world..</q>
 <hr/>
-<p>Last updated at 2022-07-10 00:59:55 UTC</p>
+<p>Last updated at 2022-07-11 00:57:55 UTC</p>
