@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You must be the change you want to see in the world..</q>
+<q>Perfection is not attainable, but if we chase perfection we can catch excellence..</q>
 <hr/>
-<p>Last updated at 2022-07-11 00:57:55 UTC</p>
+<p>Last updated at 2022-07-12 00:58:25 UTC</p>
