@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It is easy to sit up and take notice, What is difficult is getting up and taking action.</q>
+<q>Let go of who you think you're supposed to be; embrace who you are.</q>
 <hr/>
-<p>Last updated at 2022-07-13 00:54:19 UTC</p>
+<p>Last updated at 2022-07-14 00:58:11 UTC</p>
