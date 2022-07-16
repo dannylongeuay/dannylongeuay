@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Remember that you are very special, no one can play your role better than you.</q>
+<q>All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</q>
 <hr/>
-<p>Last updated at 2022-07-15 01:02:02 UTC</p>
+<p>Last updated at 2022-07-16 00:56:24 UTC</p>
