@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.</q>
+<q>I know for sure that what we dwell on is who we become.</q>
 <hr/>
-<p>Last updated at 2022-07-17 00:58:49 UTC</p>
+<p>Last updated at 2022-07-18 00:54:43 UTC</p>
