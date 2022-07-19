@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>I know for sure that what we dwell on is who we become.</q>
+<q>It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.</q>
 <hr/>
-<p>Last updated at 2022-07-18 00:54:43 UTC</p>
+<p>Last updated at 2022-07-19 01:01:03 UTC</p>
