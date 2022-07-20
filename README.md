@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.</q>
+<q>Never waste your time trying to explain who you are to people who are committed to misunderstanding you.</q>
 <hr/>
-<p>Last updated at 2022-07-19 01:01:03 UTC</p>
+<p>Last updated at 2022-07-20 00:52:59 UTC</p>
