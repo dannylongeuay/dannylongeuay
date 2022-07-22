@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>A quitter never wins and a winner never quits</q>
+<q>Sometimes the bravest and most important thing you can do is just show up.</q>
 <hr/>
-<p>Last updated at 2022-07-21 00:57:47 UTC</p>
+<p>Last updated at 2022-07-22 00:59:18 UTC</p>
