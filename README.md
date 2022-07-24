@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</q>
+<q>Don't be tempted to break momentum-work through it.</q>
 <hr/>
-<p>Last updated at 2022-07-23 00:56:11 UTC</p>
+<p>Last updated at 2022-07-24 00:59:33 UTC</p>
