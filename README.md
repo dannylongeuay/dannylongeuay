@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Don't be tempted to break momentum-work through it.</q>
+<q>You will never win if you never begin.</q>
 <hr/>
-<p>Last updated at 2022-07-24 00:59:33 UTC</p>
+<p>Last updated at 2022-07-25 00:55:24 UTC</p>
