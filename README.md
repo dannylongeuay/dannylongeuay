@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Some men see things as they are and say why.. I dream things that never were and say why not.</q>
+<q>Perfection is not attainable, but if we chase perfection we can catch excellence..</q>
 <hr/>
-<p>Last updated at 2022-07-26 00:58:23 UTC</p>
+<p>Last updated at 2022-07-27 01:00:12 UTC</p>
