@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning is nice if you don't lose your integrity in the process.</q>
+<q>An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</q>
 <hr/>
-<p>Last updated at 2022-07-28 00:56:57 UTC</p>
+<p>Last updated at 2022-07-29 00:58:21 UTC</p>
