@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.</q>
+<q>If you have dreams it is your responsibility to make them happen.</q>
 <hr/>
-<p>Last updated at 2022-07-29 00:58:21 UTC</p>
+<p>Last updated at 2022-07-30 00:51:34 UTC</p>
