@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you have dreams it is your responsibility to make them happen.</q>
+<q>Where there is ruin, there is hope for a treasure.</q>
 <hr/>
-<p>Last updated at 2022-07-30 00:51:34 UTC</p>
+<p>Last updated at 2022-07-31 00:57:38 UTC</p>
