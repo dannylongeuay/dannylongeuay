@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Where there is ruin, there is hope for a treasure.</q>
+<q>You are very powerful, provided you know how powerful you are.</q>
 <hr/>
-<p>Last updated at 2022-07-31 00:57:38 UTC</p>
+<p>Last updated at 2022-08-01 01:04:20 UTC</p>
