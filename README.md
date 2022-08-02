@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You are very powerful, provided you know how powerful you are.</q>
+<q>Beyond a certain point there is no return. This point has to be reached.</q>
 <hr/>
-<p>Last updated at 2022-08-01 01:04:20 UTC</p>
+<p>Last updated at 2022-08-02 01:02:28 UTC</p>
