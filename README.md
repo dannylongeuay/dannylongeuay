@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.</q>
+<q>It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</q>
 <hr/>
-<p>Last updated at 2022-08-03 00:59:40 UTC</p>
+<p>Last updated at 2022-08-04 00:59:10 UTC</p>
