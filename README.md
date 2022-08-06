@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.</q>
+<q>Vision without action is daydream. Action without vision is nightmare..</q>
 <hr/>
-<p>Last updated at 2022-08-05 01:05:34 UTC</p>
+<p>Last updated at 2022-08-06 00:54:31 UTC</p>
