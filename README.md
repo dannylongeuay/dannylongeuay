@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Excellence prospers in the absence of excuses.</q>
+<q>Whether you think you can or think you can't, you're right..</q>
 <hr/>
-<p>Last updated at 2022-08-07 01:00:22 UTC</p>
+<p>Last updated at 2022-08-08 00:52:33 UTC</p>
