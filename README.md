@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Whether you think you can or think you can't, you're right..</q>
+<q>When you win, say nothing. When you lose, say less.</q>
 <hr/>
-<p>Last updated at 2022-08-08 00:52:33 UTC</p>
+<p>Last updated at 2022-08-09 00:59:20 UTC</p>
