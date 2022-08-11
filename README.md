@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If I work as hard as I can, I wonder how much I can do in a day?</q>
+<q>Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</q>
 <hr/>
-<p>Last updated at 2022-08-10 00:56:45 UTC</p>
+<p>Last updated at 2022-08-11 00:54:08 UTC</p>
