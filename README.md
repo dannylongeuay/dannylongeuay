@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</q>
+<q>A man who has no imagination has no wings.</q>
 <hr/>
-<p>Last updated at 2022-08-11 00:54:08 UTC</p>
+<p>Last updated at 2022-08-12 00:53:48 UTC</p>
