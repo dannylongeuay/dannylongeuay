@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.</q>
+<q>Find a purpose in life so big it will challenge every capacity to be at your best.</q>
 <hr/>
-<p>Last updated at 2022-08-14 00:56:31 UTC</p>
+<p>Last updated at 2022-08-15 00:57:15 UTC</p>
