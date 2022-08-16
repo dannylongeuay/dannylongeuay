@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Find a purpose in life so big it will challenge every capacity to be at your best.</q>
+<q>Do the best you can until you know better. Then when you know better, do better.</q>
 <hr/>
-<p>Last updated at 2022-08-15 00:57:15 UTC</p>
+<p>Last updated at 2022-08-16 01:01:53 UTC</p>
