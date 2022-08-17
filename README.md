@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Do the best you can until you know better. Then when you know better, do better.</q>
+<q>All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</q>
 <hr/>
-<p>Last updated at 2022-08-16 01:01:53 UTC</p>
+<p>Last updated at 2022-08-17 01:00:33 UTC</p>
