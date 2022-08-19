@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</q>
+<q>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.</q>
 <hr/>
-<p>Last updated at 2022-08-18 01:00:49 UTC</p>
+<p>Last updated at 2022-08-19 00:58:46 UTC</p>
