@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Perfection is not attainable, but if we chase perfection we can catch excellence..</q>
+<q>Winning is nice if you don't lose your integrity in the process.</q>
 <hr/>
-<p>Last updated at 2022-08-20 00:53:45 UTC</p>
+<p>Last updated at 2022-08-21 00:56:24 UTC</p>
