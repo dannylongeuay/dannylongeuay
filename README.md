@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You must be the change you want to see in the world..</q>
+<q>You make a living by what you earn; you make a life by what you give.</q>
 <hr/>
-<p>Last updated at 2022-08-23 01:05:06 UTC</p>
+<p>Last updated at 2022-08-24 00:57:35 UTC</p>
