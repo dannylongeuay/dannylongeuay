@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You make a living by what you earn; you make a life by what you give.</q>
+<q>From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.</q>
 <hr/>
-<p>Last updated at 2022-08-24 00:57:35 UTC</p>
+<p>Last updated at 2022-08-25 01:05:31 UTC</p>
