@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.</q>
+<q>The man who removes a mountain begins by carrying away small stones..</q>
 <hr/>
-<p>Last updated at 2022-08-25 01:05:31 UTC</p>
+<p>Last updated at 2022-08-26 01:01:36 UTC</p>
