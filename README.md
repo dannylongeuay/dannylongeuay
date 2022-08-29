@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Luck is a dividend of sweat. The more you sweat, the luckier you get</q>
+<q>Stop complaining. Start creating.</q>
 <hr/>
-<p>Last updated at 2022-08-28 01:00:40 UTC</p>
+<p>Last updated at 2022-08-29 01:03:02 UTC</p>
