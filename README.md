@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Stop complaining. Start creating.</q>
+<q>The determination to win is the better part of winning.</q>
 <hr/>
-<p>Last updated at 2022-08-29 01:03:02 UTC</p>
+<p>Last updated at 2022-08-30 01:05:59 UTC</p>
