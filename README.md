@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.</q>
+<q>Do not let what you cannot do interfere with what you can do.</q>
 <hr/>
-<p>Last updated at 2022-09-02 00:59:41 UTC</p>
+<p>Last updated at 2022-09-03 00:58:52 UTC</p>
