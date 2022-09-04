@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Do not let what you cannot do interfere with what you can do.</q>
+<q>Logic will get you from A to B. Imagination will take you everywhere.</q>
 <hr/>
-<p>Last updated at 2022-09-03 00:58:52 UTC</p>
+<p>Last updated at 2022-09-04 00:58:32 UTC</p>
