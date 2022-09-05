@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Logic will get you from A to B. Imagination will take you everywhere.</q>
+<q>Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.</q>
 <hr/>
-<p>Last updated at 2022-09-04 00:58:32 UTC</p>
+<p>Last updated at 2022-09-05 01:08:41 UTC</p>
