@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Unable to retrieve Quote of the Day.</q>
+<q>When it comes to winning, you need the skill and the will.</q>
 <hr/>
-<p>Last updated at 2022-09-06 01:04:04 UTC</p>
+<p>Last updated at 2022-09-07 01:05:56 UTC</p>
