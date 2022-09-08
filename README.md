@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When it comes to winning, you need the skill and the will.</q>
+<q>I know for sure that what we dwell on is who we become.</q>
 <hr/>
-<p>Last updated at 2022-09-07 01:05:56 UTC</p>
+<p>Last updated at 2022-09-08 01:02:19 UTC</p>
