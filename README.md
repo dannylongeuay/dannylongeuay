@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>I know for sure that what we dwell on is who we become.</q>
+<q>All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.</q>
 <hr/>
-<p>Last updated at 2022-09-08 01:02:19 UTC</p>
+<p>Last updated at 2022-09-09 01:04:28 UTC</p>
