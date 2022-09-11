@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>A quitter never wins and a winner never quits</q>
+<q>You are very powerful, provided you know how powerful you are.</q>
 <hr/>
-<p>Last updated at 2022-09-10 01:02:56 UTC</p>
+<p>Last updated at 2022-09-11 01:03:24 UTC</p>
