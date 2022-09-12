@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You are very powerful, provided you know how powerful you are.</q>
+<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
 <hr/>
-<p>Last updated at 2022-09-11 01:03:24 UTC</p>
+<p>Last updated at 2022-09-12 01:02:58 UTC</p>
