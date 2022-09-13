@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
+<q>Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.</q>
 <hr/>
-<p>Last updated at 2022-09-12 01:02:58 UTC</p>
+<p>Last updated at 2022-09-13 01:03:27 UTC</p>
