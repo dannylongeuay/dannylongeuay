@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.</q>
+<q>The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</q>
 <hr/>
-<p>Last updated at 2022-09-18 01:05:53 UTC</p>
+<p>Last updated at 2022-09-19 01:02:35 UTC</p>
