@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.</q>
+<q>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</q>
 <hr/>
-<p>Last updated at 2022-09-20 01:04:28 UTC</p>
+<p>Last updated at 2022-09-21 01:06:40 UTC</p>
