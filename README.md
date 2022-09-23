@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If we ever stop thinking about the person we want to become, we stop learning and taking risks.</q>
+<q>When you win, say nothing. When you lose, say less.</q>
 <hr/>
-<p>Last updated at 2022-09-22 01:02:04 UTC</p>
+<p>Last updated at 2022-09-23 01:06:23 UTC</p>
