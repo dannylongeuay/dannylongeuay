@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When you win, say nothing. When you lose, say less.</q>
+<q>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</q>
 <hr/>
-<p>Last updated at 2022-09-23 01:06:23 UTC</p>
+<p>Last updated at 2022-09-24 01:06:58 UTC</p>
