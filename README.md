@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.</q>
+<q>You must have a positive self perception in order to transcend anything.</q>
 <hr/>
-<p>Last updated at 2022-09-24 01:06:58 UTC</p>
+<p>Last updated at 2022-09-25 01:03:04 UTC</p>
