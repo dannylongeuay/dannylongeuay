@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>You must have a positive self perception in order to transcend anything.</q>
+<q>Effort only fully releases its reward after a person refuses to quit.</q>
 <hr/>
-<p>Last updated at 2022-09-25 01:03:04 UTC</p>
+<p>Last updated at 2022-09-26 01:05:28 UTC</p>
