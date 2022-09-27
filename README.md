@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Effort only fully releases its reward after a person refuses to quit.</q>
+<q>The determination to win is the better part of winning.</q>
 <hr/>
-<p>Last updated at 2022-09-26 01:05:28 UTC</p>
+<p>Last updated at 2022-09-27 01:07:48 UTC</p>
