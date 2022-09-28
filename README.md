@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The determination to win is the better part of winning.</q>
+<q>He who is not courageous enough to take risks will accomplish nothing in life.</q>
 <hr/>
-<p>Last updated at 2022-09-27 01:07:48 UTC</p>
+<p>Last updated at 2022-09-28 01:07:28 UTC</p>
