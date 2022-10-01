@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Win any way as long as you can get away with it. Nice guys finish last.</q>
+<q>Winning is not everything, but the effort to win is.</q>
 <hr/>
-<p>Last updated at 2022-09-30 01:24:57 UTC</p>
+<p>Last updated at 2022-10-01 01:20:12 UTC</p>
