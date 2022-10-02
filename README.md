@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning is not everything, but the effort to win is.</q>
+<q>Excellence prospers in the absence of excuses.</q>
 <hr/>
-<p>Last updated at 2022-10-01 01:20:12 UTC</p>
+<p>Last updated at 2022-10-02 01:14:51 UTC</p>
