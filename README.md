@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Excellence prospers in the absence of excuses.</q>
+<q>When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again'-my gut reaction is, 'What a badass.'</q>
 <hr/>
-<p>Last updated at 2022-10-02 01:14:51 UTC</p>
+<p>Last updated at 2022-10-03 01:04:34 UTC</p>
