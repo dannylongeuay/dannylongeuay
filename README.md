@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.</q>
+<q>A successful man is one who can lay a firm foundation with the bricks that others throw at him.</q>
 <hr/>
-<p>Last updated at 2022-10-04 01:13:25 UTC</p>
+<p>Last updated at 2022-10-05 01:11:55 UTC</p>
