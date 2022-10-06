@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>A successful man is one who can lay a firm foundation with the bricks that others throw at him.</q>
+<q>We lose ourselves in the things we love. We find ourselves there, too.</q>
 <hr/>
-<p>Last updated at 2022-10-05 01:11:55 UTC</p>
+<p>Last updated at 2022-10-06 01:06:05 UTC</p>
