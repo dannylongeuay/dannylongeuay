@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.</q>
+<q>The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.</q>
 <hr/>
-<p>Last updated at 2022-10-07 01:17:20 UTC</p>
+<p>Last updated at 2022-10-08 01:00:33 UTC</p>
