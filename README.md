@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Great things are done by a series of small things brought together.</q>
+<q>I know for sure that what we dwell on is who we become.</q>
 <hr/>
-<p>Last updated at 2022-10-09 01:05:01 UTC</p>
+<p>Last updated at 2022-10-10 01:10:21 UTC</p>
