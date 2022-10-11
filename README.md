@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>I know for sure that what we dwell on is who we become.</q>
+<q>There's such a thin line between winning and losing.</q>
 <hr/>
-<p>Last updated at 2022-10-10 01:10:21 UTC</p>
+<p>Last updated at 2022-10-11 01:02:37 UTC</p>
