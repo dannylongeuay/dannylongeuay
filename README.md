@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>It is easy to sit up and take notice, What is difficult is getting up and taking action.</q>
+<q>Vision without action is daydream. Action without vision is nightmare..</q>
 <hr/>
-<p>Last updated at 2022-10-12 01:16:58 UTC</p>
+<p>Last updated at 2022-10-13 01:08:05 UTC</p>
