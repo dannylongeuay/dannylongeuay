@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vision without action is daydream. Action without vision is nightmare..</q>
+<q>Winning is nice if you don't lose your integrity in the process.</q>
 <hr/>
-<p>Last updated at 2022-10-13 01:08:05 UTC</p>
+<p>Last updated at 2022-10-14 01:16:52 UTC</p>
