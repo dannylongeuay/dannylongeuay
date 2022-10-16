@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</q>
+<q>Even if you're on the right track, you'll get run over if you just sit there..</q>
 <hr/>
-<p>Last updated at 2022-10-15 01:10:04 UTC</p>
+<p>Last updated at 2022-10-16 01:13:28 UTC</p>
