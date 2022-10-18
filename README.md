@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.</q>
+<q>If you like what you do, and you're lucky enough to be good at it, do it for that reason.</q>
 <hr/>
-<p>Last updated at 2022-10-17 01:16:55 UTC</p>
+<p>Last updated at 2022-10-18 01:10:30 UTC</p>
