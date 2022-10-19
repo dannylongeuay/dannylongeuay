@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you like what you do, and you're lucky enough to be good at it, do it for that reason.</q>
+<q>Unable to retrieve Quote of the Day.</q>
 <hr/>
-<p>Last updated at 2022-10-18 01:10:30 UTC</p>
+<p>Last updated at 2022-10-19 01:11:51 UTC</p>
