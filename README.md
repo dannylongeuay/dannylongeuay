@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Unable to retrieve Quote of the Day.</q>
+<q>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</q>
 <hr/>
-<p>Last updated at 2022-10-19 01:11:51 UTC</p>
+<p>Last updated at 2022-10-20 01:06:58 UTC</p>
