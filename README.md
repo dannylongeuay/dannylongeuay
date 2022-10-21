@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</q>
+<q>If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</q>
 <hr/>
-<p>Last updated at 2022-10-20 01:06:58 UTC</p>
+<p>Last updated at 2022-10-21 01:05:45 UTC</p>
