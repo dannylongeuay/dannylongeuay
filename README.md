@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</q>
+<q>Stop complaining. Start creating.</q>
 <hr/>
-<p>Last updated at 2022-10-21 01:05:45 UTC</p>
+<p>Last updated at 2022-10-22 01:12:17 UTC</p>
