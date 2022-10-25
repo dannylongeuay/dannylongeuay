@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Don't count the days; make the days count.</q>
+<q>Unable to retrieve Quote of the Day.</q>
 <hr/>
-<p>Last updated at 2022-10-24 01:19:04 UTC</p>
+<p>Last updated at 2022-10-25 01:13:53 UTC</p>
