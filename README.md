@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Unable to retrieve Quote of the Day.</q>
+<q>You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.</q>
 <hr/>
-<p>Last updated at 2022-10-27 01:01:58 UTC</p>
+<p>Last updated at 2022-10-28 01:05:29 UTC</p>
