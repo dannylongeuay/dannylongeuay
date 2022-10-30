@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Winning isn't everything.. It's the only thing.</q>
+<q>A man who has no imagination has no wings.</q>
 <hr/>
-<p>Last updated at 2022-10-29 00:55:04 UTC</p>
+<p>Last updated at 2022-10-30 01:06:38 UTC</p>
