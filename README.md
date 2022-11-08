@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.</q>
+<q>The best way to predict the future is to create it.</q>
 <hr/>
-<p>Last updated at 2022-11-07 00:56:29 UTC</p>
+<p>Last updated at 2022-11-08 00:56:54 UTC</p>
