@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</q>
+<q>If I work as hard as I can, I wonder how much I can do in a day?</q>
 <hr/>
-<p>Last updated at 2022-11-10 00:59:06 UTC</p>
+<p>Last updated at 2022-11-11 01:00:46 UTC</p>
