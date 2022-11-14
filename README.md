@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Don't count the days; make the days count.</q>
+<q>It is easy to sit up and take notice, What is difficult is getting up and taking action.</q>
 <hr/>
-<p>Last updated at 2022-11-13 00:55:43 UTC</p>
+<p>Last updated at 2022-11-14 00:54:30 UTC</p>
