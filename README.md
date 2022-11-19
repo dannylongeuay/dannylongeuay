@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Unable to retrieve Quote of the Day.</q>
+<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
 <hr/>
-<p>Last updated at 2022-11-18 00:59:23 UTC</p>
+<p>Last updated at 2022-11-19 00:57:04 UTC</p>
