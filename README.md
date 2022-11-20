@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you're changing the world, you're working on important things. You're excited to get up in the morning.</q>
+<q>If you don't have confidence, you'll always find a way not to win</q>
 <hr/>
-<p>Last updated at 2022-11-19 00:57:04 UTC</p>
+<p>Last updated at 2022-11-20 00:58:37 UTC</p>
