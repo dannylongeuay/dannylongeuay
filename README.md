@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>If you don't have confidence, you'll always find a way not to win</q>
+<q>Unable to retrieve Quote of the Day.</q>
 <hr/>
-<p>Last updated at 2022-11-20 00:58:37 UTC</p>
+<p>Last updated at 2022-11-21 00:56:52 UTC</p>
