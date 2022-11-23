@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Unable to retrieve Quote of the Day.</q>
+<q>Do the best you can until you know better. Then when you know better, do better.</q>
 <hr/>
-<p>Last updated at 2022-11-22 00:57:38 UTC</p>
+<p>Last updated at 2022-11-23 00:49:52 UTC</p>
