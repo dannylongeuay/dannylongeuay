@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
-<q>Unable to retrieve Quote of the Day.</q>
+<q><blockquote>&ldquo;It doesn't matter where you are, you are nowhere compared to where you can go.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote></q>
 <hr/>
-<p>Last updated at 2022-11-29 20:22:36 UTC</p>
+<p>Last updated at 2022-11-29 20:37:48 UTC</p>
