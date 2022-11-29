@@ -23,7 +23,7 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Quote of the Day: <span style="color:grey;">(theysaidso.com)</span> </h3>
+<h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
 <q><blockquote>&ldquo;It doesn't matter where you are, you are nowhere compared to where you can go.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote></q>
 <hr/>
-<p>Last updated at 2022-11-29 20:37:48 UTC</p>
+<p>Last updated at 2022-11-29 20:41:28 UTC</p>
