@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It doesn't matter where you are, you are nowhere compared to where you can go.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+<blockquote>&ldquo;What's the point in being smart enough to read, if everything you read makes you dumb?&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 <hr/>
-<p>Last updated at 2022-11-29 20:43:21 UTC</p>
+<p>Last updated at 2022-11-30 00:51:40 UTC</p>
