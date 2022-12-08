@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;If you do not push the boundaries, you will never know where they are.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 <hr/>
-<p>Last updated at 2022-12-07 00:47:39 UTC</p>
+<p>Last updated at 2022-12-08 00:44:23 UTC</p>
