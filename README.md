@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Most people achieved their greatest success one step beyond what looked like their greatest failure.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <hr/>
-<p>Last updated at 2022-12-11 00:52:05 UTC</p>
+<p>Last updated at 2022-12-12 00:48:44 UTC</p>
