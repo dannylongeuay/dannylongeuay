@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
+<blockquote>&ldquo;One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 <hr/>
-<p>Last updated at 2022-12-13 00:50:54 UTC</p>
+<p>Last updated at 2022-12-14 00:46:44 UTC</p>
