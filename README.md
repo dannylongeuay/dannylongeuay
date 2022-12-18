@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Obstacles don't block the path, they are the path.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;We can see through others only when we can see through ourselves.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 <hr/>
-<p>Last updated at 2022-12-17 00:42:12 UTC</p>
+<p>Last updated at 2022-12-18 00:43:07 UTC</p>
