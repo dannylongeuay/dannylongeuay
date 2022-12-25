@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Be brave to stand for what you believe in even if you stand alone.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Muddy water is best cleared by leaving it alone.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 <hr/>
-<p>Last updated at 2022-12-24 00:39:41 UTC</p>
+<p>Last updated at 2022-12-25 00:46:36 UTC</p>
