@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;To be prepared is half the victory. &rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-07 00:44:08 UTC</p>
+<p>Last updated at 2023-01-08 00:49:40 UTC</p>
