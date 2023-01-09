@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;To be prepared is half the victory. &rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
+<blockquote>&ldquo;The most creative act you will ever undertake is the act of creating yourself.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-08 00:49:40 UTC</p>
+<p>Last updated at 2023-01-09 00:46:58 UTC</p>
