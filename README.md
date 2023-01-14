@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;You're always free to change your mind and choose a different future, or a different past.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-13 00:46:56 UTC</p>
+<p>Last updated at 2023-01-14 00:43:38 UTC</p>
