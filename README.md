@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You're always free to change your mind and choose a different future, or a different past.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;To do two things at once is to do neither.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-14 00:43:38 UTC</p>
+<p>Last updated at 2023-01-15 00:50:07 UTC</p>
