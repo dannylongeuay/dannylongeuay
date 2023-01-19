@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;It's better to dance than to march through life.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-18 00:49:21 UTC</p>
+<p>Last updated at 2023-01-19 00:47:46 UTC</p>
