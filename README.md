@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-23 00:44:31 UTC</p>
+<p>Last updated at 2023-01-24 00:48:33 UTC</p>
