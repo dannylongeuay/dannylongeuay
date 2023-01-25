@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+<blockquote>&ldquo;How you think is as important as as what you think.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-24 00:48:33 UTC</p>
+<p>Last updated at 2023-01-25 00:44:51 UTC</p>
