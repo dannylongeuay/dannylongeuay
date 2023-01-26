@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;How you think is as important as as what you think.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;You are free, and that is why you are lost. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-25 00:44:51 UTC</p>
+<p>Last updated at 2023-01-26 00:45:25 UTC</p>
