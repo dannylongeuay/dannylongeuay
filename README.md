@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Silence is a source of great strength.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-01-27 00:48:19 UTC</p>
+<p>Last updated at 2023-01-29 00:52:07 UTC</p>
