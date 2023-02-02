@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;What you get by achieving your goals is not as important as what you become by achieving your goals.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;No one can hurt you without your consent.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-02-01 00:53:48 UTC</p>
+<p>Last updated at 2023-02-02 00:48:01 UTC</p>
