@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You are not one person, but three: The one you think you are; The one others think you are; The one you really are.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;All great truths begin as blasphemies.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-02-09 00:46:16 UTC</p>
+<p>Last updated at 2023-02-10 00:51:23 UTC</p>
