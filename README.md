@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-02-13 00:51:22 UTC</p>
+<p>Last updated at 2023-02-14 00:51:21 UTC</p>
