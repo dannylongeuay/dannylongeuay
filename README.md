@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Children are our greatest natural resource.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+<blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-02-23 00:47:29 UTC</p>
+<p>Last updated at 2023-02-24 00:49:06 UTC</p>
