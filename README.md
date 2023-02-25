@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-02-24 00:49:06 UTC</p>
+<p>Last updated at 2023-02-25 00:49:50 UTC</p>
