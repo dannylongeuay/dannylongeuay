@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You don't need a weatherman to know which way the wind blows.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-03-04 00:47:37 UTC</p>
+<p>Last updated at 2023-03-05 00:56:20 UTC</p>
