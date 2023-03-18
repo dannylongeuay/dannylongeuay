@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Your happiness is what truly matters most. Do what you have to do in order to be happy.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Giving back involves a certain amount of giving up.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-03-17 00:46:35 UTC</p>
+<p>Last updated at 2023-03-18 00:44:55 UTC</p>
