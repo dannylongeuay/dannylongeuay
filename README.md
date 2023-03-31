@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Success is about creating value.&rdquo; &mdash; <footer>Candice Carpenter</footer></blockquote>
+<blockquote>&ldquo;I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-03-30 00:45:32 UTC</p>
+<p>Last updated at 2023-03-31 00:45:30 UTC</p>
