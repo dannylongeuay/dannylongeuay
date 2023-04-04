@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Ideas do not reach perfection in a day, no matter how much study is put upon them.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
+<blockquote>&ldquo;Everybody needs a passion. That's what keeps life interesting.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-04-03 00:43:16 UTC</p>
+<p>Last updated at 2023-04-04 00:42:49 UTC</p>
