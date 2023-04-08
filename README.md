@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Your gift is something that you can do innately better than anything else.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;It's OK to have your eggs in one basket as long as you control what happens to that basket.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-04-07 00:38:13 UTC</p>
+<p>Last updated at 2023-04-08 00:41:03 UTC</p>
