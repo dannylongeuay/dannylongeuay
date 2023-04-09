@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It's OK to have your eggs in one basket as long as you control what happens to that basket.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;The greatest treasures are those invisible to the eye but found by the heart.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-04-08 00:41:03 UTC</p>
+<p>Last updated at 2023-04-09 00:43:43 UTC</p>
