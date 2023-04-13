@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Enjoy life. There's plenty of time to be dead.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+<blockquote>&ldquo;A mistake is only an error, it becomes a mistake when you fail to correct it.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-04-12 00:42:21 UTC</p>
+<p>Last updated at 2023-04-13 00:41:37 UTC</p>
