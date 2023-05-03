@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Confidence is contagious. So is lack of confidence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-02 00:43:59 UTC</p>
+<p>Last updated at 2023-05-03 00:42:36 UTC</p>
