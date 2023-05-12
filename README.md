@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;We don't stop playing because we grow old; we grow old because we stop playing.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;There is no sadder sight than a young pessimist.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-11 00:42:48 UTC</p>
+<p>Last updated at 2023-05-12 00:43:15 UTC</p>
