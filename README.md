@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The future belongs to those who learn more skills and combine them in creative ways.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;In youth we run into difficulties. In old age difficulties run into us. &rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-15 00:44:26 UTC</p>
+<p>Last updated at 2023-05-16 00:44:07 UTC</p>
