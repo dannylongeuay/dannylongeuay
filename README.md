@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Sometimes you have to lose all you have to find out who you truly are.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Pleasure can be supported by an illusion; but happiness rests upon truth. &rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-17 00:47:05 UTC</p>
+<p>Last updated at 2023-05-18 00:43:17 UTC</p>
