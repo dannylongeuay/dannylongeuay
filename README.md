@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Nothing good ever comes of violence.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
+<blockquote>&ldquo;An investment in knowledge pays the best interest.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-19 00:44:21 UTC</p>
+<p>Last updated at 2023-05-20 00:41:10 UTC</p>
