@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Human beings believe just as they breathe - in order to survive.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-21 00:46:21 UTC</p>
+<p>Last updated at 2023-05-22 00:46:23 UTC</p>
