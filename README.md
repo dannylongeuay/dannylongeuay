@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Deliberately seek the company of people who influence you to think and act on building the life you desire.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Thinking will not overcome fear but action will. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-26 00:43:57 UTC</p>
+<p>Last updated at 2023-05-27 00:45:09 UTC</p>
