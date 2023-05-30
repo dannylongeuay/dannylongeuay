@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;We forge the chains we wear in life.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-05-29 00:45:36 UTC</p>
+<p>Last updated at 2023-05-30 00:45:35 UTC</p>
