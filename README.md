@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-04 00:58:09 UTC</p>
+<p>Last updated at 2023-06-05 00:51:17 UTC</p>
