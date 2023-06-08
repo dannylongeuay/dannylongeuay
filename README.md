@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Youth has no age.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-07 00:53:24 UTC</p>
+<p>Last updated at 2023-06-08 00:50:18 UTC</p>
