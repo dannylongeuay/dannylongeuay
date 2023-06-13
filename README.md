@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Debt is the slavery of the free.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;Most people fail in life because they major in minor things.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-12 00:53:41 UTC</p>
+<p>Last updated at 2023-06-13 00:50:01 UTC</p>
