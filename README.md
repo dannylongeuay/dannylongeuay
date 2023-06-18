@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It's not what you pay a man, but what he costs you that counts.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;You can tell more about a person by what he says about others than you can by what others say about him.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-17 00:46:13 UTC</p>
+<p>Last updated at 2023-06-18 00:56:54 UTC</p>
