@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;In the middle of chaos lies opportunity.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;If you chase two rabbits, you catch none.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-21 00:50:46 UTC</p>
+<p>Last updated at 2023-06-22 00:49:11 UTC</p>
