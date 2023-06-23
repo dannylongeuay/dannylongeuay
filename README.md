@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If you chase two rabbits, you catch none.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;A person hears only what they understand.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-22 00:49:11 UTC</p>
+<p>Last updated at 2023-06-23 00:56:24 UTC</p>
