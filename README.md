@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Discontent is the first necessity of progress.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;For fast-acting relief try slowing down.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-26 00:57:23 UTC</p>
+<p>Last updated at 2023-06-27 00:56:41 UTC</p>
