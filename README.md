@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;For fast-acting relief try slowing down.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;Sadness is but a wall between two gardens.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-06-27 00:56:41 UTC</p>
+<p>Last updated at 2023-06-28 00:58:00 UTC</p>
