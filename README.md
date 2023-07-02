@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Some of us learn from other people's mistakes and the rest of us have to be other people.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-07-01 01:00:48 UTC</p>
+<p>Last updated at 2023-07-02 00:58:11 UTC</p>
