@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Always focus on the front windshield and not the rear view mirror.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Not all those who wander are lost.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-07-03 00:56:50 UTC</p>
+<p>Last updated at 2023-07-04 00:57:16 UTC</p>
