@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The whole is greater than the sum of its parts.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-07-10 00:56:17 UTC</p>
+<p>Last updated at 2023-07-11 00:50:51 UTC</p>
