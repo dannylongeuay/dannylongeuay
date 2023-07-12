@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;The destiny of man is in his own soul. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-07-11 00:50:51 UTC</p>
+<p>Last updated at 2023-07-12 00:56:24 UTC</p>
