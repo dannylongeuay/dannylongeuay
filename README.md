@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You will succeed because most people are lazy.&rdquo; &mdash; <footer>Shahir Zag</footer></blockquote>
+<blockquote>&ldquo;Well done is better than well said.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-07-15 00:56:07 UTC</p>
+<p>Last updated at 2023-07-16 01:01:32 UTC</p>
