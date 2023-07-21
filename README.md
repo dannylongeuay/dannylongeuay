@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You're on earth. There's no cure for that.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+<blockquote>&ldquo;Everything eaten is killed. Every meal is a sacrifice.&rdquo; &mdash; <footer>Adi Da Samraj</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-07-20 00:48:03 UTC</p>
+<p>Last updated at 2023-07-21 00:47:39 UTC</p>
