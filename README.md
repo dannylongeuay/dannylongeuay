@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it. &rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
+<blockquote>&ldquo;When you're curious, you find lots of interesting things to do.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-07-23 00:53:05 UTC</p>
+<p>Last updated at 2023-07-24 00:48:51 UTC</p>
