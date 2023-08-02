@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-08-01 00:50:35 UTC</p>
+<p>Last updated at 2023-08-02 00:45:20 UTC</p>
