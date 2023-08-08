@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Be yourself; everyone else is already taken.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;Fishing is much more than fish.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-08-07 00:45:32 UTC</p>
+<p>Last updated at 2023-08-08 00:44:04 UTC</p>
