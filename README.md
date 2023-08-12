@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The chief cause of failure and unhappiness is trading what you want most for what you want right now.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;We must learn to live together as brothers or perish together as fools.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-08-11 00:36:01 UTC</p>
+<p>Last updated at 2023-08-12 00:35:28 UTC</p>
