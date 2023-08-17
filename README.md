@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Some people feel the rain. Others just get wet. &rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-08-16 00:36:19 UTC</p>
+<p>Last updated at 2023-08-17 00:35:48 UTC</p>
