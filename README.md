@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;A man who cannot tolerate small misfortunes can never accomplish great things.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Do the hard jobs first. The easy jobs will take care of themselves.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-08-22 00:37:06 UTC</p>
+<p>Last updated at 2023-08-23 00:36:33 UTC</p>
