@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Keep your face to the sunshine and you cannot see the shadows.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-08-26 00:35:44 UTC</p>
+<p>Last updated at 2023-08-27 00:39:20 UTC</p>
