@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;There is always risk, so learn to manage risk instead of avoiding it.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-08-31 00:37:28 UTC</p>
+<p>Last updated at 2023-09-01 00:40:18 UTC</p>
