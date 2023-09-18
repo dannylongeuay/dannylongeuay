@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;I dream my painting and I paint my dream.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;Success is getting what you want... Happiness is wanting what you get.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-09-17 00:40:19 UTC</p>
+<p>Last updated at 2023-09-18 00:38:17 UTC</p>
