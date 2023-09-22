@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Never whine, never complain, never try to justify yourself.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;There is no greatness where there is not simplicity, goodness, and truth.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-09-21 00:37:48 UTC</p>
+<p>Last updated at 2023-09-22 00:38:09 UTC</p>
