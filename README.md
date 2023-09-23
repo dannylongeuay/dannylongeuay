@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;There is no greatness where there is not simplicity, goodness, and truth.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;Human beings can alter their lives by altering their attitudes of mind.&rdquo; &mdash; <footer>William James</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-09-22 00:38:09 UTC</p>
+<p>Last updated at 2023-09-23 00:36:41 UTC</p>
