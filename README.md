@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-09-26 00:38:49 UTC</p>
+<p>Last updated at 2023-09-27 00:38:51 UTC</p>
