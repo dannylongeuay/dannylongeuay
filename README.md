@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;No man is free who is not master of himself.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;Not everything that weighs you down is yours to carry.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-09-28 00:38:16 UTC</p>
+<p>Last updated at 2023-09-29 00:38:16 UTC</p>
