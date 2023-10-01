@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Judge a man by his questions rather than his answers.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Don't let the past steal your present.&rdquo; &mdash; <footer>Cherralea Morgen</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-09-30 00:37:15 UTC</p>
+<p>Last updated at 2023-10-01 00:43:45 UTC</p>
