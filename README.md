@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;I never dwell on what happened. You can't change it. Move forward.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;Listen to the secret sound, the real sound, which is inside you.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-10-06 00:38:36 UTC</p>
+<p>Last updated at 2023-10-07 00:37:54 UTC</p>
