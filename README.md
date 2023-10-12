@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;You must learn to let go. Release the stress. You were never in control anyway.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-10-11 00:38:12 UTC</p>
+<p>Last updated at 2023-10-12 00:36:45 UTC</p>
