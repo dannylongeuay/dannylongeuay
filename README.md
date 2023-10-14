@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
+<blockquote>&ldquo;When it is dark enough, you can see the stars.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-10-13 00:39:35 UTC</p>
+<p>Last updated at 2023-10-14 00:37:21 UTC</p>
