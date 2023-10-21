@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If you're waiting until you feel talented enough to make it, you'll never make it.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;There is no absolute success in the world, only constant progress.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-10-20 00:38:31 UTC</p>
+<p>Last updated at 2023-10-21 00:37:29 UTC</p>
