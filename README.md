@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;There is no absolute success in the world, only constant progress.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;Where there is no struggle, there is no strength. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-10-21 00:37:29 UTC</p>
+<p>Last updated at 2023-10-22 00:41:27 UTC</p>
