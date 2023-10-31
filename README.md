@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Whenever people agree with me I always feel I must be wrong.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;Believe in your infinite potential. Your only limitations are those you set upon yourself.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-10-30 00:39:18 UTC</p>
+<p>Last updated at 2023-10-31 00:38:54 UTC</p>
