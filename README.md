@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The purpose of life is the life of purpose.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Never let the fear of striking out keep you from playing the game.&rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-11-03 00:38:49 UTC</p>
+<p>Last updated at 2023-11-04 00:38:23 UTC</p>
