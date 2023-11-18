@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The power to make and break habits and learning how to do that is really important.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-11-17 00:40:39 UTC</p>
+<p>Last updated at 2023-11-18 00:39:38 UTC</p>
