@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The Truth is realized in an instant; the Act is practiced step by step.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;Before anything else, preparation is the key to success.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-11-24 00:39:30 UTC</p>
+<p>Last updated at 2023-11-25 00:38:43 UTC</p>
