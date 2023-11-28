@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The way out is in.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;Best be yourself, imperial, plain, and true.&rdquo; &mdash; <footer>Robert Browning</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-11-27 00:41:08 UTC</p>
+<p>Last updated at 2023-11-28 00:41:06 UTC</p>
