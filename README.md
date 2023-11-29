@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Best be yourself, imperial, plain, and true.&rdquo; &mdash; <footer>Robert Browning</footer></blockquote>
+<blockquote>&ldquo;It doesn't matter where you are, you are nowhere compared to where you can go.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-11-28 00:41:06 UTC</p>
+<p>Last updated at 2023-11-29 00:41:04 UTC</p>
