@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;What's the point in being smart enough to read, if everything you read makes you dumb?&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
+<blockquote>&ldquo;You are not the drop in the ocean, but the ocean in the drop.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-11-30 00:40:42 UTC</p>
+<p>Last updated at 2023-12-01 00:44:40 UTC</p>
