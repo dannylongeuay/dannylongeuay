@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You are not the drop in the ocean, but the ocean in the drop.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-12-01 00:44:40 UTC</p>
+<p>Last updated at 2023-12-02 00:39:38 UTC</p>
