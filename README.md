@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If you do not push the boundaries, you will never know where they are.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;Decide whether or not the goal is worth the risks involved. If it is, stop worrying.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-12-08 00:41:13 UTC</p>
+<p>Last updated at 2023-12-09 00:39:56 UTC</p>
