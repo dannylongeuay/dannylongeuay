@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;A crisis is an opportunity riding the dangerous wind.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Don't let anyone define you. You define yourself.&rdquo; &mdash; <footer>Billie Jean King</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-12-28 00:38:58 UTC</p>
+<p>Last updated at 2023-12-29 00:32:53 UTC</p>
