@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;We have to live life with a sense of urgency so not a minute is wasted.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;You have to make time, even for something as universal as staring at the stars.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
 <hr/>
-<p>Last updated at 2023-12-31 00:43:41 UTC</p>
+<p>Last updated at 2024-01-01 00:45:00 UTC</p>
