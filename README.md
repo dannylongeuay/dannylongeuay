@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You have to make time, even for something as universal as staring at the stars.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
+<blockquote>&ldquo;He who cheats the earth will be cheated by the earth.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-01-01 00:45:00 UTC</p>
+<p>Last updated at 2024-01-02 00:39:50 UTC</p>
