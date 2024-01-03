@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;He who cheats the earth will be cheated by the earth.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Far more crucial than what we know or do not know is what we do not want to know.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-01-02 00:39:50 UTC</p>
+<p>Last updated at 2024-01-03 00:40:35 UTC</p>
