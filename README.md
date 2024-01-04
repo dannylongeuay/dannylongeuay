@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Far more crucial than what we know or do not know is what we do not want to know.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Age is a very high price to pay for maturity.&rdquo; &mdash; <footer>William James</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-01-03 00:40:35 UTC</p>
+<p>Last updated at 2024-01-04 00:40:54 UTC</p>
