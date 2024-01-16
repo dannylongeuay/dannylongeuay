@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;To do two things at once is to do neither.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;The goal is not to be perfect by the end, the goal is to be better today.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-01-15 00:43:33 UTC</p>
+<p>Last updated at 2024-01-16 00:41:24 UTC</p>
