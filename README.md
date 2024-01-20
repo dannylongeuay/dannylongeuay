@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It's better to dance than to march through life.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;Outstanding people have one thing in common: an absolute sense of mission.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-01-19 00:41:54 UTC</p>
+<p>Last updated at 2024-01-20 00:40:59 UTC</p>
