@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You need to be doing fewer things for more effect instead of doing more things with side effects.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-01-22 00:43:52 UTC</p>
+<p>Last updated at 2024-01-23 00:42:44 UTC</p>
