@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Your only obligation in any lifetime is to be true to yourself.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;Know yourself and you will win all battles.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-01-30 00:38:52 UTC</p>
+<p>Last updated at 2024-01-31 00:39:06 UTC</p>
