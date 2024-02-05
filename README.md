@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The more knowledge you have, the more you're free to rely on your instincts.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;There is a wisdom of the head, and there is a wisdom of the heart.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-02-04 00:42:03 UTC</p>
+<p>Last updated at 2024-02-05 00:40:09 UTC</p>
