@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;There is a wisdom of the head, and there is a wisdom of the heart.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Be happy now, without reason - or you never will be at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-02-05 00:40:09 UTC</p>
+<p>Last updated at 2024-02-06 00:38:28 UTC</p>
