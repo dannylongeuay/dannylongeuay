@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;You are not one person, but three: The one you think you are; The one others think you are; The one you really are.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-02-08 00:38:30 UTC</p>
+<p>Last updated at 2024-02-09 00:38:04 UTC</p>
