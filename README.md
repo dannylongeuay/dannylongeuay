@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Man's character is his fate.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;We are all self-made, but only the successful will admit it.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-02-11 00:42:04 UTC</p>
+<p>Last updated at 2024-02-12 00:39:32 UTC</p>
