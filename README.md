@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>
+<blockquote>&ldquo;Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-02-20 00:38:04 UTC</p>
+<p>Last updated at 2024-02-21 00:38:56 UTC</p>
