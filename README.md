@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;To a mind that is still, the entire universe surrenders.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;Children are our greatest natural resource.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-02-22 00:38:24 UTC</p>
+<p>Last updated at 2024-02-23 00:38:03 UTC</p>
