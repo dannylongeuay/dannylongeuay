@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Everything flows, nothing stands still.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;You'll see it when you believe it. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-03-07 00:31:39 UTC</p>
+<p>Last updated at 2024-03-08 00:38:37 UTC</p>
