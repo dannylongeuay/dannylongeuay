@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;We cannot change anything unless we accept it.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-03-09 00:37:19 UTC</p>
+<p>Last updated at 2024-03-10 00:41:50 UTC</p>
