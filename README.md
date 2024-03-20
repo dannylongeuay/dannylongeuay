@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Simple words, repeated daily, can change your life.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Life is what you make it. Always has been, always will be.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-03-19 00:38:55 UTC</p>
+<p>Last updated at 2024-03-20 00:38:36 UTC</p>
