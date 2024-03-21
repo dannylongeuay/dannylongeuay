@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Life is what you make it. Always has been, always will be.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Excellence is not an exception, it is a prevailing attitude.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-03-20 00:38:36 UTC</p>
+<p>Last updated at 2024-03-21 00:40:13 UTC</p>
