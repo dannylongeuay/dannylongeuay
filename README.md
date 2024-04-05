@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If you are going to achieve excellence in big things, you develop the habit in little matters.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Don't wish it were easier, wish you were better.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-04-04 00:40:38 UTC</p>
+<p>Last updated at 2024-04-05 00:39:57 UTC</p>
