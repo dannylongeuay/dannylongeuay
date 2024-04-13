@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;A mistake is only an error, it becomes a mistake when you fail to correct it.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-04-12 00:40:08 UTC</p>
+<p>Last updated at 2024-04-13 00:33:46 UTC</p>
