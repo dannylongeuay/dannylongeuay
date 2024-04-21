@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Your heart is the size of an ocean. Go find yourself in its hidden depths.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;When you judge another, you do not define them, you define yourself&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-04-20 00:40:23 UTC</p>
+<p>Last updated at 2024-04-21 00:43:17 UTC</p>
