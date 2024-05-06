@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If what you're doing is not your passion, you have nothing to lose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;It's the possibility of having a dream come true that makes life interesting.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-05-05 00:43:40 UTC</p>
+<p>Last updated at 2024-05-06 00:41:45 UTC</p>
