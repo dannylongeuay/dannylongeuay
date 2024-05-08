@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;20 percent of your activities will account for 80 percent of your results.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-05-07 00:40:53 UTC</p>
+<p>Last updated at 2024-05-08 00:34:22 UTC</p>
