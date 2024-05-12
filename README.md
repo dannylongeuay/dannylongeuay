@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;There is no sadder sight than a young pessimist.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;People are doing the best that they can from their own level of consciousness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-05-11 00:40:30 UTC</p>
+<p>Last updated at 2024-05-12 00:45:01 UTC</p>
