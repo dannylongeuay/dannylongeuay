@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Amateurs sit and wait for inspiration, the rest of us just get up and got to work.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;The future belongs to those who learn more skills and combine them in creative ways.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-05-13 00:42:38 UTC</p>
+<p>Last updated at 2024-05-14 00:41:23 UTC</p>
