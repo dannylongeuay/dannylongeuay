@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;The chief danger in life is that you may take too many precautions.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-05-21 00:42:00 UTC</p>
+<p>Last updated at 2024-05-22 00:41:58 UTC</p>
