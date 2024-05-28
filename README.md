@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;To some degree, you control your life by controlling your time.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
+<blockquote>&ldquo;We forge the chains we wear in life.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-05-27 00:43:06 UTC</p>
+<p>Last updated at 2024-05-28 00:42:15 UTC</p>
