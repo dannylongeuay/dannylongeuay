@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;One is never afraid of the unknown; one is afraid of the known coming to an end.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-06-07 00:43:58 UTC</p>
+<p>Last updated at 2024-06-08 00:43:04 UTC</p>
