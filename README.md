@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Most people fail in life because they major in minor things.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;The key to success is action.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-06-12 00:43:35 UTC</p>
+<p>Last updated at 2024-06-13 00:43:09 UTC</p>
