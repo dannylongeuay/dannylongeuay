@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Little minds have little worries, big minds have no time for worries.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;Facts are the enemy of truth. &rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-06-14 00:43:11 UTC</p>
+<p>Last updated at 2024-06-15 00:43:02 UTC</p>
