@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Facts are the enemy of truth. &rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
+<blockquote>&ldquo;It's not what you pay a man, but what he costs you that counts.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-06-15 00:43:02 UTC</p>
+<p>Last updated at 2024-06-16 00:47:50 UTC</p>
