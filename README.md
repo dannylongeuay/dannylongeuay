@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Life happens in the river, not the shore.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;In the middle of chaos lies opportunity.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-06-19 00:43:47 UTC</p>
+<p>Last updated at 2024-06-20 00:42:37 UTC</p>
