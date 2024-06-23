@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;A person hears only what they understand.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-06-22 00:42:41 UTC</p>
+<p>Last updated at 2024-06-23 00:47:05 UTC</p>
