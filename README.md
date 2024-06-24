@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Wheels of justice grind slow but grind fine.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-06-23 00:47:05 UTC</p>
+<p>Last updated at 2024-06-24 00:45:07 UTC</p>
