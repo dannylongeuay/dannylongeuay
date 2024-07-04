@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Not all those who wander are lost.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-07-03 00:43:58 UTC</p>
+<p>Last updated at 2024-07-04 00:44:10 UTC</p>
