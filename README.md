@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Creativity is the greatest rebellion in existence.&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;Be the silent watcher of your thoughts and behavior. You are beneath the thinker.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-07-25 00:45:20 UTC</p>
+<p>Last updated at 2024-07-26 00:44:55 UTC</p>
