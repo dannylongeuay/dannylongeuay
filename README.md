@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Don't criticize what you can't understand. &rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Management is doing things right; leadership is doing the right things.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-08-08 00:46:23 UTC</p>
+<p>Last updated at 2024-08-09 00:47:06 UTC</p>
