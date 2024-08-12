@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;We must learn to live together as brothers or perish together as fools.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;It is not what we get. But who we become, what we contribute... that gives meaning to our lives.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-08-11 00:51:36 UTC</p>
+<p>Last updated at 2024-08-12 00:48:33 UTC</p>
