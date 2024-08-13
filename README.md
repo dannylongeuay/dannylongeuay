@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It is not what we get. But who we become, what we contribute... that gives meaning to our lives.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-08-12 00:48:33 UTC</p>
+<p>Last updated at 2024-08-13 00:47:49 UTC</p>
