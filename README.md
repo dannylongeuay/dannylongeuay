@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;Happiness is an effect of doing what you love, not an end goal to be achieved.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-08-16 00:46:01 UTC</p>
+<p>Last updated at 2024-08-17 00:44:34 UTC</p>
