@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Happiness is an effect of doing what you love, not an end goal to be achieved.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;It is not uncommon for people to spend their whole life waiting to start living.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-08-17 00:44:34 UTC</p>
+<p>Last updated at 2024-08-18 00:50:38 UTC</p>
