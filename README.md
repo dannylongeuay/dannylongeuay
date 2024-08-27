@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Keep your face to the sunshine and you cannot see the shadows.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;Behind every beautiful thing, there's some kind of pain.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-08-26 00:47:35 UTC</p>
+<p>Last updated at 2024-08-27 00:47:50 UTC</p>
