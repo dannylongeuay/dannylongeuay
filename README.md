@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Behind every beautiful thing, there's some kind of pain.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Talent is luck. The important thing in life is courage.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-08-27 00:47:50 UTC</p>
+<p>Last updated at 2024-08-28 00:48:04 UTC</p>
