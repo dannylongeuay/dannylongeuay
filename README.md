@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;A lot of people have gone further than they thought they could because someone else thought they could.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;If no one ever broke the rules, then we'd never advance.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-04 00:49:34 UTC</p>
+<p>Last updated at 2024-09-05 00:49:43 UTC</p>
