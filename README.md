@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If no one ever broke the rules, then we'd never advance.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-05 00:49:43 UTC</p>
+<p>Last updated at 2024-09-06 00:49:31 UTC</p>
