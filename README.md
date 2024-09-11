@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;A gentleman accepts the responsibility of his actions and bears the burden of their consequences.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;Don't try to steer the river.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-10 00:50:37 UTC</p>
+<p>Last updated at 2024-09-11 00:50:02 UTC</p>
