@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It is not fair to ask of others what you are not willing to do yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Passion is energy. Feel the power that comes from focusing on what excites you. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-13 00:50:20 UTC</p>
+<p>Last updated at 2024-09-14 00:49:34 UTC</p>
