@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Success is getting what you want... Happiness is wanting what you get.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;If you are ever the smartest person in the room, you are in the wrong room.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-17 00:41:11 UTC</p>
+<p>Last updated at 2024-09-18 00:50:24 UTC</p>
