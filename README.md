@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;Never whine, never complain, never try to justify yourself.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-19 00:51:15 UTC</p>
+<p>Last updated at 2024-09-20 00:51:10 UTC</p>
