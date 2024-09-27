@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;No man is free who is not master of himself.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-26 00:52:23 UTC</p>
+<p>Last updated at 2024-09-27 00:52:47 UTC</p>
