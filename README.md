@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Not everything that weighs you down is yours to carry.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Judge a man by his questions rather than his answers.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-28 00:52:08 UTC</p>
+<p>Last updated at 2024-09-29 00:57:21 UTC</p>
