@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Don't let the past steal your present.&rdquo; &mdash; <footer>Cherralea Morgen</footer></blockquote>
+<blockquote>&ldquo;He that can have patience can have what he will.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-09-30 00:54:48 UTC</p>
+<p>Last updated at 2024-10-01 00:58:02 UTC</p>
