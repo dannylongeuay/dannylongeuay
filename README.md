@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;He that can have patience can have what he will.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;It is our experiences that mold us into who we are...during times of adversity our true character will show.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-10-01 00:58:02 UTC</p>
+<p>Last updated at 2024-10-02 00:52:54 UTC</p>
