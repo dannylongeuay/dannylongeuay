@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It is our experiences that mold us into who we are...during times of adversity our true character will show.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The opposite of courage in our society is not cowardice... it is conformity.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-10-02 00:52:54 UTC</p>
+<p>Last updated at 2024-10-03 00:52:54 UTC</p>
