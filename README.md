@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Forgive those who have hurt you.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-10-17 00:53:01 UTC</p>
+<p>Last updated at 2024-10-18 00:53:00 UTC</p>
