@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Believe in your infinite potential. Your only limitations are those you set upon yourself.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  &rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-10-30 00:53:56 UTC</p>
+<p>Last updated at 2024-10-31 00:54:18 UTC</p>
