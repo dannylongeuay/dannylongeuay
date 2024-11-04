@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Never let the fear of striking out keep you from playing the game.&rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
+<blockquote>&ldquo;Anyone who has ever made anything of importance was disciplined.&rdquo; &mdash; <footer>Andrew Hendrixson</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-11-03 00:57:21 UTC</p>
+<p>Last updated at 2024-11-04 00:55:18 UTC</p>
