@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Passion creates, addiction consumes.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
+<blockquote>&ldquo;The opportunity of defeating the enemy is provided by the enemy himself.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-11-18 00:57:24 UTC</p>
+<p>Last updated at 2024-11-19 00:55:56 UTC</p>
