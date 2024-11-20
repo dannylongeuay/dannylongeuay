@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The opportunity of defeating the enemy is provided by the enemy himself.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;We suffer more often in imagination than in reality.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-11-19 00:55:56 UTC</p>
+<p>Last updated at 2024-11-20 00:55:31 UTC</p>
