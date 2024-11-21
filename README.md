@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;We suffer more often in imagination than in reality.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;It isn't that they can't see the solution. It is that they can't see the problem.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-11-20 00:55:31 UTC</p>
+<p>Last updated at 2024-11-21 00:55:19 UTC</p>
