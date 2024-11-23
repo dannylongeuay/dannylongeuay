@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The greatest weariness comes from work not done.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;The Truth is realized in an instant; the Act is practiced step by step.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-11-22 00:56:21 UTC</p>
+<p>Last updated at 2024-11-23 00:54:55 UTC</p>
