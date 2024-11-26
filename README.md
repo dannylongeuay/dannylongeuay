@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The soul without imagination is what an observatory would be without a telescope.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;The way out is in.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-11-25 00:57:14 UTC</p>
+<p>Last updated at 2024-11-26 00:56:22 UTC</p>
