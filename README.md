@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;Problems remain as problems because people are busy defending them rather than finding solutions.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-12-02 00:59:17 UTC</p>
+<p>Last updated at 2024-12-03 00:58:22 UTC</p>
