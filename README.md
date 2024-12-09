@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Decide whether or not the goal is worth the risks involved. If it is, stop worrying.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-12-08 01:03:17 UTC</p>
+<p>Last updated at 2024-12-09 00:59:57 UTC</p>
