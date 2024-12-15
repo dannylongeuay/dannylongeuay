@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-12-14 00:56:24 UTC</p>
+<p>Last updated at 2024-12-15 01:02:35 UTC</p>
