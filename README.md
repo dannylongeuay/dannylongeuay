@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Luck is a matter of preparation meeting opportunity.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;You'll get more from being a peacemaker than a warrior.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-12-19 00:56:37 UTC</p>
+<p>Last updated at 2024-12-20 00:53:46 UTC</p>
