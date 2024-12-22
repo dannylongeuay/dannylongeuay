@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Never spend your money before you have earned it.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;Longevity is a fleeting moment that lasts forever.&rdquo; &mdash; <footer>Vidal Sassoon</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-12-21 00:52:45 UTC</p>
+<p>Last updated at 2024-12-22 00:58:02 UTC</p>
