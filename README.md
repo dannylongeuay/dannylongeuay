@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;We have to live life with a sense of urgency so not a minute is wasted.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-12-29 00:58:35 UTC</p>
+<p>Last updated at 2024-12-30 00:55:20 UTC</p>
