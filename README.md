@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;You have to make time, even for something as universal as staring at the stars.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
 <hr/>
-<p>Last updated at 2024-12-31 00:53:14 UTC</p>
+<p>Last updated at 2025-01-01 00:58:28 UTC</p>
