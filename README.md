@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Be happy now, without reason - or you never will be at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Create each day anew.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-02-06 00:53:23 UTC</p>
+<p>Last updated at 2025-02-07 00:53:41 UTC</p>
