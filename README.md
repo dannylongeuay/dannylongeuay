@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;We are all self-made, but only the successful will admit it.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-02-12 00:53:24 UTC</p>
+<p>Last updated at 2025-02-13 00:53:42 UTC</p>
