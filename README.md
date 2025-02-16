@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;We are all born ignorant, but one must work hard to remain stupid.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-02-15 00:52:48 UTC</p>
+<p>Last updated at 2025-02-16 00:58:06 UTC</p>
