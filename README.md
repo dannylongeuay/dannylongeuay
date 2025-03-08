@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The world doesn't always give you want, but it often gives you what you need.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Everything flows, nothing stands still.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-03-07 00:56:21 UTC</p>
+<p>Last updated at 2025-03-08 00:43:35 UTC</p>
