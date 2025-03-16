@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-03-15 00:55:09 UTC</p>
+<p>Last updated at 2025-03-16 01:00:28 UTC</p>
