@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It's easier to lose than to win.  &rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+<blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-03-24 00:58:50 UTC</p>
+<p>Last updated at 2025-03-25 00:57:41 UTC</p>
