@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Everybody needs a passion. That's what keeps life interesting.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
+<blockquote>&ldquo;If you are going to achieve excellence in big things, you develop the habit in little matters.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-04-04 00:57:17 UTC</p>
+<p>Last updated at 2025-04-05 00:56:37 UTC</p>
