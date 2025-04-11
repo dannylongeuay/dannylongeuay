@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;He who wishes to be obeyed must know how to command.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+<blockquote>&ldquo;I can live without money, but I cannot live without love.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-04-10 00:57:59 UTC</p>
+<p>Last updated at 2025-04-11 00:58:27 UTC</p>
