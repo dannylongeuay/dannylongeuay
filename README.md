@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Truth is such a rare thing, it is delighted to tell it.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-04-14 01:01:07 UTC</p>
+<p>Last updated at 2025-04-15 00:59:42 UTC</p>
