@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
+<blockquote>&ldquo;Still your waters.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-04-17 00:58:43 UTC</p>
+<p>Last updated at 2025-04-18 00:57:54 UTC</p>
