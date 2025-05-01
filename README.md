@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Those who cannot change their minds cannot change anything.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Duty makes us do things well, but love makes us do them beautifully.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-04-30 01:00:06 UTC</p>
+<p>Last updated at 2025-05-01 01:05:52 UTC</p>
