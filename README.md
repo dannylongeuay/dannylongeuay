@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-05-03 00:58:43 UTC</p>
+<p>Last updated at 2025-05-04 01:06:10 UTC</p>
