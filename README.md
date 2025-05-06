@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Throw your heart over the bar and your body will follow.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;If what you're doing is not your passion, you have nothing to lose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-05-05 01:03:19 UTC</p>
+<p>Last updated at 2025-05-06 01:00:47 UTC</p>
