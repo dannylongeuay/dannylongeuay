@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;The majority of what you want will come from the minority of what you do.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;We don't stop playing because we grow old; we grow old because we stop playing.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-05-10 00:58:46 UTC</p>
+<p>Last updated at 2025-05-11 01:04:57 UTC</p>
