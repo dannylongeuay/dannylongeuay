@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;People are doing the best that they can from their own level of consciousness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Amateurs sit and wait for inspiration, the rest of us just get up and got to work.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-05-13 01:01:42 UTC</p>
+<p>Last updated at 2025-05-14 01:00:59 UTC</p>
