@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;Deliberately seek the company of people who influence you to think and act on building the life you desire.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-05-24 00:59:13 UTC</p>
+<p>Last updated at 2025-05-26 01:03:24 UTC</p>
