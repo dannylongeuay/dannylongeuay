@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Time goes from present to past.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-06-01 01:14:29 UTC</p>
+<p>Last updated at 2025-06-02 01:05:02 UTC</p>
