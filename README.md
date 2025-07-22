@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Everything eaten is killed. Every meal is a sacrifice.&rdquo; &mdash; <footer>Adi Da Samraj</footer></blockquote>
+<blockquote>&ldquo;Your work is to discover your work and then, with all your heart, to give yourself to it.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-07-21 01:11:11 UTC</p>
+<p>Last updated at 2025-07-22 01:07:25 UTC</p>
