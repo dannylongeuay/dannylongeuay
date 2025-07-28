@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Be the silent watcher of your thoughts and behavior. You are beneath the thinker.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Confidence comes from crossing thresholds.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-07-27 01:14:12 UTC</p>
+<p>Last updated at 2025-07-28 01:12:19 UTC</p>
