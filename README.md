@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;How many times do you have to get hit over the head until you figure out who's hitting you?&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-08-02 01:05:49 UTC</p>
+<p>Last updated at 2025-08-03 01:15:27 UTC</p>
