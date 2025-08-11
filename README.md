@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Management is doing things right; leadership is doing the right things.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;The chief cause of failure and unhappiness is trading what you want most for what you want right now.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-08-10 01:12:55 UTC</p>
+<p>Last updated at 2025-08-11 01:09:48 UTC</p>
