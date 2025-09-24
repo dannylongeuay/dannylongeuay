@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Human beings can alter their lives by altering their attitudes of mind.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;You must be willing to do what others won't do, to have what others won't have.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-09-23 00:56:29 UTC</p>
+<p>Last updated at 2025-09-24 00:57:21 UTC</p>
