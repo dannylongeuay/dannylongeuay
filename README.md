@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Excellence is not a skill. It is an attitude. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Forgive those who have hurt you.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-10-17 00:58:04 UTC</p>
+<p>Last updated at 2025-10-18 00:55:33 UTC</p>
