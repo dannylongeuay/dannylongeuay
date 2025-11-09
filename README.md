@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;It is indeed a radical act of love just to sit down and be quiet for a time by yourself.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
+<blockquote>&ldquo;It is what we make out of what we have, not what we are given, that separates one person from another.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-11-08 00:58:23 UTC</p>
+<p>Last updated at 2025-11-09 01:04:19 UTC</p>
