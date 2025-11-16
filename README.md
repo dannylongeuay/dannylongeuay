@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Dream big. Start small. But most of all, start.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-11-15 01:00:11 UTC</p>
+<p>Last updated at 2025-11-16 01:05:58 UTC</p>
