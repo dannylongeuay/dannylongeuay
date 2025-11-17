@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Dream big. Start small. But most of all, start.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;The power to make and break habits and learning how to do that is really important.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-11-16 01:05:58 UTC</p>
+<p>Last updated at 2025-11-17 01:03:03 UTC</p>
