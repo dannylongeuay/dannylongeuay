@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-12-10 01:05:05 UTC</p>
+<p>Last updated at 2025-12-11 01:05:42 UTC</p>
