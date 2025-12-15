@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-12-14 01:09:59 UTC</p>
+<p>Last updated at 2025-12-15 01:07:27 UTC</p>
