@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Don't let anyone define you. You define yourself.&rdquo; &mdash; <footer>Billie Jean King</footer></blockquote>
+<blockquote>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 <hr/>
-<p>Last updated at 2025-12-29 01:10:57 UTC</p>
+<p>Last updated at 2025-12-30 01:05:44 UTC</p>
