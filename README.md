@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;You are free, and that is why you are lost. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+<blockquote>&ldquo;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <hr/>
-<p>Last updated at 2026-01-26 01:14:05 UTC</p>
+<p>Last updated at 2026-01-27 01:13:02 UTC</p>
