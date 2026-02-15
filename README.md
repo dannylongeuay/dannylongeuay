@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Quote of the Day: <span style="color:grey;">(zenquotes.io)</span> </h3>
-<blockquote>&ldquo;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 <hr/>
-<p>Last updated at 2026-02-14 01:19:07 UTC</p>
+<p>Last updated at 2026-02-15 01:26:50 UTC</p>
