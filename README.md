@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Daniel</h1>
-<h3 align="center">Engineering Manager</h3>
-
----
 
 ### About Me
 
-- Husband & Father
-- Hobbies: chess, sci-fi/fantasy books, guitar
+- Husband and father
+- I enjoy chess, sci-fi/fantasy books, and playing guitar
 - Connect with me on [LinkedIn](https://linkedin.com/in/dannylongeuay)
 
 ---
@@ -37,4 +34,4 @@
 
 ---
 
-<p align="center"><sub>Last updated: 2026-03-08 19:35:50 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-08 19:50:18 UTC</sub></p>

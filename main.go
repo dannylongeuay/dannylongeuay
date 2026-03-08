@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"context"
 	"encoding/json"
 	"fmt"
 	"log"
@@ -12,6 +13,8 @@ import (
 	"text/template"
 	"time"
 )
+
+var httpClient = &http.Client{Timeout: 15 * time.Second}
 
 // --- Types ---
 
@@ -42,14 +45,14 @@ func fetchOnThisDay() OnThisDay {
 	now := time.Now().UTC()
 	url := fmt.Sprintf("https://en.wikipedia.org/api/rest_v1/feed/onthisday/selected/%02d/%02d", now.Month(), now.Day())
 
-	req, err := http.NewRequest("GET", url, nil)
+	req, err := http.NewRequestWithContext(context.Background(), "GET", url, nil)
 	if err != nil {
 		log.Printf("WARN: on this day request error: %v", err)
 		return OnThisDay{}
 	}
 	req.Header.Set("User-Agent", "dannylongeuay-profile-readme/1.0")
 
-	resp, err := http.DefaultClient.Do(req)
+	resp, err := httpClient.Do(req)
 	if err != nil {
 		log.Printf("WARN: on this day fetch error: %v", err)
 		return OnThisDay{}
@@ -87,6 +90,9 @@ func fetchOnThisDay() OnThisDay {
 	// Pick a random-ish event based on the day
 	idx := now.YearDay() % len(result.Selected)
 	event := result.Selected[idx]
+	if event.Text == "" {
+		return OnThisDay{}
+	}
 
 	pageURL := ""
 	if len(event.Pages) > 0 {
@@ -106,14 +112,14 @@ func fetchOnThisDay() OnThisDay {
 func fetchLeetCodeDaily() LeetCode {
 	query := `{"query":"query { activeDailyCodingChallengeQuestion { link question { title difficulty } } }"}`
 
-	req, err := http.NewRequest("POST", "https://leetcode.com/graphql", strings.NewReader(query))
+	req, err := http.NewRequestWithContext(context.Background(), "POST", "https://leetcode.com/graphql", strings.NewReader(query))
 	if err != nil {
 		log.Printf("WARN: leetcode request error: %v", err)
 		return LeetCode{}
 	}
 	req.Header.Set("Content-Type", "application/json")
 
-	resp, err := http.DefaultClient.Do(req)
+	resp, err := httpClient.Do(req)
 	if err != nil {
 		log.Printf("WARN: leetcode fetch error: %v", err)
 		return LeetCode{}
