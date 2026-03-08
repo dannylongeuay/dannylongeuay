@@ -19,44 +19,22 @@
 
 ### Pinned Repositories
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dannylongeuay/cyberdan-blog">
-        <img src="./profile/pin-cyberdan-blog.svg" alt="cyberdan-blog" width="400" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dannylongeuay/cyberdan-platform">
-        <img src="./profile/pin-cyberdan-platform.svg" alt="cyberdan-platform" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dannylongeuay/cyberdan-c4">
-        <img src="./profile/pin-cyberdan-c4.svg" alt="cyberdan-c4" width="400" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dannylongeuay/resume">
-        <img src="./profile/pin-resume.svg" alt="resume" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dannylongeuay/adventofcode">
-        <img src="./profile/pin-adventofcode.svg" alt="adventofcode" width="400" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dannylongeuay/nixos-config">
-        <img src="./profile/pin-nixos-config.svg" alt="nixos-config" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/dannylongeuay/cyberdan-blog">
+    <img src="./profile/pin-cyberdan-blog.svg" alt="cyberdan-blog" width="400" />
+  </a>
+  <a href="https://github.com/dannylongeuay/cyberdan-c4">
+    <img src="./profile/pin-cyberdan-c4.svg" alt="cyberdan-c4" width="400" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/dannylongeuay/nixos-config">
+    <img src="./profile/pin-nixos-config.svg" alt="nixos-config" width="400" />
+  </a>
+  <a href="https://github.com/dannylongeuay/resume">
+    <img src="./profile/pin-resume.svg" alt="resume" width="400" />
+  </a>
+</p>
 
 ---
 
@@ -74,4 +52,4 @@
 
 ---
 
-<p align="center"><sub>Last updated: 2026-03-08 20:42:48 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-08 20:59:42 UTC</sub></p>
