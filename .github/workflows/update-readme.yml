@@ -33,6 +33,54 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card - cyberdan-blog
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=dannylongeuay&repo=cyberdan-blog&theme=tokyonight&hide_border=true
+          path: profile/pin-cyberdan-blog.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - cyberdan-platform
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=dannylongeuay&repo=cyberdan-platform&theme=tokyonight&hide_border=true
+          path: profile/pin-cyberdan-platform.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - cyberdan-c4
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=dannylongeuay&repo=cyberdan-c4&theme=tokyonight&hide_border=true
+          path: profile/pin-cyberdan-c4.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - resume
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=dannylongeuay&repo=resume&theme=tokyonight&hide_border=true
+          path: profile/pin-resume.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - adventofcode
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=dannylongeuay&repo=adventofcode&theme=tokyonight&hide_border=true
+          path: profile/pin-adventofcode.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - nixos-config
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=dannylongeuay&repo=nixos-config&theme=tokyonight&hide_border=true
+          path: profile/pin-nixos-config.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: actions/setup-go@v5
         with:
           go-version: "1.25.7"
@@ -44,5 +92,5 @@ jobs:
         run: |
           git config --global user.name '${{ github.actor }}'
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
-          git add README.md profile/stats.svg profile/top-langs.svg
+          git add README.md profile/*.svg
           git diff --cached --quiet || (git commit -m 'chore: updated readme' && git push)
