@@ -1,0 +1,44 @@
+<h1 align="center">Hi, I'm Daniel</h1>
+<h3 align="center">Engineering Manager</h3>
+
+---
+
+### About Me
+
+- Husband & Father
+- Hobbies: chess, sci-fi/fantasy books, guitar
+- Connect with me on [LinkedIn](https://linkedin.com/in/dannylongeuay)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username={{.GitHubUser}}&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{.GitHubUser}}&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{.GitHubUser}}&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+{{- if .OnThisDay.Available}}
+
+### On This Day in History
+
+> **{{.OnThisDay.Year}}** - {{.OnThisDay.Text}}{{if .OnThisDay.PageURL}} ([Read more]({{.OnThisDay.PageURL}})){{end}}
+
+---
+{{- end}}
+{{- if .LeetCode.Available}}
+
+### LeetCode Daily Challenge
+
+| Problem | Difficulty |
+|---------|------------|
+| [{{.LeetCode.Title}}]({{.LeetCode.URL}}) | {{.LeetCode.Difficulty}} |
+
+---
+{{- end}}
+
+<p align="center"><sub>Last updated: {{.Timestamp}}</sub></p>
