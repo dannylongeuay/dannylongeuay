@@ -12,8 +12,6 @@
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
-</p>
-<p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
@@ -54,4 +52,4 @@
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-08 21:35:56 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-08 21:39:10 UTC</sub></p>
