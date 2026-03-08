@@ -9,15 +9,40 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Generate GitHub Stats card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: show_icons=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: layout=compact&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: actions/setup-go@v5
         with:
           go-version: "1.25.7"
+
       - name: Generate README
         run: go run main.go
+
       - name: Push changes
         run: |
           git config --global user.name '${{ github.actor }}'
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
-          git diff --quiet README.md || (git add README.md && git commit -m 'chore: updated readme' && git push)
+          git add README.md profile/stats.svg profile/top-langs.svg
+          git diff --cached --quiet || (git commit -m 'chore: updated readme' && git push)
