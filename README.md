@@ -6,7 +6,7 @@
 - I enjoy chess, sci-fi/fantasy books, and playing guitar
 - Connect with me on [LinkedIn](https://linkedin.com/in/dannylongeuay)
 
----
+<hr/>
 
 ### GitHub Stats
 
@@ -16,6 +16,8 @@
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+
+<hr/>
 
 ### Pinned Repositories
 
@@ -36,13 +38,13 @@
   </a>
 </p>
 
----
+<hr/>
 
 ### On This Day in History
 
 > **1924** - Three violent explosions at a coal mine near Castle Gate, Utah, killed all 171 miners working there. ([Read more](https://en.wikipedia.org/wiki/Castle_Gate_Mine_disaster))
 
----
+<hr/>
 
 ### LeetCode Daily Challenge
 
@@ -50,6 +52,6 @@
 |---------|------------|
 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium |
 
----
+<hr/>
 
-<p align="center"><sub>Last updated: 2026-03-08 20:59:42 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-08 21:35:56 UTC</sub></p>
