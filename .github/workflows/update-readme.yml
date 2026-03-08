@@ -41,14 +41,6 @@ jobs:
           path: profile/pin-cyberdan-blog.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - cyberdan-platform
-        uses: stats-organization/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=dannylongeuay&repo=cyberdan-platform&theme=tokyonight&hide_border=true
-          path: profile/pin-cyberdan-platform.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate pin card - cyberdan-c4
         uses: stats-organization/github-readme-stats-action@v1
         with:
@@ -63,14 +55,6 @@ jobs:
           card: pin
           options: username=dannylongeuay&repo=resume&theme=tokyonight&hide_border=true
           path: profile/pin-resume.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card - adventofcode
-        uses: stats-organization/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=dannylongeuay&repo=adventofcode&theme=tokyonight&hide_border=true
-          path: profile/pin-adventofcode.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card - nixos-config
