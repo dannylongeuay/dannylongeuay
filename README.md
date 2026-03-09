@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1924** - Three violent explosions at a coal mine near Castle Gate, Utah, killed all 171 miners working there. ([Read more](https://en.wikipedia.org/wiki/Castle_Gate_Mine_disaster))
+> **1910** - A seventeen-month-long strike, which at its peak involved 15,000 coal miners represented by the United Mine Workers across 65 mines, began in Westmoreland County, Pennsylvania, U.S. ([Read more](https://en.wikipedia.org/wiki/Westmoreland_County_coal_strike_of_1910%E2%80%931911))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium |
+| [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-08 21:39:10 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-09 01:22:33 UTC</sub></p>
