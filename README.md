@@ -23,16 +23,13 @@
   <a href="https://github.com/dannylongeuay/cyberdan-blog">
     <img src="./profile/pin-cyberdan-blog.svg" alt="cyberdan-blog" width="400" />
   </a>
-  <a href="https://github.com/dannylongeuay/cyberdan-c4">
-    <img src="./profile/pin-cyberdan-c4.svg" alt="cyberdan-c4" width="400" />
+  <a href="https://github.com/dannylongeuay/cyberdan-c4-ui">
+    <img src="./profile/pin-cyberdan-c4-ui.svg" alt="cyberdan-c4" width="400" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/dannylongeuay/nixos-config">
-    <img src="./profile/pin-nixos-config.svg" alt="nixos-config" width="400" />
-  </a>
-  <a href="https://github.com/dannylongeuay/resume">
-    <img src="./profile/pin-resume.svg" alt="resume" width="400" />
+  <a href="https://github.com/dannylongeuay/cyberdan-infinite-shift">
+    <img src="./profile/pin-cyberdan-infinite-shift.svg" alt="cyberdan-infinite-shift" width="400" />
   </a>
 </p>
 
@@ -52,4 +49,4 @@
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-10 01:16:46 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-10 15:29:41 UTC</sub></p>
