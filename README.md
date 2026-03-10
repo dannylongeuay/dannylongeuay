@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1910** - A seventeen-month-long strike, which at its peak involved 15,000 coal miners represented by the United Mine Workers across 65 mines, began in Westmoreland County, Pennsylvania, U.S. ([Read more](https://en.wikipedia.org/wiki/Westmoreland_County_coal_strike_of_1910%E2%80%931911))
+> **1915** - The Battle of Neuve Chapelle, the first deliberately planned British offensive of the First World War, began. ([Read more](https://en.wikipedia.org/wiki/Battle_of_Neuve-Chapelle))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium |
+| [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-09 01:22:33 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-10 01:16:46 UTC</sub></p>
