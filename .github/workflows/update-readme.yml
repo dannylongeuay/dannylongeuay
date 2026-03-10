@@ -41,28 +41,20 @@ jobs:
           path: profile/pin-cyberdan-blog.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - cyberdan-c4
+      - name: Generate pin card - cyberdan-c4-ui
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dannylongeuay&repo=cyberdan-c4&theme=tokyonight&hide_border=true
-          path: profile/pin-cyberdan-c4.svg
+          options: username=dannylongeuay&repo=cyberdan-c4-ui&theme=tokyonight&hide_border=true
+          path: profile/pin-cyberdan-c4-ui.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - resume
+      - name: Generate pin card - cyberdan-infinite-shift
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dannylongeuay&repo=resume&theme=tokyonight&hide_border=true
-          path: profile/pin-resume.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card - nixos-config
-        uses: stats-organization/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=dannylongeuay&repo=nixos-config&theme=tokyonight&hide_border=true
-          path: profile/pin-nixos-config.svg
+          options: username=dannylongeuay&repo=cyberdan-infinite-shift&theme=tokyonight&hide_border=true
+          path: profile/pin-cyberdan-infinite-shift.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-go@v5
