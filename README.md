@@ -37,7 +37,7 @@
 
 ### On This Day in History
 
-> **2007** - Georgian authorities accused Russia of orchestrating a helicopter attack in the Kodori Valley, in the breakaway territory of Abkhazia. ([Read more](https://en.wikipedia.org/wiki/2007_Georgia_helicopter_incident))
+> **1881** - Andrew Watson (pictured) captained the Scotland national football team against England, becoming the world's first black international footballer. ([Read more](https://en.wikipedia.org/wiki/Andrew_Watson_(footballer%2C_born_1856)))
 
 <hr/>
 
@@ -45,8 +45,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy |
+| [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-11 01:17:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-12 01:17:15 UTC</sub></p>
