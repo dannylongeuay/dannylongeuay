@@ -37,7 +37,7 @@
 
 ### On This Day in History
 
-> **1881** - Andrew Watson (pictured) captained the Scotland national football team against England, becoming the world's first black international footballer. ([Read more](https://en.wikipedia.org/wiki/Andrew_Watson_(footballer%2C_born_1856)))
+> **1986** - Claiming the right of innocent passage, the American warships Yorktown and Caron entered Soviet territorial waters in the Black Sea. ([Read more](https://en.wikipedia.org/wiki/Innocent_passage))
 
 <hr/>
 
@@ -45,8 +45,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-12 01:17:15 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-13 01:21:10 UTC</sub></p>
