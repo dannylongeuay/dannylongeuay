@@ -37,7 +37,7 @@
 
 ### On This Day in History
 
-> **1986** - Claiming the right of innocent passage, the American warships Yorktown and Caron entered Soviet territorial waters in the Black Sea. ([Read more](https://en.wikipedia.org/wiki/Innocent_passage))
+> **1489** - Catherine Cornaro (pictured), Queen of Cyprus, was forced to abdicate and sell the administration of the island to the Republic of Venice. ([Read more](https://en.wikipedia.org/wiki/Catherine_Cornaro))
 
 <hr/>
 
@@ -45,8 +45,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-13 01:21:10 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-14 01:19:18 UTC</sub></p>
