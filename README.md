@@ -37,7 +37,7 @@
 
 ### On This Day in History
 
-> **1489** - Catherine Cornaro (pictured), Queen of Cyprus, was forced to abdicate and sell the administration of the island to the Republic of Venice. ([Read more](https://en.wikipedia.org/wiki/Catherine_Cornaro))
+> **1916** - Six days after Pancho Villa and his cross-border raiders attacked Columbus, New Mexico, U.S. general John J. Pershing led a punitive expedition into Mexico to pursue him. ([Read more](https://en.wikipedia.org/wiki/Pancho_Villa))
 
 <hr/>
 
@@ -45,8 +45,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-14 01:19:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-15 01:44:13 UTC</sub></p>
