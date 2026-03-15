@@ -31,6 +31,9 @@
   <a href="https://github.com/dannylongeuay/cyberdan-infinite-shift">
     <img src="./profile/pin-cyberdan-infinite-shift.svg" alt="cyberdan-infinite-shift" width="400" />
   </a>
+  <a href="https://github.com/dannylongeuay/cyberdan-chess-ui">
+    <img src="./profile/pin-cyberdan-chess-ui.svg" alt="cyberdan-chess-ui" width="400" />
+  </a>
 </p>
 
 <hr/>
@@ -49,4 +52,4 @@
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-15 01:44:13 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-15 02:11:08 UTC</sub></p>
