@@ -57,6 +57,14 @@ jobs:
           path: profile/pin-cyberdan-infinite-shift.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card - cyberdan-chess-ui
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=dannylongeuay&repo=cyberdan-chess-ui&theme=tokyonight&hide_border=true
+          path: profile/pin-cyberdan-chess-ui.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: actions/setup-go@v5
         with:
           go-version: "1.25.7"
