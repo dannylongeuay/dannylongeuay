@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1916** - Six days after Pancho Villa and his cross-border raiders attacked Columbus, New Mexico, U.S. general John J. Pershing led a punitive expedition into Mexico to pursue him. ([Read more](https://en.wikipedia.org/wiki/Pancho_Villa))
+> **2015** - Natalia Kills and Willy Moon were fired as judges on the second series of The X Factor New Zealand, following public backlash over comments they made to a contestant during the first live show. ([Read more](https://en.wikipedia.org/wiki/Teddy_Sinclair))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | Hard |
+| [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-15 02:11:08 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-16 01:45:30 UTC</sub></p>
