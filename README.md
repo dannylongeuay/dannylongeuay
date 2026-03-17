@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2015** - Natalia Kills and Willy Moon were fired as judges on the second series of The X Factor New Zealand, following public backlash over comments they made to a contestant during the first live show. ([Read more](https://en.wikipedia.org/wiki/Teddy_Sinclair))
+> **1902** - The Dorchester Heights Monument , memorializing the siege of Boston during the American Revolutionary War, was dedicated. ([Read more](https://en.wikipedia.org/wiki/Dorchester_Heights_Monument))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-16 01:45:30 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-17 01:23:02 UTC</sub></p>
