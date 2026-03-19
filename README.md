@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1969** - Vietnam War: The United States began secretly bombing the Sihanouk Trail in Cambodia, used by communist forces to infiltrate South Vietnam. ([Read more](https://en.wikipedia.org/wiki/Vietnam_War))
+> **1911** - Established by Clara Zetkin, Käte Duncker, and others, International Women's Day was first observed. ([Read more](https://en.wikipedia.org/wiki/Clara_Zetkin))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-18 01:26:24 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-19 01:26:44 UTC</sub></p>
