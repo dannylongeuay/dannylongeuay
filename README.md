@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1911** - Established by Clara Zetkin, Käte Duncker, and others, International Women's Day was first observed. ([Read more](https://en.wikipedia.org/wiki/Clara_Zetkin))
+> **1861** - An earthquake occurred in the Argentine province of Mendoza, causing at least 6,000 deaths and destroying most of the buildings in the province's capital city. ([Read more](https://en.wikipedia.org/wiki/1861_Mendoza_earthquake))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-19 01:26:44 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-20 01:22:05 UTC</sub></p>
