@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1861** - An earthquake occurred in the Argentine province of Mendoza, causing at least 6,000 deaths and destroying most of the buildings in the province's capital city. ([Read more](https://en.wikipedia.org/wiki/1861_Mendoza_earthquake))
+> **2019** - A major explosion at a chemical plant in Yancheng, China, killed 78 people and injured 640 others. ([Read more](https://en.wikipedia.org/wiki/2019_Xiangshui_chemical_plant_explosion))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-20 01:22:05 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-21 01:17:06 UTC</sub></p>
