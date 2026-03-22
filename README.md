@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2019** - A major explosion at a chemical plant in Yancheng, China, killed 78 people and injured 640 others. ([Read more](https://en.wikipedia.org/wiki/2019_Xiangshui_chemical_plant_explosion))
+> **2014** - A massive landslide in Oso, Washington, killed 43 people after engulfing a rural neighborhood, the largest death toll for a standalone landslide in U.S. history. ([Read more](https://en.wikipedia.org/wiki/2014_Oso_landslide))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | Easy |
+| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-21 01:17:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-22 01:26:38 UTC</sub></p>
