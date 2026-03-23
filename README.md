@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2014** - A massive landslide in Oso, Washington, killed 43 people after engulfing a rural neighborhood, the largest death toll for a standalone landslide in U.S. history. ([Read more](https://en.wikipedia.org/wiki/2014_Oso_landslide))
+> **1996** - Lee Teng-hui was elected President of the Republic of China in the first direct presidential election in Taiwan. ([Read more](https://en.wikipedia.org/wiki/Lee_Teng-hui))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-22 01:26:38 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-23 01:26:22 UTC</sub></p>
