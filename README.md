@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1996** - Lee Teng-hui was elected President of the Republic of China in the first direct presidential election in Taiwan. ([Read more](https://en.wikipedia.org/wiki/Lee_Teng-hui))
+> **1980** - One day after making a plea to Salvadoran soldiers to stop carrying out the government's repression, Archbishop Óscar Romero was assassinated while celebrating Mass in San Salvador. ([Read more](https://en.wikipedia.org/wiki/Revolutionary_Government_Junta_of_El_Salvador))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium |
+| [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-23 01:26:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-24 01:20:29 UTC</sub></p>
