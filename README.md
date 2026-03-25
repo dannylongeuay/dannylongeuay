@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1980** - One day after making a plea to Salvadoran soldiers to stop carrying out the government's repression, Archbishop Óscar Romero was assassinated while celebrating Mass in San Salvador. ([Read more](https://en.wikipedia.org/wiki/Revolutionary_Government_Junta_of_El_Salvador))
+> **1458** - Wars of the Roses: A formal reconciliation ceremony between the Lancastrians and Yorkists led to a brief period of peace. ([Read more](https://en.wikipedia.org/wiki/Wars_of_the_Roses))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) | Medium |
+| [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-24 01:20:29 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-25 01:25:13 UTC</sub></p>
