@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1458** - Wars of the Roses: A formal reconciliation ceremony between the Lancastrians and Yorkists led to a brief period of peace. ([Read more](https://en.wikipedia.org/wiki/Wars_of_the_Roses))
+> **1812** - The Boston Gazette printed a cartoon coining the term "gerrymander", named after Governor Elbridge Gerry (pictured), who approved the legislation that created oddly shaped electoral districts. ([Read more](https://en.wikipedia.org/wiki/Gerrymandering))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium |
+| [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-25 01:25:13 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-26 01:44:31 UTC</sub></p>
