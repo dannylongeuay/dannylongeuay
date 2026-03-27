@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1812** - The Boston Gazette printed a cartoon coining the term "gerrymander", named after Governor Elbridge Gerry (pictured), who approved the legislation that created oddly shaped electoral districts. ([Read more](https://en.wikipedia.org/wiki/Gerrymandering))
+> **2015** - Himeji Castle, the largest and most visited Japanese castle, re-opened after five years of restoration work. ([Read more](https://en.wikipedia.org/wiki/Himeji_Castle))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard |
+| [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-26 01:44:31 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-27 01:44:22 UTC</sub></p>
