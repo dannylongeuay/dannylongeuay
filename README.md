@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2015** - Himeji Castle, the largest and most visited Japanese castle, re-opened after five years of restoration work. ([Read more](https://en.wikipedia.org/wiki/Himeji_Castle))
+> **1802** - German astronomer Heinrich Wilhelm Matthias Olbers discovered Pallas, the second asteroid to be identified, but at the time considered to be a planet. ([Read more](https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Matthias_Olbers))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | Easy |
+| [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-27 01:44:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-28 01:24:01 UTC</sub></p>
