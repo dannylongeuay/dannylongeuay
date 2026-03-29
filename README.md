@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1802** - German astronomer Heinrich Wilhelm Matthias Olbers discovered Pallas, the second asteroid to be identified, but at the time considered to be a planet. ([Read more](https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Matthias_Olbers))
+> **2017** - British prime minister Theresa May invoked Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union. ([Read more](https://en.wikipedia.org/wiki/Theresa_May))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | Hard |
+| [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-28 01:24:01 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-29 01:46:38 UTC</sub></p>
