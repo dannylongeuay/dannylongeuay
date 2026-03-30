@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2017** - British prime minister Theresa May invoked Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union. ([Read more](https://en.wikipedia.org/wiki/Theresa_May))
+> **1972** - Vietnam War: North Vietnamese forces began the Easter Offensive in an attempt to gain as much territory and destroy as many South Vietnamese units as possible. ([Read more](https://en.wikipedia.org/wiki/Vietnam_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-29 01:46:38 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-30 01:49:03 UTC</sub></p>
