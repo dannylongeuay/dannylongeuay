@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1972** - Vietnam War: North Vietnamese forces began the Easter Offensive in an attempt to gain as much territory and destroy as many South Vietnamese units as possible. ([Read more](https://en.wikipedia.org/wiki/Vietnam_War))
+> **2004** - The Old National Library Building in Singapore was closed to make way for a tunnel, despite widespread protests. ([Read more](https://en.wikipedia.org/wiki/Old_National_Library_Building))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-30 01:49:03 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-03-31 01:45:13 UTC</sub></p>
