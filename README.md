@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2004** - The Old National Library Building in Singapore was closed to make way for a tunnel, despite widespread protests. ([Read more](https://en.wikipedia.org/wiki/Old_National_Library_Building))
+> **1976** - Steve Jobs and Steve Wozniak founded Apple Computer, Inc. (first logo pictured). ([Read more](https://en.wikipedia.org/wiki/Steve_Jobs))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | Hard |
+| [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-03-31 01:45:13 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-01 01:53:18 UTC</sub></p>
