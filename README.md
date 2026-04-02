@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1976** - Steve Jobs and Steve Wozniak founded Apple Computer, Inc. (first logo pictured). ([Read more](https://en.wikipedia.org/wiki/Steve_Jobs))
+> **1968** - 2001: A Space Odyssey, the epic science fiction film produced and directed by Stanley Kubrick, premiered at the Uptown Theater in Washington, D.C. ([Read more](https://en.wikipedia.org/wiki/2001%3A_A_Space_Odyssey))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | Hard |
+| [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-01 01:53:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-02 01:29:12 UTC</sub></p>
