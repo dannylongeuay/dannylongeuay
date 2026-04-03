@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1968** - 2001: A Space Odyssey, the epic science fiction film produced and directed by Stanley Kubrick, premiered at the Uptown Theater in Washington, D.C. ([Read more](https://en.wikipedia.org/wiki/2001%3A_A_Space_Odyssey))
+> **1922** - Joseph Stalin became the first general secretary of the Communist Party of the Soviet Union. ([Read more](https://en.wikipedia.org/wiki/Joseph_Stalin))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Medium |
+| [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-02 01:29:12 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-03 01:44:21 UTC</sub></p>
