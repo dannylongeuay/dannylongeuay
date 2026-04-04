@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1922** - Joseph Stalin became the first general secretary of the Communist Party of the Soviet Union. ([Read more](https://en.wikipedia.org/wiki/Joseph_Stalin))
+> **-503** - Roman consul Agrippa Menenius Lanatus celebrated a triumph for a military victory over the Sabines. ([Read more](https://en.wikipedia.org/wiki/Roman_consul))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | Hard |
+| [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-03 01:44:21 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-04 01:25:15 UTC</sub></p>
