@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **-503** - Roman consul Agrippa Menenius Lanatus celebrated a triumph for a military victory over the Sabines. ([Read more](https://en.wikipedia.org/wiki/Roman_consul))
+> **1986** - The Libyan secret service bombed a discotheque in West Berlin, resulting in three deaths and 229 others injured. ([Read more](https://en.wikipedia.org/wiki/West_Berlin_discotheque_bombing))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium |
+| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-04 01:25:15 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-05 01:48:18 UTC</sub></p>
