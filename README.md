@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1986** - The Libyan secret service bombed a discotheque in West Berlin, resulting in three deaths and 229 others injured. ([Read more](https://en.wikipedia.org/wiki/West_Berlin_discotheque_bombing))
+> **1994** - The aircraft carrying Rwandan president Juvénal Habyarimana and Burundian president Cyprien Ntaryamira was shot down in Kigali; the event became the catalyst for the Rwandan genocide. ([Read more](https://en.wikipedia.org/wiki/Juv%C3%A9nal_Habyarimana))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy |
+| [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-05 01:48:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-06 01:49:22 UTC</sub></p>
