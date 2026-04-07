@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1994** - The aircraft carrying Rwandan president Juvénal Habyarimana and Burundian president Cyprien Ntaryamira was shot down in Kigali; the event became the catalyst for the Rwandan genocide. ([Read more](https://en.wikipedia.org/wiki/Juv%C3%A9nal_Habyarimana))
+> **2001** - NASA's 2001 Mars Odyssey (artist's conception pictured), the longest-surviving continually active spacecraft in orbit around a planet other than Earth, launched from Cape Canaveral. ([Read more](https://en.wikipedia.org/wiki/NASA))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium |
+| [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-06 01:49:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-07 01:46:21 UTC</sub></p>
