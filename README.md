@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2001** - NASA's 2001 Mars Odyssey (artist's conception pictured), the longest-surviving continually active spacecraft in orbit around a planet other than Earth, launched from Cape Canaveral. ([Read more](https://en.wikipedia.org/wiki/NASA))
+> **1917** - World War I: German naval officer Wilhelm Werner murdered 19 captured crew members of the British cargo ship Torrington by submerging U-55 when they were on deck. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | Medium |
+| [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-07 01:46:21 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-08 01:46:40 UTC</sub></p>
