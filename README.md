@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1917** - World War I: German naval officer Wilhelm Werner murdered 19 captured crew members of the British cargo ship Torrington by submerging U-55 when they were on deck. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
+> **1947** - Sixteen white and black men began a two-week journey in the American South, acting in defiance of local laws that enforced segregated seating on public buses. ([Read more](https://en.wikipedia.org/wiki/Journey_of_Reconciliation))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | Medium |
+| [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-08 01:46:40 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-09 01:26:28 UTC</sub></p>
