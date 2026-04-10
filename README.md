@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1947** - Sixteen white and black men began a two-week journey in the American South, acting in defiance of local laws that enforced segregated seating on public buses. ([Read more](https://en.wikipedia.org/wiki/Journey_of_Reconciliation))
+> **1970** - In the midst of business disagreements with his bandmates, Paul McCartney announced his departure from the Beatles. ([Read more](https://en.wikipedia.org/wiki/Paul_McCartney))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | Hard |
+| [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-09 01:26:28 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-10 01:50:08 UTC</sub></p>
