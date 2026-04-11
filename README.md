@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1970** - In the midst of business disagreements with his bandmates, Paul McCartney announced his departure from the Beatles. ([Read more](https://en.wikipedia.org/wiki/Paul_McCartney))
+> **1689** - William III and Mary II (both pictured) were crowned joint sovereigns of England in a ceremony at Westminster Abbey. ([Read more](https://en.wikipedia.org/wiki/William_III_of_England))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | Easy |
+| [Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-10 01:50:08 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-11 01:28:13 UTC</sub></p>
