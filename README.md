@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2014** - A fire broke out near Valparaíso, Chile, eventually destroying at least 2,500 homes and leaving approximately 11,000 people homeless (damage pictured). ([Read more](https://en.wikipedia.org/wiki/Great_Fire_of_Valpara%C3%ADso))
+> **2009** - Andrew Hussie's webcomic Homestuck debuted, and later concluded on the same day in 2016. ([Read more](https://en.wikipedia.org/wiki/Andrew_Hussie))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-12 01:52:48 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-13 01:57:39 UTC</sub></p>
