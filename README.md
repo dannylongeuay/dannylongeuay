@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2009** - Andrew Hussie's webcomic Homestuck debuted, and later concluded on the same day in 2016. ([Read more](https://en.wikipedia.org/wiki/Andrew_Hussie))
+> **1944** - The freighter Fort Stikine, carrying cotton bales, gold and ammunition, exploded in the harbour of Bombay, India, sinking surrounding ships and causing about 800 deaths. ([Read more](https://en.wikipedia.org/wiki/SS_Fort_Stikine))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy |
+| [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-13 01:57:39 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-14 01:52:35 UTC</sub></p>
