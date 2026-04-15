@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1944** - The freighter Fort Stikine, carrying cotton bales, gold and ammunition, exploded in the harbour of Bombay, India, sinking surrounding ships and causing about 800 deaths. ([Read more](https://en.wikipedia.org/wiki/SS_Fort_Stikine))
+> **1989** - The Hillsborough disaster, a human crush that caused 97 deaths in the worst disaster in British sporting history, occurred during an FA Cup match between Liverpool and Nottingham Forest in Sheffield. ([Read more](https://en.wikipedia.org/wiki/Hillsborough_disaster))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | Hard |
+| [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-14 01:52:35 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-15 01:49:04 UTC</sub></p>
