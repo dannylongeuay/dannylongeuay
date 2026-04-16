@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1989** - The Hillsborough disaster, a human crush that caused 97 deaths in the worst disaster in British sporting history, occurred during an FA Cup match between Liverpool and Nottingham Forest in Sheffield. ([Read more](https://en.wikipedia.org/wiki/Hillsborough_disaster))
+> **1912** - American pilot Harriet Quimby (pictured)  became the first woman to fly across the English Channel. ([Read more](https://en.wikipedia.org/wiki/Harriet_Quimby))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-15 01:49:04 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-16 01:57:03 UTC</sub></p>
