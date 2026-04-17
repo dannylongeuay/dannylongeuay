@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1912** - American pilot Harriet Quimby (pictured)  became the first woman to fly across the English Channel. ([Read more](https://en.wikipedia.org/wiki/Harriet_Quimby))
+> **1975** - The Khmer Rouge captured Phnom Penh, the capital of the Khmer Republic, ending the Cambodian Civil War and establishing the socialist state of Democratic Kampuchea. ([Read more](https://en.wikipedia.org/wiki/Khmer_Rouge))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | Medium |
+| [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-16 01:57:03 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-17 01:53:02 UTC</sub></p>
