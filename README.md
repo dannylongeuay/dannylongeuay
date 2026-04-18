@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1975** - The Khmer Rouge captured Phnom Penh, the capital of the Khmer Republic, ending the Cambodian Civil War and establishing the socialist state of Democratic Kampuchea. ([Read more](https://en.wikipedia.org/wiki/Khmer_Rouge))
+> **1881** - The painted ceilings of the Natural History Museum, London, were unveiled when the building opened its doors to the public. ([Read more](https://en.wikipedia.org/wiki/Ceilings_of_the_Natural_History_Museum%2C_London))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-17 01:53:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-18 01:44:57 UTC</sub></p>
