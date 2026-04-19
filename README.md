@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1881** - The painted ceilings of the Natural History Museum, London, were unveiled when the building opened its doors to the public. ([Read more](https://en.wikipedia.org/wiki/Ceilings_of_the_Natural_History_Museum%2C_London))
+> **1506** - In Lisbon, Portugal, a crowd began a massacre of Jews who had been forced to convert to Christianity. ([Read more](https://en.wikipedia.org/wiki/Lisbon_massacre))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy |
+| [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-18 01:44:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-19 01:57:15 UTC</sub></p>
