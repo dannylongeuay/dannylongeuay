@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1506** - In Lisbon, Portugal, a crowd began a massacre of Jews who had been forced to convert to Christianity. ([Read more](https://en.wikipedia.org/wiki/Lisbon_massacre))
+> **1818** - Four days after the Court of King's Bench upheld an English murder suspect's right to a trial by battle in Ashford v Thornton, the plaintiff declined to fight, allowing the defendant to go free. ([Read more](https://en.wikipedia.org/wiki/Court_of_King's_Bench_(England)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | Medium |
+| [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-19 01:57:15 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-20 01:58:15 UTC</sub></p>
