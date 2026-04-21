@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1818** - Four days after the Court of King's Bench upheld an English murder suspect's right to a trial by battle in Ashford v Thornton, the plaintiff declined to fight, allowing the defendant to go free. ([Read more](https://en.wikipedia.org/wiki/Court_of_King's_Bench_(England)))
+> **1975** - South Vietnamese president Nguyễn Văn Thiệu resigned on hearing of the fall of Xuân Lộc, the last battle of the Vietnam War. ([Read more](https://en.wikipedia.org/wiki/South_Vietnam))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | Easy |
+| [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-20 01:58:15 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-21 01:53:54 UTC</sub></p>
