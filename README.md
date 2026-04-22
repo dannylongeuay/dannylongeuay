@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1975** - South Vietnamese president Nguyễn Văn Thiệu resigned on hearing of the fall of Xuân Lộc, the last battle of the Vietnam War. ([Read more](https://en.wikipedia.org/wiki/South_Vietnam))
+> **2022** - American climate activist Wynn Bruce set himself on fire outside the United States Supreme Court Building in an apparent protest against the climate crisis. ([Read more](https://en.wikipedia.org/wiki/Self-immolation_of_Wynn_Bruce))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | Medium |
+| [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-21 01:53:54 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-22 01:52:31 UTC</sub></p>
