@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2022** - American climate activist Wynn Bruce set himself on fire outside the United States Supreme Court Building in an apparent protest against the climate crisis. ([Read more](https://en.wikipedia.org/wiki/Self-immolation_of_Wynn_Bruce))
+> **1016** - Edmund Ironside became King of England, reigning for only seven months before the country was conquered by Cnut the Great. ([Read more](https://en.wikipedia.org/wiki/Edmund_Ironside))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium |
+| [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-22 01:52:31 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-23 01:56:52 UTC</sub></p>
