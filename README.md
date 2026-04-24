@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1016** - Edmund Ironside became King of England, reigning for only seven months before the country was conquered by Cnut the Great. ([Read more](https://en.wikipedia.org/wiki/Edmund_Ironside))
+> **1990** - Gruinard Island in Scotland, the site of biological warfare testing by British scientists, was declared free of anthrax after 48 years of quarantine. ([Read more](https://en.wikipedia.org/wiki/Gruinard_Island))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | Medium |
+| [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-23 01:56:52 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-24 01:57:02 UTC</sub></p>
