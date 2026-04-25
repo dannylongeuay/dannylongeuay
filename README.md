@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1990** - Gruinard Island in Scotland, the site of biological warfare testing by British scientists, was declared free of anthrax after 48 years of quarantine. ([Read more](https://en.wikipedia.org/wiki/Gruinard_Island))
+> **1792** - French composer Claude Joseph Rouget de Lisle wrote "La Marseillaise", now the national anthem of France. ([Read more](https://en.wikipedia.org/wiki/Claude_Joseph_Rouget_de_Lisle))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | Easy |
+| [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-24 01:57:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-25 01:47:20 UTC</sub></p>
