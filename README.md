@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1865** - U.S. Army soldiers cornered and fatally shot John Wilkes Booth, the assassin of U.S. president Abraham Lincoln, ending a twelve-day manhunt. ([Read more](https://en.wikipedia.org/wiki/United_States_Army))
+> **1904** - Chris Watson became the first prime minister of Australia from the Australian Labor Party. ([Read more](https://en.wikipedia.org/wiki/Chris_Watson))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | Medium |
+| [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-26 01:59:50 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-27 02:02:49 UTC</sub></p>
