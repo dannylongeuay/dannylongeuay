@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1904** - Chris Watson became the first prime minister of Australia from the Australian Labor Party. ([Read more](https://en.wikipedia.org/wiki/Chris_Watson))
+> **1253** - The Japanese monk Nichiren declared the mantra Namu Myōhō Renge Kyō, now a central part of Nichiren Buddhism. ([Read more](https://en.wikipedia.org/wiki/Nichiren))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-27 02:02:49 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-28 02:09:09 UTC</sub></p>
