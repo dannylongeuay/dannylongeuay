@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1253** - The Japanese monk Nichiren declared the mantra Namu Myōhō Renge Kyō, now a central part of Nichiren Buddhism. ([Read more](https://en.wikipedia.org/wiki/Nichiren))
+> **1910** - Parliament passed the People's Budget, the first budget in British history with the express intent of redistributing wealth. ([Read more](https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-28 02:09:09 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-29 02:10:17 UTC</sub></p>
