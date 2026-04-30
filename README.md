@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1910** - Parliament passed the People's Budget, the first budget in British history with the express intent of redistributing wealth. ([Read more](https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom))
+> **1883** - New York governor Grover Cleveland signed legislation that led to the creation of Niagara Falls State Park, the United States' first state park. ([Read more](https://en.wikipedia.org/wiki/Grover_Cleveland))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | Hard |
+| [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-29 02:10:17 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-04-30 02:10:27 UTC</sub></p>
