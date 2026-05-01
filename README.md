@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1883** - New York governor Grover Cleveland signed legislation that led to the creation of Niagara Falls State Park, the United States' first state park. ([Read more](https://en.wikipedia.org/wiki/Grover_Cleveland))
+> **1885** - The original Chicago Board of Trade Building opened for business. ([Read more](https://en.wikipedia.org/wiki/Chicago_Board_of_Trade_Building))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | Medium |
+| [Rotate Function](https://leetcode.com/problems/rotate-function/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-04-30 02:10:27 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-01 02:14:30 UTC</sub></p>
