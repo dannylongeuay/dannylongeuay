@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1885** - The original Chicago Board of Trade Building opened for business. ([Read more](https://en.wikipedia.org/wiki/Chicago_Board_of_Trade_Building))
+> **2011** - Osama bin Laden was killed by U.S. Navy SEAL Team Six in his private residential compound in Abbottabad, Pakistan. ([Read more](https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Rotate Function](https://leetcode.com/problems/rotate-function/) | Medium |
+| [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-01 02:14:30 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-02 02:01:38 UTC</sub></p>
