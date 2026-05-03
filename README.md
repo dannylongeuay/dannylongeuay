@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2011** - Osama bin Laden was killed by U.S. Navy SEAL Team Six in his private residential compound in Abbottabad, Pakistan. ([Read more](https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden))
+> **1945** - Second World War: The German ocean liner Cap Arcona, afloat in the Bay of Lübeck with thousands of concentration camp survivors on board, was attacked and sunk by the Royal Air Force. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | Medium |
+| [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-02 02:01:38 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-03 02:06:43 UTC</sub></p>
