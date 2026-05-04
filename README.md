@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1945** - Second World War: The German ocean liner Cap Arcona, afloat in the Bay of Lübeck with thousands of concentration camp survivors on board, was attacked and sunk by the Royal Air Force. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
+> **1626** - Having been appointed the director-general of New Netherland, Peter Minuit arrived in Manhattan. ([Read more](https://en.wikipedia.org/wiki/Directors_of_New_Netherland))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy |
+| [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-03 02:06:43 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-04 02:06:26 UTC</sub></p>
