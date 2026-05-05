@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1626** - Having been appointed the director-general of New Netherland, Peter Minuit arrived in Manhattan. ([Read more](https://en.wikipedia.org/wiki/Directors_of_New_Netherland))
+> **1646** - First English Civil War: Charles I surrendered himself to Scottish Covenanter leader David Leslie near Newark, England. ([Read more](https://en.wikipedia.org/wiki/First_English_Civil_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium |
+| [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-04 02:06:26 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-05 02:05:10 UTC</sub></p>
