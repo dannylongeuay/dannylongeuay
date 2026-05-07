@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2023** - King Charles III and Queen Camilla were crowned at Westminster Abbey in London. ([Read more](https://en.wikipedia.org/wiki/Charles_III))
+> **2010** - A draft sequence of the Neanderthal genome was published, demonstrating that today's humans have Neanderthal ancestors. ([Read more](https://en.wikipedia.org/wiki/Neanderthal))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium |
+| [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-06 02:05:08 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-07 02:06:55 UTC</sub></p>
