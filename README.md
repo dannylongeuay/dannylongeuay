@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2010** - A draft sequence of the Neanderthal genome was published, demonstrating that today's humans have Neanderthal ancestors. ([Read more](https://en.wikipedia.org/wiki/Neanderthal))
+> **2025** - Cardinal Robert Francis Prevost was elected as Pope Leo XIV (pictured), making him the first pope born in the United States, the first to hold either U.S. or Peruvian citizenship, the first from the Order of Saint Augustine, and the second from the Americas after his immediate predecessor, Pope Francis. ([Read more](https://en.wikipedia.org/wiki/2025_conclave))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | Medium |
+| [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-07 02:06:55 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-08 02:14:18 UTC</sub></p>
