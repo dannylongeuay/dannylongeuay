@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2025** - Cardinal Robert Francis Prevost was elected as Pope Leo XIV (pictured), making him the first pope born in the United States, the first to hold either U.S. or Peruvian citizenship, the first from the Order of Saint Augustine, and the second from the Americas after his immediate predecessor, Pope Francis. ([Read more](https://en.wikipedia.org/wiki/2025_conclave))
+> **1915** - World War I: British forces launched the Battle of Aubers, an offensive on the Western Front, as part of the larger Second Battle of Artois. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-08 02:14:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-09 02:08:04 UTC</sub></p>
