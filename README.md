@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1915** - World War I: British forces launched the Battle of Aubers, an offensive on the Western Front, as part of the larger Second Battle of Artois. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
+> **1833** - Siamese–Vietnamese wars: Lê Văn Khôi escaped from prison to begin a revolt against Emperor Minh Mạng, primarily to avenge his adoptive father, Vietnamese general Lê Văn Duyệt. ([Read more](https://en.wikipedia.org/wiki/Siamese%E2%80%93Vietnamese_wars))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | Medium |
+| [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-09 02:08:04 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-10 02:09:33 UTC</sub></p>
