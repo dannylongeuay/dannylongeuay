@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1833** - Siamese–Vietnamese wars: Lê Văn Khôi escaped from prison to begin a revolt against Emperor Minh Mạng, primarily to avenge his adoptive father, Vietnamese general Lê Văn Duyệt. ([Read more](https://en.wikipedia.org/wiki/Siamese%E2%80%93Vietnamese_wars))
+> **868** - A copy of the Diamond Sutra was printed in Tang-dynasty China, making it the world's oldest dated printed book. ([Read more](https://en.wikipedia.org/wiki/Diamond_Sutra))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-10 02:09:33 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-11 02:28:02 UTC</sub></p>
