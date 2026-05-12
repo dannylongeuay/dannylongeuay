@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **868** - A copy of the Diamond Sutra was printed in Tang-dynasty China, making it the world's oldest dated printed book. ([Read more](https://en.wikipedia.org/wiki/Diamond_Sutra))
+> **1888** - North Borneo was established as a British protectorate. ([Read more](https://en.wikipedia.org/wiki/North_Borneo))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | Easy |
+| [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-11 02:28:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-12 02:13:11 UTC</sub></p>
