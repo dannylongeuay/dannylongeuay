@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1888** - North Borneo was established as a British protectorate. ([Read more](https://en.wikipedia.org/wiki/North_Borneo))
+> **1995** - Alison Hargreaves became the first woman to reach the summit of Mount Everest without the aid of Sherpas or bottled oxygen. ([Read more](https://en.wikipedia.org/wiki/Alison_Hargreaves))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard |
+| [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-12 02:13:11 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-13 02:28:21 UTC</sub></p>
