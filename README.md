@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1995** - Alison Hargreaves became the first woman to reach the summit of Mount Everest without the aid of Sherpas or bottled oxygen. ([Read more](https://en.wikipedia.org/wiki/Alison_Hargreaves))
+> **2008** - On the day of the UEFA Cup Final, violence erupted between football hooligan supporters of both teams and the Greater Manchester Police, resulting in 39 arrests and 39 injured officers. ([Read more](https://en.wikipedia.org/wiki/2008_UEFA_Cup_final))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | Medium |
+| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-13 02:28:21 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-14 02:29:50 UTC</sub></p>
