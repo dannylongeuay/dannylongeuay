@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2008** - On the day of the UEFA Cup Final, violence erupted between football hooligan supporters of both teams and the Greater Manchester Police, resulting in 39 arrests and 39 injured officers. ([Read more](https://en.wikipedia.org/wiki/2008_UEFA_Cup_final))
+> **1972** - The Ryukyu Islands were returned to Japan by the United States, and the U.S. occupation government was abolished. ([Read more](https://en.wikipedia.org/wiki/Ryukyu_Islands))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | Easy |
+| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-14 02:29:50 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-15 02:28:29 UTC</sub></p>
