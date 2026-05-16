@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1972** - The Ryukyu Islands were returned to Japan by the United States, and the U.S. occupation government was abolished. ([Read more](https://en.wikipedia.org/wiki/Ryukyu_Islands))
+> **1975** - Japanese climber Junko Tabei (pictured) became the first woman to reach the summit of Mount Everest. ([Read more](https://en.wikipedia.org/wiki/Junko_Tabei))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium |
+| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-15 02:28:29 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-16 02:10:55 UTC</sub></p>
