@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1975** - Japanese climber Junko Tabei (pictured) became the first woman to reach the summit of Mount Everest. ([Read more](https://en.wikipedia.org/wiki/Junko_Tabei))
+> **1995** - Six-year-old Gedhun Choekyi Nyima, the 11th Panchen Lama selected by the 14th Dalai Lama, was kidnapped by the Chinese government, who advocated a proxy. ([Read more](https://en.wikipedia.org/wiki/Gedhun_Choekyi_Nyima))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-16 02:10:55 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-17 02:25:55 UTC</sub></p>
