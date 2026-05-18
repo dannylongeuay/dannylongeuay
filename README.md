@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1995** - Six-year-old Gedhun Choekyi Nyima, the 11th Panchen Lama selected by the 14th Dalai Lama, was kidnapped by the Chinese government, who advocated a proxy. ([Read more](https://en.wikipedia.org/wiki/Gedhun_Choekyi_Nyima))
+> **1936** - In a crime that captivated Japan, Sada Abe strangled her lover, cut off his genitals, and carried them around with her for several days until her arrest. ([Read more](https://en.wikipedia.org/wiki/Sada_Abe))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium |
+| [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-17 02:25:55 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-18 02:36:18 UTC</sub></p>
