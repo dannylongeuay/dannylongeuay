@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1936** - In a crime that captivated Japan, Sada Abe strangled her lover, cut off his genitals, and carried them around with her for several days until her arrest. ([Read more](https://en.wikipedia.org/wiki/Sada_Abe))
+> **1776** - American Revolutionary War: A Continental Army garrison west of Montreal surrendered to British troops at the Battle of the Cedars. ([Read more](https://en.wikipedia.org/wiki/American_Revolutionary_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |
+| [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-18 02:36:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-19 02:34:44 UTC</sub></p>
