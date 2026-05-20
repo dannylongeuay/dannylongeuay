@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1776** - American Revolutionary War: A Continental Army garrison west of Montreal surrendered to British troops at the Battle of the Cedars. ([Read more](https://en.wikipedia.org/wiki/American_Revolutionary_War))
+> **2022** - Russo-Ukrainian war: Russia claimed full control of Mariupol after a nearly three-month siege. ([Read more](https://en.wikipedia.org/wiki/Russo-Ukrainian_war))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy |
+| [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-19 02:34:44 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-20 02:35:05 UTC</sub></p>
