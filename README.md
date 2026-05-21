@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2022** - Russo-Ukrainian war: Russia claimed full control of Mariupol after a nearly three-month siege. ([Read more](https://en.wikipedia.org/wiki/Russo-Ukrainian_war))
+> **1703** - English writer Daniel Defoe was imprisoned for seditious libel after publishing a pamphlet that was perceived to satirise the Tory publications about Dissenters. ([Read more](https://en.wikipedia.org/wiki/Daniel_Defoe))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-20 02:35:05 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-21 02:36:36 UTC</sub></p>
