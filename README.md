@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1703** - English writer Daniel Defoe was imprisoned for seditious libel after publishing a pamphlet that was perceived to satirise the Tory publications about Dissenters. ([Read more](https://en.wikipedia.org/wiki/Daniel_Defoe))
+> **1987** - During Hindu–Muslim rioting in Meerut, India, 19 members of the Provincial Armed Constabulary allegedly massacred 42 Muslims and dumped their bodies in water canals. ([Read more](https://en.wikipedia.org/wiki/Religious_violence_in_India))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium |
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-21 02:36:36 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-22 02:38:06 UTC</sub></p>
