@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1987** - During Hindu–Muslim rioting in Meerut, India, 19 members of the Provincial Armed Constabulary allegedly massacred 42 Muslims and dumped their bodies in water canals. ([Read more](https://en.wikipedia.org/wiki/Religious_violence_in_India))
+> **1430** - Hundred Years' War: Joan of Arc was captured by Burgundian forces at the Siege of Compiègne. ([Read more](https://en.wikipedia.org/wiki/Hundred_Years'_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
+| [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-22 02:38:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-23 02:14:28 UTC</sub></p>
