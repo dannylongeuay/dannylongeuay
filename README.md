@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1430** - Hundred Years' War: Joan of Arc was captured by Burgundian forces at the Siege of Compiègne. ([Read more](https://en.wikipedia.org/wiki/Hundred_Years'_War))
+> **1976** - In a wine competition in Paris (wine bottle pictured), French judges shocked the wine industry by rating California wines higher than French ones. ([Read more](https://en.wikipedia.org/wiki/Wine_competition))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy |
+| [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-23 02:14:28 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-24 02:33:23 UTC</sub></p>
