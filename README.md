@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1976** - In a wine competition in Paris (wine bottle pictured), French judges shocked the wine industry by rating California wines higher than French ones. ([Read more](https://en.wikipedia.org/wiki/Wine_competition))
+> **1971** - Joetha Collier, a recent high school graduate, was killed in Drew, Mississippi, in a case that attracted widespread attention from civil rights activists. ([Read more](https://en.wikipedia.org/wiki/Killing_of_Joetha_Collier))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard |
+| [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-24 02:33:23 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-25 02:41:48 UTC</sub></p>
