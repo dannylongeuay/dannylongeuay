@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1971** - Joetha Collier, a recent high school graduate, was killed in Drew, Mississippi, in a case that attracted widespread attention from civil rights activists. ([Read more](https://en.wikipedia.org/wiki/Killing_of_Joetha_Collier))
+> **1940** - Second World War: The Allies began a mass evacuation of British, French and Belgian troops cut off by the German army during the Battle of Dunkirk. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium |
+| [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-25 02:41:48 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-26 02:31:19 UTC</sub></p>
