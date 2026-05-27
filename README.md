@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1940** - Second World War: The Allies began a mass evacuation of British, French and Belgian troops cut off by the German army during the Battle of Dunkirk. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
+> **1935** - The United States Supreme Court ruled in A.L.A. Schechter Poultry Corp. v. United States that the National Industrial Recovery Act, a major component of the New Deal, was unconstitutional. ([Read more](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy |
+| [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-26 02:31:19 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-27 02:41:06 UTC</sub></p>
