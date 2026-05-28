@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1935** - The United States Supreme Court ruled in A.L.A. Schechter Poultry Corp. v. United States that the National Industrial Recovery Act, a major component of the New Deal, was unconstitutional. ([Read more](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States))
+> **621** - Tang forces led by Li Shimin defeated and captured Dou Jiande at the Battle of Hulao in the civil war that followed the collapse of the Sui dynasty. ([Read more](https://en.wikipedia.org/wiki/Tang_dynasty))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium |
+| [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-27 02:41:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-28 02:27:59 UTC</sub></p>
