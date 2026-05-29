@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **621** - Tang forces led by Li Shimin defeated and captured Dou Jiande at the Battle of Hulao in the civil war that followed the collapse of the Sui dynasty. ([Read more](https://en.wikipedia.org/wiki/Tang_dynasty))
+> **1913** - During the premiere of the ballet Le Sacre du printemps by Igor Stravinsky  at the Théâtre des Champs-Élysées in Paris, the avant-garde nature of the music and choreography caused a near-riot in the audience (report pictured). ([Read more](https://en.wikipedia.org/wiki/The_Rite_of_Spring))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | Hard |
+| [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-28 02:27:59 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-29 02:32:39 UTC</sub></p>
