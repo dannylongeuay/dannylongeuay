@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1913** - During the premiere of the ballet Le Sacre du printemps by Igor Stravinsky  at the Théâtre des Champs-Élysées in Paris, the avant-garde nature of the music and choreography caused a near-riot in the audience (report pictured). ([Read more](https://en.wikipedia.org/wiki/The_Rite_of_Spring))
+> **2008** - The Convention on Cluster Munitions, prohibiting the use, transfer, and stockpiling of cluster bombs, was adopted. ([Read more](https://en.wikipedia.org/wiki/Convention_on_Cluster_Munitions))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-29 02:32:39 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-30 02:26:22 UTC</sub></p>

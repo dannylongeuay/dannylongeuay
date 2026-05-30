@@ -106,8 +106,8 @@
     <g transform="translate(30, 45)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#ff5a03" />
-      <text data-testid="lang-name" class="gray" x="15">Astro</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#fcb32c" />
+      <text data-testid="lang-name" class="gray" x="15">MDX</text>
     </g>
     </g>
     </g>
