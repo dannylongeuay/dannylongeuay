@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2008** - The Convention on Cluster Munitions, prohibiting the use, transfer, and stockpiling of cluster bombs, was adopted. ([Read more](https://en.wikipedia.org/wiki/Convention_on_Cluster_Munitions))
+> **1902** - The Second Boer War came to an end with the signing of the Treaty of Vereeniging in Pretoria, South Africa. ([Read more](https://en.wikipedia.org/wiki/Second_Boer_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | Hard |
+| [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-30 02:26:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-05-31 02:42:53 UTC</sub></p>
