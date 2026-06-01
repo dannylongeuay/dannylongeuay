@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1902** - The Second Boer War came to an end with the signing of the Treaty of Vereeniging in Pretoria, South Africa. ([Read more](https://en.wikipedia.org/wiki/Second_Boer_War))
+> **1861** - The first land battle of the American Civil War after Fort Sumter took place in the village of Fairfax, Virginia. ([Read more](https://en.wikipedia.org/wiki/Battle_of_Fairfax_Court_House_(1861)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | Medium |
+| [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-05-31 02:42:53 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-01 02:51:57 UTC</sub></p>
