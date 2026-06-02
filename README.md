@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1861** - The first land battle of the American Civil War after Fort Sumter took place in the village of Fairfax, Virginia. ([Read more](https://en.wikipedia.org/wiki/Battle_of_Fairfax_Court_House_(1861)))
+> **1995** - Bosnian War: U.S. Air Force captain Scott O'Grady was shot down while patrolling the NATO no-fly zone over Bosnia, but ejected safely and was rescued six days later. ([Read more](https://en.wikipedia.org/wiki/Bosnian_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-01 02:51:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-02 02:48:53 UTC</sub></p>
