@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1995** - Bosnian War: U.S. Air Force captain Scott O'Grady was shot down while patrolling the NATO no-fly zone over Bosnia, but ejected safely and was rescued six days later. ([Read more](https://en.wikipedia.org/wiki/Bosnian_War))
+> **1950** - Maurice Herzog and Louis Lachenal, members of the French Annapurna expedition, became the first climbers to reach the summit of a peak higher than 8,000 metres (26,247 ft) above sea level. ([Read more](https://en.wikipedia.org/wiki/Maurice_Herzog))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-02 02:48:53 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-03 02:57:30 UTC</sub></p>
