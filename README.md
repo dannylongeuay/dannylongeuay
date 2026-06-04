@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1950** - Maurice Herzog and Louis Lachenal, members of the French Annapurna expedition, became the first climbers to reach the summit of a peak higher than 8,000 metres (26,247 ft) above sea level. ([Read more](https://en.wikipedia.org/wiki/Maurice_Herzog))
+> **1913** - Emily Davison, an activist for women's suffrage in the United Kingdom, was fatally injured after being trampled by a horse owned by King George V at the Epsom Derby. ([Read more](https://en.wikipedia.org/wiki/Emily_Davison))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-03 02:57:30 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-04 02:53:17 UTC</sub></p>
