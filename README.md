@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1913** - Emily Davison, an activist for women's suffrage in the United Kingdom, was fatally injured after being trampled by a horse owned by King George V at the Epsom Derby. ([Read more](https://en.wikipedia.org/wiki/Emily_Davison))
+> **1832** - The June Rebellion, an anti-monarchist uprising, broke out in Paris. ([Read more](https://en.wikipedia.org/wiki/June_Rebellion))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | Medium |
+| [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-04 02:53:17 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-05 02:40:41 UTC</sub></p>
