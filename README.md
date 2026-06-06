@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1832** - The June Rebellion, an anti-monarchist uprising, broke out in Paris. ([Read more](https://en.wikipedia.org/wiki/June_Rebellion))
+> **1749** - A plot by Muslim slaves in Malta to assassinate Manuel Pinto da Fonseca of the Knights Hospitaller was uncovered. ([Read more](https://en.wikipedia.org/wiki/1749_Muslim_slave_revolt_plot_in_Malta))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | Hard |
+| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-05 02:40:41 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-06 02:28:13 UTC</sub></p>
