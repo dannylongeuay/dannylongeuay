@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1749** - A plot by Muslim slaves in Malta to assassinate Manuel Pinto da Fonseca of the Knights Hospitaller was uncovered. ([Read more](https://en.wikipedia.org/wiki/1749_Muslim_slave_revolt_plot_in_Malta))
+> **1965** - The U.S. Supreme Court ruled in Griswold v. Connecticut that a Connecticut law prohibiting the use of contraceptives violated the "right to marital privacy". ([Read more](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy |
+| [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-06 02:28:13 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-07 02:46:22 UTC</sub></p>
