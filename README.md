@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1965** - The U.S. Supreme Court ruled in Griswold v. Connecticut that a Connecticut law prohibiting the use of contraceptives violated the "right to marital privacy". ([Read more](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States))
+> **1967** - The Israeli Air Force attacked the U.S. Navy intelligence ship USS Liberty in international waters, killing 34 people and wounding 171 others. ([Read more](https://en.wikipedia.org/wiki/Israeli_Air_Force))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium |
+| [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-07 02:46:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-08 02:49:43 UTC</sub></p>
