@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1967** - The Israeli Air Force attacked the U.S. Navy intelligence ship USS Liberty in international waters, killing 34 people and wounding 171 others. ([Read more](https://en.wikipedia.org/wiki/Israeli_Air_Force))
+> **1928** - Australian aviator Charles Kingsford Smith and his crew landed the Southern Cross in Brisbane, completing the first transpacific flight. ([Read more](https://en.wikipedia.org/wiki/Charles_Kingsford_Smith))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium |
+| [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-08 02:49:43 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-09 02:27:36 UTC</sub></p>
