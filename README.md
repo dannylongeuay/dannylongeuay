@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1928** - Australian aviator Charles Kingsford Smith and his crew landed the Southern Cross in Brisbane, completing the first transpacific flight. ([Read more](https://en.wikipedia.org/wiki/Charles_Kingsford_Smith))
+> **1935** - American physician Bob Smith had his last alcoholic drink, marking the traditional founding date of Alcoholics Anonymous. ([Read more](https://en.wikipedia.org/wiki/Bob_Smith_(doctor)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium |
+| [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-09 02:27:36 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-10 02:40:29 UTC</sub></p>
