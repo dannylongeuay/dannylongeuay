@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1935** - American physician Bob Smith had his last alcoholic drink, marking the traditional founding date of Alcoholics Anonymous. ([Read more](https://en.wikipedia.org/wiki/Bob_Smith_(doctor)))
+> **1914** - Around 2,000 members of European society attended a ball at Kenwood House, England, in one of the last major social events before the outbreak of the First World War. ([Read more](https://en.wikipedia.org/wiki/1914_Kenwood_House_ball))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard |
+| [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-10 02:40:29 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-11 02:50:06 UTC</sub></p>
