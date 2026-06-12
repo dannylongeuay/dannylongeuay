@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1914** - Around 2,000 members of European society attended a ball at Kenwood House, England, in one of the last major social events before the outbreak of the First World War. ([Read more](https://en.wikipedia.org/wiki/1914_Kenwood_House_ball))
+> **1999** - In the aftermath of the bombing of Yugoslavia and the Kosovo War, the NATO-led Kosovo Force entered the territory with a mandate of establishing a secure environment. ([Read more](https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-11 02:50:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-12 02:46:34 UTC</sub></p>
