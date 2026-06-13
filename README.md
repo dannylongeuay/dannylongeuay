@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1999** - In the aftermath of the bombing of Yugoslavia and the Kosovo War, the NATO-led Kosovo Force entered the territory with a mandate of establishing a secure environment. ([Read more](https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia))
+> **1916** - World War I: The Battle of Mont Sorrel in the Ypres Salient came to an end as a Canadian assault led German forces to withdraw to their original lines. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-12 02:46:34 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-13 02:39:11 UTC</sub></p>
