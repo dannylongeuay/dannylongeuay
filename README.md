@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1992** - Swedish woman Helena Andersson disappeared in Mariestad, one suspect were ”the man with the pilot glasses". ([Read more](https://en.wikipedia.org/wiki/Disappearance_of_Helena_Andersson))
+> **1996** - The Troubles: The Provisional Irish Republican Army detonated a truck bomb in the commercial centre of Manchester, England, injuring more than 200 people and causing widespread damage to buildings. ([Read more](https://en.wikipedia.org/wiki/The_Troubles))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium |
+| [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-14 02:50:49 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-15 02:55:18 UTC</sub></p>
