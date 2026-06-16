@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1996** - The Troubles: The Provisional Irish Republican Army detonated a truck bomb in the commercial centre of Manchester, England, injuring more than 200 people and causing widespread damage to buildings. ([Read more](https://en.wikipedia.org/wiki/The_Troubles))
+> **632** - The final king of the Sasanian Empire of Iran, Yazdegerd III, ascended the throne at the age of eight. ([Read more](https://en.wikipedia.org/wiki/Sasanian_Empire))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium |
+| [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-15 02:55:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-16 02:56:52 UTC</sub></p>
