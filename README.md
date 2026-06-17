@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **632** - The final king of the Sasanian Empire of Iran, Yazdegerd III, ascended the throne at the age of eight. ([Read more](https://en.wikipedia.org/wiki/Sasanian_Empire))
+> **1397** - The kingdoms of Denmark, Sweden, and Norway formed the Kalmar Union, a personal union under Eric of Pomerania. ([Read more](https://en.wikipedia.org/wiki/Kalmar_Union))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Medium |
+| [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-16 02:56:52 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-17 02:53:30 UTC</sub></p>
