@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1397** - The kingdoms of Denmark, Sweden, and Norway formed the Kalmar Union, a personal union under Eric of Pomerania. ([Read more](https://en.wikipedia.org/wiki/Kalmar_Union))
+> **1967** - American musician Jimi Hendrix burned his guitar on stage at the end of a performance at the Monterey International Pop Festival in California. ([Read more](https://en.wikipedia.org/wiki/Jimi_Hendrix))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | Hard |
+| [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-17 02:53:30 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-18 02:48:36 UTC</sub></p>
