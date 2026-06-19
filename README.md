@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1967** - American musician Jimi Hendrix burned his guitar on stage at the end of a performance at the Monterey International Pop Festival in California. ([Read more](https://en.wikipedia.org/wiki/Jimi_Hendrix))
+> **1926** - King Roger, an opera about Roger II of Sicily by Karol Szymanowski (pictured),  was premiered at the Grand Theatre in Warsaw. ([Read more](https://en.wikipedia.org/wiki/King_Roger_(opera)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium |
+| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-18 02:48:36 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-19 03:34:00 UTC</sub></p>
