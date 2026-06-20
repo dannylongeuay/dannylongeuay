@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1926** - King Roger, an opera about Roger II of Sicily by Karol Szymanowski (pictured),  was premiered at the Grand Theatre in Warsaw. ([Read more](https://en.wikipedia.org/wiki/King_Roger_(opera)))
+> **1921** - Workers at the Buckingham and Carnatic Mills in Madras, India, began a four-month strike. ([Read more](https://en.wikipedia.org/wiki/Buckingham_and_Carnatic_Mills))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy |
+| [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-19 03:34:00 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-20 02:38:31 UTC</sub></p>
