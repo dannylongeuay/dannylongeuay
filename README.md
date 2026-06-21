@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1921** - Workers at the Buckingham and Carnatic Mills in Madras, India, began a four-month strike. ([Read more](https://en.wikipedia.org/wiki/Buckingham_and_Carnatic_Mills))
+> **1864** - New Zealand Wars: A British victory against the Māori King Movement brought the Tauranga campaign to an end. ([Read more](https://en.wikipedia.org/wiki/New_Zealand_Wars))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | Hard |
+| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-20 02:38:31 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-21 02:54:33 UTC</sub></p>
