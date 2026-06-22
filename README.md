@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1864** - New Zealand Wars: A British victory against the Māori King Movement brought the Tauranga campaign to an end. ([Read more](https://en.wikipedia.org/wiki/New_Zealand_Wars))
+> **1966** - Vietnamese Buddhist activist leader Thích Trí Quang was arrested as the military junta of Nguyễn Cao Kỳ crushed the Buddhist Uprising. ([Read more](https://en.wikipedia.org/wiki/Buddhism_in_Vietnam))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium |
+| [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-21 02:54:33 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-22 02:57:18 UTC</sub></p>
