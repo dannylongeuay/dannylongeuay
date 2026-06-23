@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1966** - Vietnamese Buddhist activist leader Thích Trí Quang was arrested as the military junta of Nguyễn Cao Kỳ crushed the Buddhist Uprising. ([Read more](https://en.wikipedia.org/wiki/Buddhism_in_Vietnam))
+> **1973** - The Los Angeles Dodgers started Steve Garvey, Davey Lopes, Ron Cey, and Bill Russell in the infield, beginning a record eight-year run in Major League Baseball for four people designated as starters for those positions. ([Read more](https://en.wikipedia.org/wiki/Los_Angeles_Dodgers))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy |
+| [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-22 02:57:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-23 02:32:33 UTC</sub></p>
