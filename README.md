@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1973** - The Los Angeles Dodgers started Steve Garvey, Davey Lopes, Ron Cey, and Bill Russell in the infield, beginning a record eight-year run in Major League Baseball for four people designated as starters for those positions. ([Read more](https://en.wikipedia.org/wiki/Los_Angeles_Dodgers))
+> **1559** - The Book of Common Prayer, a major component of the Elizabethan religious settlement, was introduced as the liturgy of the Church of England through the Act of Uniformity 1558. ([Read more](https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1559)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | Hard |
+| [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-23 02:32:33 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-24 02:33:14 UTC</sub></p>
