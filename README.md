@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1559** - The Book of Common Prayer, a major component of the Elizabethan religious settlement, was introduced as the liturgy of the Church of England through the Act of Uniformity 1558. ([Read more](https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1559)))
+> **1944** - World War II: U.S. Navy and Royal Navy ships bombarded Cherbourg, France, to support U.S. Army units engaged in the Battle of Cherbourg. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | Hard |
+| [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-24 02:33:14 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-25 02:34:50 UTC</sub></p>
