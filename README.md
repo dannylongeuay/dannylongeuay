@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1944** - World War II: U.S. Navy and Royal Navy ships bombarded Cherbourg, France, to support U.S. Army units engaged in the Battle of Cherbourg. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
+> **2013** - The U.S. Supreme Court granted federal recognition to same-sex marriage when it overturned the Defense of Marriage Act. ([Read more](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Medium |
+| [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-25 02:34:50 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-26 02:37:08 UTC</sub></p>
