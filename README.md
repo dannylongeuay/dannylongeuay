@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2013** - The U.S. Supreme Court granted federal recognition to same-sex marriage when it overturned the Defense of Marriage Act. ([Read more](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States))
+> **1571** - Queen Elizabeth I issued a royal charter establishing Jesus College, the first Protestant college at the University of Oxford. ([Read more](https://en.wikipedia.org/wiki/Elizabeth_I))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Hard |
+| [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-26 02:37:08 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-27 02:30:03 UTC</sub></p>
