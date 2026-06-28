@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1571** - Queen Elizabeth I issued a royal charter establishing Jesus College, the first Protestant college at the University of Oxford. ([Read more](https://en.wikipedia.org/wiki/Elizabeth_I))
+> **1911** - The Nakhla meteorite (fragments pictured), the first meteorite to suggest signs of aqueous processes on Mars, fell to Earth in Abu Hummus, Egypt. ([Read more](https://en.wikipedia.org/wiki/Nakhla_meteorite))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-27 02:30:03 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-28 02:42:54 UTC</sub></p>
