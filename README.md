@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1911** - The Nakhla meteorite (fragments pictured), the first meteorite to suggest signs of aqueous processes on Mars, fell to Earth in Abu Hummus, Egypt. ([Read more](https://en.wikipedia.org/wiki/Nakhla_meteorite))
+> **1764** - One of the strongest tornadoes in history struck Woldegk in present-day northeastern Germany, killing one person. ([Read more](https://en.wikipedia.org/wiki/1764_Woldegk_tornado))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-28 02:42:54 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-29 02:43:38 UTC</sub></p>
