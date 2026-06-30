@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1764** - One of the strongest tornadoes in history struck Woldegk in present-day northeastern Germany, killing one person. ([Read more](https://en.wikipedia.org/wiki/1764_Woldegk_tornado))
+> **2009** - Yemenia Flight 626 crashed into the Indian Ocean near the Comoros, killing 152 people, with French schoolgirl Bahia Bakari the sole survivor. ([Read more](https://en.wikipedia.org/wiki/Yemenia_Flight_626))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-29 02:43:38 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-06-30 02:37:41 UTC</sub></p>
