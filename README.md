@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2009** - Yemenia Flight 626 crashed into the Indian Ocean near the Comoros, killing 152 people, with French schoolgirl Bahia Bakari the sole survivor. ([Read more](https://en.wikipedia.org/wiki/Yemenia_Flight_626))
+> **1916** - First World War: The first day of the Battle of Albert, the opening phase of the Battle of the Somme, became the bloodiest day in the British Army's history, with 57,470 casualties, including 19,240 deaths. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium |
+| [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-06-30 02:37:41 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-01 02:43:42 UTC</sub></p>
