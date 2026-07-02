@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1916** - First World War: The first day of the Battle of Albert, the opening phase of the Battle of the Somme, became the bloodiest day in the British Army's history, with 57,470 casualties, including 19,240 deaths. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
+> **1998** - Harry Potter and the Chamber of Secrets by J. K. Rowling, the second novel of the Harry Potter series, was published. ([Read more](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium |
+| [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-01 02:43:42 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-02 02:33:21 UTC</sub></p>
