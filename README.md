@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1998** - Harry Potter and the Chamber of Secrets by J. K. Rowling, the second novel of the Harry Potter series, was published. ([Read more](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets))
+> **1952** - SS United States (pictured) departed New York Harbor on her maiden voyage, on which completion she became the fastest ocean liner to cross the Atlantic. ([Read more](https://en.wikipedia.org/wiki/SS_United_States))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium |
+| [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-02 02:33:21 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-03 02:08:46 UTC</sub></p>
