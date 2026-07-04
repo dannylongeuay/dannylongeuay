@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1952** - SS United States (pictured) departed New York Harbor on her maiden voyage, on which completion she became the fastest ocean liner to cross the Atlantic. ([Read more](https://en.wikipedia.org/wiki/SS_United_States))
+> **1837** - The Grand Junction Railway, the world's first long-distance railway with steam traction, opened between Birmingham and Newton Junction. ([Read more](https://en.wikipedia.org/wiki/Grand_Junction_Railway))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | Hard |
+| [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-03 02:08:46 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-04 02:07:01 UTC</sub></p>
