@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1837** - The Grand Junction Railway, the world's first long-distance railway with steam traction, opened between Birmingham and Newton Junction. ([Read more](https://en.wikipedia.org/wiki/Grand_Junction_Railway))
+> **1830** - Algiers surrendered to French invaders, ending the Regency of Algiers (coat of arms pictured). ([Read more](https://en.wikipedia.org/wiki/Invasion_of_Algiers_(1830)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium |
+| [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-04 02:07:01 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-05 02:22:16 UTC</sub></p>
