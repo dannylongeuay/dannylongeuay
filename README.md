@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1830** - Algiers surrendered to French invaders, ending the Regency of Algiers (coat of arms pictured). ([Read more](https://en.wikipedia.org/wiki/Invasion_of_Algiers_(1830)))
+> **1941** - Second World War: After a three-month siege, the Italian garrison of Saïo (in modern-day Ethiopia) surrendered to Belgian, British and Ethiopian troops. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard |
+| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-05 02:22:16 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-06 02:27:12 UTC</sub></p>
