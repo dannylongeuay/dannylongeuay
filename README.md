@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1941** - Second World War: After a three-month siege, the Italian garrison of Saïo (in modern-day Ethiopia) surrendered to Belgian, British and Ethiopian troops. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
+> **1911** - Four countries signed the North Pacific Fur Seal Convention, which banned the hunting of seals in the pelagic zone. ([Read more](https://en.wikipedia.org/wiki/North_Pacific_Fur_Seal_Convention_of_1911))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium |
+| [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-06 02:27:12 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-07 02:22:41 UTC</sub></p>
