@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1911** - Four countries signed the North Pacific Fur Seal Convention, which banned the hunting of seals in the pelagic zone. ([Read more](https://en.wikipedia.org/wiki/North_Pacific_Fur_Seal_Convention_of_1911))
+> **2014** - German citizen Lars Mittank disappeared from Varna Airport, Bulgaria; his last known movements were widely watched on YouTube. ([Read more](https://en.wikipedia.org/wiki/Disappearance_of_Lars_Mittank))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-07 02:22:41 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-08 01:56:11 UTC</sub></p>
