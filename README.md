@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2014** - German citizen Lars Mittank disappeared from Varna Airport, Bulgaria; his last known movements were widely watched on YouTube. ([Read more](https://en.wikipedia.org/wiki/Disappearance_of_Lars_Mittank))
+> **2006** - Italy won their fourth FIFA World Cup title, defeating France 5–3 on penalties following a 1–1 draw after extra time (players pictured). ([Read more](https://en.wikipedia.org/wiki/Italy_national_football_team))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-08 01:56:11 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-09 02:09:06 UTC</sub></p>
