@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2006** - Italy won their fourth FIFA World Cup title, defeating France 5–3 on penalties following a 1–1 draw after extra time (players pictured). ([Read more](https://en.wikipedia.org/wiki/Italy_national_football_team))
+> **2011** - The Russian river cruise liner Bulgaria was caught in a storm in Tatarstan on the Volga and sank in several minutes, resulting in 122 deaths. ([Read more](https://en.wikipedia.org/wiki/Bulgaria_(1955_ship)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Medium |
+| [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-09 02:09:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-10 02:08:21 UTC</sub></p>
