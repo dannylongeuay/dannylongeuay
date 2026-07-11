@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2011** - The Russian river cruise liner Bulgaria was caught in a storm in Tatarstan on the Volga and sank in several minutes, resulting in 122 deaths. ([Read more](https://en.wikipedia.org/wiki/Bulgaria_(1955_ship)))
+> **1846** - British soldier Frederick John White died after a flogging, leading to a campaign to end the practice in the British Army. ([Read more](https://en.wikipedia.org/wiki/Death_of_Frederick_John_White))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Hard |
+| [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-10 02:08:21 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-11 01:54:36 UTC</sub></p>
