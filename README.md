@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1846** - British soldier Frederick John White died after a flogging, leading to a campaign to end the practice in the British Army. ([Read more](https://en.wikipedia.org/wiki/Death_of_Frederick_John_White))
+> **1998** - France defeated the defending champions Brazil 3–0 to win their first FIFA World Cup title. ([Read more](https://en.wikipedia.org/wiki/France_national_football_team))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium |
+| [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-11 01:54:36 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-12 01:57:40 UTC</sub></p>
