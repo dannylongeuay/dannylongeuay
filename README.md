@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1998** - France defeated the defending champions Brazil 3–0 to win their first FIFA World Cup title. ([Read more](https://en.wikipedia.org/wiki/France_national_football_team))
+> **1794** - The Battle of Trippstadt between French forces and those of Prussia and Austria began. ([Read more](https://en.wikipedia.org/wiki/Battle_of_Trippstadt))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy |
+| [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-12 01:57:40 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-13 01:59:36 UTC</sub></p>
