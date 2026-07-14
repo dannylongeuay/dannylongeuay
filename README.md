@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1794** - The Battle of Trippstadt between French forces and those of Prussia and Austria began. ([Read more](https://en.wikipedia.org/wiki/Battle_of_Trippstadt))
+> **1902** - An expedition led by Peruvian explorer and farmer Agustín Lizárraga discovered the Incan city of Machu Picchu (pictured). ([Read more](https://en.wikipedia.org/wiki/Agust%C3%ADn_Liz%C3%A1rraga))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium |
+| [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-13 01:59:36 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-14 01:46:23 UTC</sub></p>
