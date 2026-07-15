@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1902** - An expedition led by Peruvian explorer and farmer Agustín Lizárraga discovered the Incan city of Machu Picchu (pictured). ([Read more](https://en.wikipedia.org/wiki/Agust%C3%ADn_Liz%C3%A1rraga))
+> **1799** - French soldiers at Fort Julien, near the Egyptian port city of Rashid, uncovered the Rosetta Stone, which was essential in the decipherment of ancient Egyptian scripts. ([Read more](https://en.wikipedia.org/wiki/Fort_Julien))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-14 01:46:23 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-15 01:42:44 UTC</sub></p>
