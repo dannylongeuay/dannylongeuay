@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1799** - French soldiers at Fort Julien, near the Egyptian port city of Rashid, uncovered the Rosetta Stone, which was essential in the decipherment of ancient Egyptian scripts. ([Read more](https://en.wikipedia.org/wiki/Fort_Julien))
+> **1232** - Muhammad ibn Yusuf, who later established the Emirate of Granada, the last Muslim state in Spain, was elected the ruler of Arjona. ([Read more](https://en.wikipedia.org/wiki/Muhammad_I_of_Granada))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy |
+| [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-15 01:42:44 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-16 01:52:39 UTC</sub></p>
