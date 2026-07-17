@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1232** - Muhammad ibn Yusuf, who later established the Emirate of Granada, the last Muslim state in Spain, was elected the ruler of Arjona. ([Read more](https://en.wikipedia.org/wiki/Muhammad_I_of_Granada))
+> **1948** - In Olympia, Greece, the Summer Olympics torch relay, nicknamed the "relay of peace", began. ([Read more](https://en.wikipedia.org/wiki/Olympia%2C_Greece))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium |
+| [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-16 01:52:39 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-17 01:56:32 UTC</sub></p>
