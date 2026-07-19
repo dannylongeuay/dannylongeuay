@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1863** - American Civil War: Led by Colonel Robert Gould Shaw, the 54th Massachusetts Infantry Regiment, one of the first African-American military units in the Union Army, spearheaded an assault (pictured) on Fort Wagner, South Carolina. ([Read more](https://en.wikipedia.org/wiki/American_Civil_War))
+> **2024** - Neary's, a New York City Irish pub popular with political elites, closed. ([Read more](https://en.wikipedia.org/wiki/Neary's))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy |
+| [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-18 01:46:17 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-19 01:55:17 UTC</sub></p>
