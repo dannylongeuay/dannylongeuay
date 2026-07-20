@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2024** - Neary's, a New York City Irish pub popular with political elites, closed. ([Read more](https://en.wikipedia.org/wiki/Neary's))
+> **1936** - The July 1936 military uprising in Barcelona is defeated by anarchist militias and Republican loyalists, beginning the Spanish Revolution of 1936. ([Read more](https://en.wikipedia.org/wiki/July_1936_military_uprising_in_Barcelona))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium |
+| [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-19 01:55:17 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-20 02:13:48 UTC</sub></p>
