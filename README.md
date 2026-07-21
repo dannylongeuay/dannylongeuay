@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1936** - The July 1936 military uprising in Barcelona is defeated by anarchist militias and Republican loyalists, beginning the Spanish Revolution of 1936. ([Read more](https://en.wikipedia.org/wiki/July_1936_military_uprising_in_Barcelona))
+> **1977** - Libyan forces carried out a raid at Sallum, sparking a four-day war with Egypt. ([Read more](https://en.wikipedia.org/wiki/Sallum))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy |
+| [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-20 02:13:48 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-21 01:54:40 UTC</sub></p>
