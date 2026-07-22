@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1977** - Libyan forces carried out a raid at Sallum, sparking a four-day war with Egypt. ([Read more](https://en.wikipedia.org/wiki/Sallum))
+> **838** - Arab–Byzantine wars: The forces of the Abbasid Caliphate defeated Byzantine troops led by Emperor Theophilos at the Battle of Anzen, near present-day Dazman, Turkey. ([Read more](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium |
+| [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-21 01:54:40 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-22 01:53:48 UTC</sub></p>
