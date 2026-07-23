@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **838** - Arab–Byzantine wars: The forces of the Abbasid Caliphate defeated Byzantine troops led by Emperor Theophilos at the Battle of Anzen, near present-day Dazman, Turkey. ([Read more](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars))
+> **1940** - Sumner Welles, U.S. Under Secretary of State, issued a declaration that the U.S. government would not recognize the Soviet Union's annexation of the Baltic states. ([Read more](https://en.wikipedia.org/wiki/Sumner_Welles))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | Hard |
+| [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-22 01:53:48 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-23 02:01:28 UTC</sub></p>
