@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1940** - Sumner Welles, U.S. Under Secretary of State, issued a declaration that the U.S. government would not recognize the Soviet Union's annexation of the Baltic states. ([Read more](https://en.wikipedia.org/wiki/Sumner_Welles))
+> **1920** - Franco-Syrian War: At the Battle of Maysalun, forces of the Arab Kingdom of Syria were defeated by a French army moving to occupy the territory allocated to them by the San Remo conference. ([Read more](https://en.wikipedia.org/wiki/Franco-Syrian_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium |
+| [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-23 02:01:28 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-24 01:56:40 UTC</sub></p>
