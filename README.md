@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1920** - Franco-Syrian War: At the Battle of Maysalun, forces of the Arab Kingdom of Syria were defeated by a French army moving to occupy the territory allocated to them by the San Remo conference. ([Read more](https://en.wikipedia.org/wiki/Franco-Syrian_War))
+> **1591** - Eighty Years' War: Dutch and English forces relieved the siege of Knodsenburg in the Spanish Netherlands, having defeated the Duke of Parma's army in the field. ([Read more](https://en.wikipedia.org/wiki/Eighty_Years'_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium |
+| [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-24 01:56:40 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-25 01:56:04 UTC</sub></p>
