@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1591** - Eighty Years' War: Dutch and English forces relieved the siege of Knodsenburg in the Spanish Netherlands, having defeated the Duke of Parma's army in the field. ([Read more](https://en.wikipedia.org/wiki/Eighty_Years'_War))
+> **1551** - The Knights Hospitaller surrendered the Castello of Gozo to the Ottoman Empire following a brief siege, leading to the mass enslavement and dispersal of the Gozitan population. ([Read more](https://en.wikipedia.org/wiki/Knights_Hospitaller))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy |
+| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-25 01:56:04 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-26 02:00:24 UTC</sub></p>
