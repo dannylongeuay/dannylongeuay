@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1551** - The Knights Hospitaller surrendered the Castello of Gozo to the Ottoman Empire following a brief siege, leading to the mass enslavement and dispersal of the Gozitan population. ([Read more](https://en.wikipedia.org/wiki/Knights_Hospitaller))
+> **1949** - The world's first commercial jet airliner to reach production, the de Havilland Comet, had its maiden flight. ([Read more](https://en.wikipedia.org/wiki/Jet_airliner))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy |
+| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-26 02:00:24 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-27 02:08:13 UTC</sub></p>
