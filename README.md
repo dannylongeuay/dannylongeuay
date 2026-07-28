@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1949** - The world's first commercial jet airliner to reach production, the de Havilland Comet, had its maiden flight. ([Read more](https://en.wikipedia.org/wiki/Jet_airliner))
+> **1976** - An earthquake registering 7.6 Mw, one of the deadliest in history, devastated Tangshan, China, and killed at least 240,000 people. ([Read more](https://en.wikipedia.org/wiki/1976_Tangshan_earthquake))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy |
+| [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-27 02:08:13 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-28 01:49:18 UTC</sub></p>
