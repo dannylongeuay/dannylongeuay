@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1976** - An earthquake registering 7.6 Mw, one of the deadliest in history, devastated Tangshan, China, and killed at least 240,000 people. ([Read more](https://en.wikipedia.org/wiki/1976_Tangshan_earthquake))
+> **1981** - An estimated worldwide television audience of 750 million watched the wedding of Prince Charles and Lady Diana Spencer (combined coat of arms pictured) at St Paul's Cathedral in London. ([Read more](https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium |
+| [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-28 01:49:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-29 01:51:49 UTC</sub></p>
