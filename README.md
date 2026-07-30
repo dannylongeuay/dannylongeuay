@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1981** - An estimated worldwide television audience of 750 million watched the wedding of Prince Charles and Lady Diana Spencer (combined coat of arms pictured) at St Paul's Cathedral in London. ([Read more](https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer))
+> **2012** - A train fire killed 32 passengers and injured 27 on the Tamil Nadu Express in Andhra Pradesh, India. ([Read more](https://en.wikipedia.org/wiki/Nellore_train_fire))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard |
+| [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-29 01:51:49 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-30 01:44:38 UTC</sub></p>
