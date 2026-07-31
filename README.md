@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2012** - A train fire killed 32 passengers and injured 27 on the Tamil Nadu Express in Andhra Pradesh, India. ([Read more](https://en.wikipedia.org/wiki/Nellore_train_fire))
+> **2006** - Following intestinal surgery, Fidel Castro provisionally transferred the duties of the Cuban presidency to his brother Raúl. ([Read more](https://en.wikipedia.org/wiki/Fidel_Castro))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-30 01:44:38 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-07-31 02:02:17 UTC</sub></p>
