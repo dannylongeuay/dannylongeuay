@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2006** - Following intestinal surgery, Fidel Castro provisionally transferred the duties of the Cuban presidency to his brother Raúl. ([Read more](https://en.wikipedia.org/wiki/Fidel_Castro))
+> **1801** - First Barbary War: USS Enterprise, an American schooner, captured the Tripolitan polacca Tripoli in a single-ship action off the coast of Libya. ([Read more](https://en.wikipedia.org/wiki/First_Barbary_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-07-31 02:02:17 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-01 02:03:24 UTC</sub></p>
