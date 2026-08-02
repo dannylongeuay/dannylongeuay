@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1801** - First Barbary War: USS Enterprise, an American schooner, captured the Tripolitan polacca Tripoli in a single-ship action off the coast of Libya. ([Read more](https://en.wikipedia.org/wiki/First_Barbary_War))
+> **1916** - An explosion, blamed on Austro-Hungarian saboteurs, sank the Italian dreadnought Leonardo da Vinci. ([Read more](https://en.wikipedia.org/wiki/Austria-Hungary))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium |
+| [Stone Game](https://leetcode.com/problems/stone-game/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-01 02:03:24 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-02 01:59:39 UTC</sub></p>
