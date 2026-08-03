@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1916** - An explosion, blamed on Austro-Hungarian saboteurs, sank the Italian dreadnought Leonardo da Vinci. ([Read more](https://en.wikipedia.org/wiki/Austria-Hungary))
+> **1971** - Fighting Dinosaurs, a fossil specimen featuring a Velociraptor and a Protoceratops in combat, was unearthed in the Djadochta Formation of Mongolia. ([Read more](https://en.wikipedia.org/wiki/Fighting_Dinosaurs))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Game](https://leetcode.com/problems/stone-game/) | Medium |
+| [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-02 01:59:39 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-03 02:01:57 UTC</sub></p>
