@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1971** - Fighting Dinosaurs, a fossil specimen featuring a Velociraptor and a Protoceratops in combat, was unearthed in the Djadochta Formation of Mongolia. ([Read more](https://en.wikipedia.org/wiki/Fighting_Dinosaurs))
+> **1983** - Jean-Baptiste Ouédraogo, the president of Upper Volta, was ousted in a coup d'état led by Thomas Sankara. ([Read more](https://en.wikipedia.org/wiki/Jean-Baptiste_Ou%C3%A9draogo))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard |
+| [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-03 02:01:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-04 01:47:24 UTC</sub></p>
