@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1983** - Jean-Baptiste Ouédraogo, the president of Upper Volta, was ousted in a coup d'état led by Thomas Sankara. ([Read more](https://en.wikipedia.org/wiki/Jean-Baptiste_Ou%C3%A9draogo))
+> **1962** - American actress and model Marilyn Monroe was found dead of a barbiturate overdose in her home in Brentwood, Los Angeles. ([Read more](https://en.wikipedia.org/wiki/Marilyn_Monroe))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy |
+| [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-04 01:47:24 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-05 01:49:06 UTC</sub></p>
