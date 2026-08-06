@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1962** - American actress and model Marilyn Monroe was found dead of a barbiturate overdose in her home in Brentwood, Los Angeles. ([Read more](https://en.wikipedia.org/wiki/Marilyn_Monroe))
+> **1944** - World War II: Allied forces attacked German fortifications at Saint-Malo, France, beginning the Battle of Saint-Malo (pictured). ([Read more](https://en.wikipedia.org/wiki/World_War_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | Medium |
+| [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-05 01:49:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-06 01:49:57 UTC</sub></p>
