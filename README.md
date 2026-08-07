@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1944** - World War II: Allied forces attacked German fortifications at Saint-Malo, France, beginning the Battle of Saint-Malo (pictured). ([Read more](https://en.wikipedia.org/wiki/World_War_II))
+> **1897** - Mahdist War: Anglo-Egyptian soldiers clashed with Mahdist Sudanese rebels in the Battle of Abu Hamed. ([Read more](https://en.wikipedia.org/wiki/Mahdist_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy |
+| [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-06 01:49:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-07 02:12:57 UTC</sub></p>
