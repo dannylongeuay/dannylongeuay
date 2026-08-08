@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1897** - Mahdist War: Anglo-Egyptian soldiers clashed with Mahdist Sudanese rebels in the Battle of Abu Hamed. ([Read more](https://en.wikipedia.org/wiki/Mahdist_War))
+> **2014** - The World Health Organization declared the Western African Ebola epidemic, which began in December 2013, to be a public health emergency of international concern. ([Read more](https://en.wikipedia.org/wiki/World_Health_Organization))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Hard |
+| [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-07 02:12:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-08 01:00:55 UTC</sub></p>
