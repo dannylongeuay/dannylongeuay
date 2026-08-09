@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2014** - The World Health Organization declared the Western African Ebola epidemic, which began in December 2013, to be a public health emergency of international concern. ([Read more](https://en.wikipedia.org/wiki/World_Health_Organization))
+> **2006** - British police arrested 24 people for conspiring to detonate liquid explosives carried on board airliners travelling from the UK to the US and Canada. ([Read more](https://en.wikipedia.org/wiki/2006_transatlantic_aircraft_plot))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-08 01:00:55 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-09 01:04:53 UTC</sub></p>
