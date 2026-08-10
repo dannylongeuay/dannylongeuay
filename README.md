@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2006** - British police arrested 24 people for conspiring to detonate liquid explosives carried on board airliners travelling from the UK to the US and Canada. ([Read more](https://en.wikipedia.org/wiki/2006_transatlantic_aircraft_plot))
+> **1270** - Yekuno Amlak deposed the last Zagwe king and seized the imperial throne of Ethiopia, beginning the reign of the Solomonic dynasty, which would last for more than 700 years. ([Read more](https://en.wikipedia.org/wiki/Yekuno_Amlak))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium |
+| [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-09 01:04:53 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-10 01:06:26 UTC</sub></p>
