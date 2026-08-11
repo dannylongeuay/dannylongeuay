@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1270** - Yekuno Amlak deposed the last Zagwe king and seized the imperial throne of Ethiopia, beginning the reign of the Solomonic dynasty, which would last for more than 700 years. ([Read more](https://en.wikipedia.org/wiki/Yekuno_Amlak))
+> **1309** - Reconquista: Aragonese forces led by King James II landed on the coast of Almería, beginning an ultimately unsuccessful siege of the city, then held by the Emirate of Granada. ([Read more](https://en.wikipedia.org/wiki/Reconquista))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard |
+| [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-10 01:06:26 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-11 01:05:43 UTC</sub></p>
