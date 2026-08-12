@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1309** - Reconquista: Aragonese forces led by King James II landed on the coast of Almería, beginning an ultimately unsuccessful siege of the city, then held by the Emirate of Granada. ([Read more](https://en.wikipedia.org/wiki/Reconquista))
+> **1099** - Crusades: Fatimid forces under al-Afdal Shahanshah began retreating to Egypt after the Battle of Ascalon, concluding the First Crusade. ([Read more](https://en.wikipedia.org/wiki/Crusades))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-11 01:05:43 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-12 01:13:22 UTC</sub></p>
