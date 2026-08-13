@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1099** - Crusades: Fatimid forces under al-Afdal Shahanshah began retreating to Egypt after the Battle of Ascalon, concluding the First Crusade. ([Read more](https://en.wikipedia.org/wiki/Crusades))
+> **1918** - Opha May Johnson became the first woman to enlist in the United States Marine Corps. ([Read more](https://en.wikipedia.org/wiki/Opha_May_Johnson))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-12 01:13:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-13 01:14:57 UTC</sub></p>
