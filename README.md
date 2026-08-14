@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1918** - Opha May Johnson became the first woman to enlist in the United States Marine Corps. ([Read more](https://en.wikipedia.org/wiki/Opha_May_Johnson))
+> **1720** - The Spanish Villasur expedition, intended to slow the progress of French influence on the Great Plains of North America, ended in failure when it was ambushed by Pawnee and Otoe forces. ([Read more](https://en.wikipedia.org/wiki/Villasur_expedition))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | Hard |
+| [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-13 01:14:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-14 01:14:02 UTC</sub></p>
