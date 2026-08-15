@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1720** - The Spanish Villasur expedition, intended to slow the progress of French influence on the Great Plains of North America, ended in failure when it was ambushed by Pawnee and Otoe forces. ([Read more](https://en.wikipedia.org/wiki/Villasur_expedition))
+> **1963** - President Fulbert Youlou was overthrown in the Republic of Congo, after a three-day uprising in the capital. ([Read more](https://en.wikipedia.org/wiki/Fulbert_Youlou))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy |
+| [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-14 01:14:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-15 00:45:48 UTC</sub></p>
