@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1963** - President Fulbert Youlou was overthrown in the Republic of Congo, after a three-day uprising in the capital. ([Read more](https://en.wikipedia.org/wiki/Fulbert_Youlou))
+> **1929** - A long-running dispute between Muslims and Jews over access to the Western Wall in Jerusalem escalated into a week-long period of violent riots throughout Palestine. ([Read more](https://en.wikipedia.org/wiki/Western_Wall))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-15 00:45:48 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-16 00:49:34 UTC</sub></p>
