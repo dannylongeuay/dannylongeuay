@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1929** - A long-running dispute between Muslims and Jews over access to the Western Wall in Jerusalem escalated into a week-long period of violent riots throughout Palestine. ([Read more](https://en.wikipedia.org/wiki/Western_Wall))
+> **1945** - The independence of Indonesia was proclaimed by Sukarno and Mohammad Hatta, igniting a revolution against the Dutch Empire. ([Read more](https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Medium |
+| [Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-16 00:49:34 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-17 00:46:30 UTC</sub></p>
