@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1945** - The independence of Indonesia was proclaimed by Sukarno and Mohammad Hatta, igniting a revolution against the Dutch Empire. ([Read more](https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence))
+> **1919** - Russian Civil War: British motor torpedo boats raided the Bolshevik Baltic Fleet's home base of Kronstadt, sinking a depot ship  and damaging a battleship. ([Read more](https://en.wikipedia.org/wiki/Russian_Civil_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Game V](https://leetcode.com/problems/stone-game-v/) | Hard |
+| [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-17 00:46:30 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-18 00:44:42 UTC</sub></p>
