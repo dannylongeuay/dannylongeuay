@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1919** - Russian Civil War: British motor torpedo boats raided the Bolshevik Baltic Fleet's home base of Kronstadt, sinking a depot ship  and damaging a battleship. ([Read more](https://en.wikipedia.org/wiki/Russian_Civil_War))
+> **1920** - Russian Civil War: Peasants in Tambov Governorate began a rebellion against the Bolshevik government of Soviet Russia. ([Read more](https://en.wikipedia.org/wiki/Russian_Civil_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy |
+| [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-18 00:44:42 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-19 00:45:31 UTC</sub></p>
