@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1920** - Russian Civil War: Peasants in Tambov Governorate began a rebellion against the Bolshevik government of Soviet Russia. ([Read more](https://en.wikipedia.org/wiki/Russian_Civil_War))
+> **1950** - Korean War: United Nations forces repelled an attempt by North Korea to capture the city of Taegu. ([Read more](https://en.wikipedia.org/wiki/Korean_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | Medium |
+| [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-19 00:45:31 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-20 00:44:43 UTC</sub></p>
