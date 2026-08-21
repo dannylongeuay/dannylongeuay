@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1950** - Korean War: United Nations forces repelled an attempt by North Korea to capture the city of Taegu. ([Read more](https://en.wikipedia.org/wiki/Korean_War))
+> **1942** - World War II: The Imperial Japanese Army lost the Battle of the Tenaru, the first of its three major land offensives during the Guadalcanal campaign. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy |
+| [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-20 00:44:43 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-21 00:50:28 UTC</sub></p>
