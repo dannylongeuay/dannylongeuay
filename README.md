@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1942** - World War II: The Imperial Japanese Army lost the Battle of the Tenaru, the first of its three major land offensives during the Guadalcanal campaign. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
+> **1711** - Queen Anne's War: A British attempt to attack Quebec failed when eight ships wrecked on the St. Lawrence River. ([Read more](https://en.wikipedia.org/wiki/Queen_Anne's_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-21 00:50:28 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-22 00:45:18 UTC</sub></p>
