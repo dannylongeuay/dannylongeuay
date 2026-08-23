@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1711** - Queen Anne's War: A British attempt to attack Quebec failed when eight ships wrecked on the St. Lawrence River. ([Read more](https://en.wikipedia.org/wiki/Queen_Anne's_War))
+> **1873** - The Albert Bridge, spanning the River Thames in London, opened to traffic. ([Read more](https://en.wikipedia.org/wiki/Albert_Bridge%2C_London))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy |
+| [Sum Game](https://leetcode.com/problems/sum-game/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-22 00:45:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-23 00:50:38 UTC</sub></p>
