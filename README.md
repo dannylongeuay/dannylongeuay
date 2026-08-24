@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1873** - The Albert Bridge, spanning the River Thames in London, opened to traffic. ([Read more](https://en.wikipedia.org/wiki/Albert_Bridge%2C_London))
+> **1643** - A Dutch expedition (depicted) arrived at the mouth of the Valdivia River, in present-day Chile, to establish a new colony in the ruins of the abandoned Spanish settlement of Valdivia. ([Read more](https://en.wikipedia.org/wiki/Dutch_expedition_to_Valdivia))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Sum Game](https://leetcode.com/problems/sum-game/) | Medium |
+| [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-23 00:50:38 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-24 00:48:14 UTC</sub></p>
