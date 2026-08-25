@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1643** - A Dutch expedition (depicted) arrived at the mouth of the Valdivia River, in present-day Chile, to establish a new colony in the ruins of the abandoned Spanish settlement of Valdivia. ([Read more](https://en.wikipedia.org/wiki/Dutch_expedition_to_Valdivia))
+> **1537** - The Honourable Artillery Company, now the oldest surviving regiment in the British Army, was granted a royal charter by Henry VIII. ([Read more](https://en.wikipedia.org/wiki/Honourable_Artillery_Company))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | Hard |
+| [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-24 00:48:14 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-25 00:47:27 UTC</sub></p>
