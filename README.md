@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1537** - The Honourable Artillery Company, now the oldest surviving regiment in the British Army, was granted a royal charter by Henry VIII. ([Read more](https://en.wikipedia.org/wiki/Honourable_Artillery_Company))
+> **1914** - World War I: The German colony of Togoland surrendered to French and British forces after a 20-day campaign. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy |
+| [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-25 00:47:27 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-26 00:48:52 UTC</sub></p>
