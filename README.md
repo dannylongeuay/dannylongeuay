@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1914** - World War I: The German colony of Togoland surrendered to French and British forces after a 20-day campaign. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
+> **2009** - The Myanmar military junta and ethnic armies began three days of violent clashes in the region of Kokang. ([Read more](https://en.wikipedia.org/wiki/Tatmadaw_Government_(1988%E2%80%932011)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-26 00:48:52 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-27 06:21:26 UTC</sub></p>
