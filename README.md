@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2009** - The Myanmar military junta and ethnic armies began three days of violent clashes in the region of Kokang. ([Read more](https://en.wikipedia.org/wiki/Tatmadaw_Government_(1988%E2%80%932011)))
+> **2021** - The second phase of the Thomson-East Coast MRT line was opened for service. ([Read more](https://en.wikipedia.org/wiki/Thomson%E2%80%93East_Coast_Line))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-27 06:21:26 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-28 08:13:58 UTC</sub></p>
