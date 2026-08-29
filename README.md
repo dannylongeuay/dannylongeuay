@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2021** - The second phase of the Thomson-East Coast MRT line was opened for service. ([Read more](https://en.wikipedia.org/wiki/Thomson%E2%80%93East_Coast_Line))
+> **1916** - Congress passed the Philippine Autonomy Act, the first formal and official declaration of the U.S.'s commitment to grant independence to the Philippines. ([Read more](https://en.wikipedia.org/wiki/United_States_Congress))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-28 08:13:58 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-29 04:58:17 UTC</sub></p>
