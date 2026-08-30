@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1916** - Congress passed the Philippine Autonomy Act, the first formal and official declaration of the U.S.'s commitment to grant independence to the Philippines. ([Read more](https://en.wikipedia.org/wiki/United_States_Congress))
+> **1959** - South Vietnamese opposition figure Phan Quang Đán was elected to the National Assembly, despite soldiers being bussed in to vote multiple times for President Ngô Đình Diệm's candidate. ([Read more](https://en.wikipedia.org/wiki/South_Vietnam))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-29 04:58:17 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-30 02:45:41 UTC</sub></p>
