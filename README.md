@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1959** - South Vietnamese opposition figure Phan Quang Đán was elected to the National Assembly, despite soldiers being bussed in to vote multiple times for President Ngô Đình Diệm's candidate. ([Read more](https://en.wikipedia.org/wiki/South_Vietnam))
+> **1814** - War of 1812: American militia forces repelled a British force at the Battle of Caulk's Field, killing 41 people including Captain Peter Parker of the Royal Navy. ([Read more](https://en.wikipedia.org/wiki/War_of_1812))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium |
+| [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-30 02:45:41 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-31 02:39:02 UTC</sub></p>
