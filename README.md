@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1814** - War of 1812: American militia forces repelled a British force at the Battle of Caulk's Field, killing 41 people including Captain Peter Parker of the Royal Navy. ([Read more](https://en.wikipedia.org/wiki/War_of_1812))
+> **1967** - At an Arab League summit, eight nations issued the Khartoum Resolution, declaring that there would be "no peace with Israel, no recognition of Israel, [and] no negotiations with it". ([Read more](https://en.wikipedia.org/wiki/1967_Arab_League_summit))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-08-31 02:39:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-01 02:51:53 UTC</sub></p>
