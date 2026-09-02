@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1967** - At an Arab League summit, eight nations issued the Khartoum Resolution, declaring that there would be "no peace with Israel, no recognition of Israel, [and] no negotiations with it". ([Read more](https://en.wikipedia.org/wiki/1967_Arab_League_summit))
+> **1957** - South Vietnamese president Ngô Đình Diệm began an official visit to Australia, the first by a foreign incumbent head of state to the country. ([Read more](https://en.wikipedia.org/wiki/South_Vietnam))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium |
+| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-01 02:51:53 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-02 02:12:00 UTC</sub></p>
