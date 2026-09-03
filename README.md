@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1957** - South Vietnamese president Ngô Đình Diệm began an official visit to Australia, the first by a foreign incumbent head of state to the country. ([Read more](https://en.wikipedia.org/wiki/South_Vietnam))
+> **1941** - The mass expulsion of Soviet Germans from the Volga German ASSR began. ([Read more](https://en.wikipedia.org/wiki/Deportation_of_Soviet_Germans_(1941%E2%80%931942)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy |
+| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-02 02:12:00 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-03 02:19:00 UTC</sub></p>
