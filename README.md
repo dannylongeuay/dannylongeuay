@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1941** - The mass expulsion of Soviet Germans from the Volga German ASSR began. ([Read more](https://en.wikipedia.org/wiki/Deportation_of_Soviet_Germans_(1941%E2%80%931942)))
+> **1920** - Peasants in and around Križ began a rebellion to protest economic and conscription policies enacted by the Kingdom of Serbs, Croats and Slovenes. ([Read more](https://en.wikipedia.org/wiki/Kri%C5%BE%2C_Zagreb_County))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium |
+| [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-03 02:19:00 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-04 02:17:48 UTC</sub></p>
