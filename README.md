@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1920** - Peasants in and around Križ began a rebellion to protest economic and conscription policies enacted by the Kingdom of Serbs, Croats and Slovenes. ([Read more](https://en.wikipedia.org/wiki/Kri%C5%BE%2C_Zagreb_County))
+> **1964** - Hurricane Cleo dissipated after causing 156 deaths, mainly in Haiti, and causing roughly US$187 million in damages across the Caribbean and southeastern United States. ([Read more](https://en.wikipedia.org/wiki/Hurricane_Cleo))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy |
+| [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-04 02:17:48 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-05 02:14:57 UTC</sub></p>
