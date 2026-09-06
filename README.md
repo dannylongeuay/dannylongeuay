@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1964** - Hurricane Cleo dissipated after causing 156 deaths, mainly in Haiti, and causing roughly US$187 million in damages across the Caribbean and southeastern United States. ([Read more](https://en.wikipedia.org/wiki/Hurricane_Cleo))
+> **1963** - The Kennedy administration sent Victor H. Krulak and Joseph Mendenhall on a mission to assess the progress of the Vietnam War. ([Read more](https://en.wikipedia.org/wiki/Presidency_of_John_F._Kennedy))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium |
+| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-05 02:14:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-06 02:10:24 UTC</sub></p>
