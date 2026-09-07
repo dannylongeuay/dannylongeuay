@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1963** - The Kennedy administration sent Victor H. Krulak and Joseph Mendenhall on a mission to assess the progress of the Vietnam War. ([Read more](https://en.wikipedia.org/wiki/Presidency_of_John_F._Kennedy))
+> **1191** - Third Crusade: Crusaders under Richard I of England defeated Ayyubid troops under Saladin at the Battle of Arsuf (depicted) in present-day Israel. ([Read more](https://en.wikipedia.org/wiki/Third_Crusade))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard |
+| [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-06 02:10:24 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-07 02:07:54 UTC</sub></p>
