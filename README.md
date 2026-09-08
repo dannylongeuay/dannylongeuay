@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1191** - Third Crusade: Crusaders under Richard I of England defeated Ayyubid troops under Saladin at the Battle of Arsuf (depicted) in present-day Israel. ([Read more](https://en.wikipedia.org/wiki/Third_Crusade))
+> **1966** - Queen Elizabeth II opened the Severn Bridge (pictured), linking South Gloucestershire in England and Monmouthshire in Wales. ([Read more](https://en.wikipedia.org/wiki/Elizabeth_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard |
+| [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-07 02:07:54 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-08 02:19:37 UTC</sub></p>
