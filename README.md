@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1966** - Queen Elizabeth II opened the Severn Bridge (pictured), linking South Gloucestershire in England and Monmouthshire in Wales. ([Read more](https://en.wikipedia.org/wiki/Elizabeth_II))
+> **2001** - Two al-Qaeda attackers assassinated Ahmad Shah Massoud, a pivotal Afghan resistance leader, two days before the September 11 attacks in the United States. ([Read more](https://en.wikipedia.org/wiki/Al-Qaeda))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy |
+| [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-08 02:19:37 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-09 02:22:39 UTC</sub></p>
