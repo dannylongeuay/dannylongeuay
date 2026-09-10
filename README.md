@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2001** - Two al-Qaeda attackers assassinated Ahmad Shah Massoud, a pivotal Afghan resistance leader, two days before the September 11 attacks in the United States. ([Read more](https://en.wikipedia.org/wiki/Al-Qaeda))
+> **2017** - Hurricane Irma made landfall on Cudjoe Key, Florida, as a Category 4, after causing catastrophic damage throughout the Caribbean. ([Read more](https://en.wikipedia.org/wiki/Hurricane_Irma))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium |
+| [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-09 02:22:39 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-10 02:21:54 UTC</sub></p>
