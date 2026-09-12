@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2001** - al-Qaeda hijacked four passenger airliners to carry out a series of terrorist attacks (one pictured) against targets in New York City and the area of Washington, D.C., killing 2,977 people. ([Read more](https://en.wikipedia.org/wiki/Al-Qaeda))
+> **1962** - In a speech at Rice Stadium in Houston, U.S. president John F. Kennedy reiterated an aspiration to land a man on the Moon before 1970 (video featured). ([Read more](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy |
+| [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-11 02:17:07 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-12 02:24:13 UTC</sub></p>
