@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1962** - In a speech at Rice Stadium in Houston, U.S. president John F. Kennedy reiterated an aspiration to land a man on the Moon before 1970 (video featured). ([Read more](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon))
+> **1985** - Super Mario Bros., one of the most influential and best-selling video games in history, was first released in Japan for the Nintendo Entertainment System. ([Read more](https://en.wikipedia.org/wiki/Super_Mario_Bros.))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard |
+| [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-12 02:24:13 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-13 02:22:28 UTC</sub></p>
