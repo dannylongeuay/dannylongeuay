@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1985** - Super Mario Bros., one of the most influential and best-selling video games in history, was first released in Japan for the Nintendo Entertainment System. ([Read more](https://en.wikipedia.org/wiki/Super_Mario_Bros.))
+> **2015** - Physicists of the LIGO and Virgo projects first observed gravitational waves, the existence of which was predicted by Henri Poincaré in 1905. ([Read more](https://en.wikipedia.org/wiki/LIGO))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium |
+| [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-13 02:22:28 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-14 02:39:32 UTC</sub></p>
