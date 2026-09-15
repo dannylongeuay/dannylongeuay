@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2015** - Physicists of the LIGO and Virgo projects first observed gravitational waves, the existence of which was predicted by Henri Poincaré in 1905. ([Read more](https://en.wikipedia.org/wiki/LIGO))
+> **2008** - Financial crisis of 2007–2008: The global financial services firm Lehman Brothers filed for bankruptcy while holding over $600 billion in assets, the largest such filing in U.S. history. ([Read more](https://en.wikipedia.org/wiki/2008_financial_crisis))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy |
+| [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-14 02:39:32 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-15 02:42:50 UTC</sub></p>
