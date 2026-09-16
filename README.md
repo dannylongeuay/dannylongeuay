@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2008** - Financial crisis of 2007–2008: The global financial services firm Lehman Brothers filed for bankruptcy while holding over $600 billion in assets, the largest such filing in U.S. history. ([Read more](https://en.wikipedia.org/wiki/2008_financial_crisis))
+> **1992** - The British pound (coin pictured) was forced out of the European Exchange Rate Mechanism on Black Wednesday and suffered a major devaluation. ([Read more](https://en.wikipedia.org/wiki/Pound_sterling))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-15 02:42:50 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-16 02:37:36 UTC</sub></p>
