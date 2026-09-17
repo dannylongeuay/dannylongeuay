@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1992** - The British pound (coin pictured) was forced out of the European Exchange Rate Mechanism on Black Wednesday and suffered a major devaluation. ([Read more](https://en.wikipedia.org/wiki/Pound_sterling))
+> **2018** - The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane. ([Read more](https://en.wikipedia.org/wiki/Israeli_Air_Force))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-16 02:37:36 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-17 02:41:47 UTC</sub></p>
