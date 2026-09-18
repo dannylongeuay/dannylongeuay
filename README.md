@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2018** - The Israeli Air Force conducted missile strikes that hit multiple targets in western Syria; Syrian air defences responding to the strikes accidentally downed a Russian plane. ([Read more](https://en.wikipedia.org/wiki/Israeli_Air_Force))
+> **1875** - The Indianola hurricane dissipated over Mississippi after killing around eight hundred people in Texas. ([Read more](https://en.wikipedia.org/wiki/1875_Indianola_hurricane))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-17 02:41:47 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-18 02:29:01 UTC</sub></p>
