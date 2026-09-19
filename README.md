@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1875** - The Indianola hurricane dissipated over Mississippi after killing around eight hundred people in Texas. ([Read more](https://en.wikipedia.org/wiki/1875_Indianola_hurricane))
+> **1970** - The first Glastonbury Festival was held at Michael Eavis's farm in Glastonbury, England. ([Read more](https://en.wikipedia.org/wiki/Glastonbury_Festival))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard |
+| [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-18 02:29:01 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-19 02:28:16 UTC</sub></p>
