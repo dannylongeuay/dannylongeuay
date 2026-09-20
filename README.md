@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1970** - The first Glastonbury Festival was held at Michael Eavis's farm in Glastonbury, England. ([Read more](https://en.wikipedia.org/wiki/Glastonbury_Festival))
+> **1066** - Harald III of Norway and his English ally Tostig Godwinson defeated the northern earls Edwin and Morcar at the Battle of Fulford near York. ([Read more](https://en.wikipedia.org/wiki/Harald_Hardrada))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium |
+| [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-19 02:28:16 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-20 02:39:01 UTC</sub></p>
