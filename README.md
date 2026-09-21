@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1066** - Harald III of Norway and his English ally Tostig Godwinson defeated the northern earls Edwin and Morcar at the Battle of Fulford near York. ([Read more](https://en.wikipedia.org/wiki/Harald_Hardrada))
+> **1934** - Chandrashekhar Agashe  established the Brihan Maharashtra Sugar Syndicate Ltd., one of the oldest companies in India. ([Read more](https://en.wikipedia.org/wiki/Chandrashekhar_Agashe))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy |
+| [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-20 02:39:01 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-21 02:36:15 UTC</sub></p>
