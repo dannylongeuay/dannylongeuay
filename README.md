@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1934** - Chandrashekhar Agashe  established the Brihan Maharashtra Sugar Syndicate Ltd., one of the oldest companies in India. ([Read more](https://en.wikipedia.org/wiki/Chandrashekhar_Agashe))
+> **1914** - World War I: German naval forces bombarded Papeete in French Polynesia and sank a French gunboat. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium |
+| [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-21 02:36:15 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-22 02:38:31 UTC</sub></p>
