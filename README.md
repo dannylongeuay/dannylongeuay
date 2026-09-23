@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1914** - World War I: German naval forces bombarded Papeete in French Polynesia and sank a French gunboat. ([Read more](https://en.wikipedia.org/wiki/World_War_I))
+> **1913** - The United Mine Workers of America began a strike against the Rockefeller-owned Colorado Fuel & Iron Company, sparking the Colorado Coalfield War. ([Read more](https://en.wikipedia.org/wiki/United_Mine_Workers_of_America))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | Hard |
+| [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-22 02:38:31 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-23 02:38:53 UTC</sub></p>
