@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1913** - The United Mine Workers of America began a strike against the Rockefeller-owned Colorado Fuel & Iron Company, sparking the Colorado Coalfield War. ([Read more](https://en.wikipedia.org/wiki/United_Mine_Workers_of_America))
+> **1869** - Jay Gould, James Fisk, and other speculators plotted but failed to control the United States gold market, causing prices to plummet. ([Read more](https://en.wikipedia.org/wiki/Jay_Gould))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-23 02:38:53 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-24 02:28:12 UTC</sub></p>
