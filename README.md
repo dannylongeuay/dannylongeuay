@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1869** - Jay Gould, James Fisk, and other speculators plotted but failed to control the United States gold market, causing prices to plummet. ([Read more](https://en.wikipedia.org/wiki/Jay_Gould))
+> **844** - Viking expansion: A Viking fleet arrived near Seville, then part of the Emirate of Córdoba, and began a raid of the city that was eventually repelled by Muslim defenders. ([Read more](https://en.wikipedia.org/wiki/Viking_expansion))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-24 02:28:12 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-25 02:45:16 UTC</sub></p>
