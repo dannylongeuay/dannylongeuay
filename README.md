@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **844** - Viking expansion: A Viking fleet arrived near Seville, then part of the Emirate of Córdoba, and began a raid of the city that was eventually repelled by Muslim defenders. ([Read more](https://en.wikipedia.org/wiki/Viking_expansion))
+> **1944** - World War II: The Soviet Red Army completed the Tallinn offensive, driving German forces out of Estonia. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | Hard |
+| [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-25 02:45:16 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-26 02:47:40 UTC</sub></p>
