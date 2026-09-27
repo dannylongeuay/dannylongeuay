@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1944** - World War II: The Soviet Red Army completed the Tallinn offensive, driving German forces out of Estonia. ([Read more](https://en.wikipedia.org/wiki/World_War_II))
+> **1981** - Iran–Iraq War: Iran broke the Iraqi siege of Abadan by Operation Samen-ol-A'emeh. ([Read more](https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-26 02:47:40 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-27 02:49:06 UTC</sub></p>
