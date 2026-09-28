@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1981** - Iran–Iraq War: Iran broke the Iraqi siege of Abadan by Operation Samen-ol-A'emeh. ([Read more](https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War))
+> **2012** - War in Somalia: Somali National Army forces and their AMISOM and Raskamboni allies launched an offensive against Al-Shabaab in the latter's last major stronghold of Kismayo. ([Read more](https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-27 02:49:06 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-28 02:49:52 UTC</sub></p>
