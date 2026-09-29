@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2012** - War in Somalia: Somali National Army forces and their AMISOM and Raskamboni allies launched an offensive against Al-Shabaab in the latter's last major stronghold of Kismayo. ([Read more](https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present)))
+> **1963** - The University of East Anglia (coat of arms featured) was founded in Norwich, England, after talk of establishing a university in the city began as early as the 19th century. ([Read more](https://en.wikipedia.org/wiki/University_of_East_Anglia))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-28 02:49:52 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-29 03:31:05 UTC</sub></p>
