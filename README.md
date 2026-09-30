@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1963** - The University of East Anglia (coat of arms featured) was founded in Norwich, England, after talk of establishing a university in the city began as early as the 19th century. ([Read more](https://en.wikipedia.org/wiki/University_of_East_Anglia))
+> **1882** - The Vulcan Street Plant in Appleton, Wisconsin, the first hydroelectric central station to serve a system of private and commercial customers in North America, went online. ([Read more](https://en.wikipedia.org/wiki/Vulcan_Street_Plant))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-29 03:31:05 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-30 03:15:35 UTC</sub></p>
