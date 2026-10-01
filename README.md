@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1882** - The Vulcan Street Plant in Appleton, Wisconsin, the first hydroelectric central station to serve a system of private and commercial customers in North America, went online. ([Read more](https://en.wikipedia.org/wiki/Vulcan_Street_Plant))
+> **959** - Edgar acceded to the English throne upon the death of his brother Eadwig. ([Read more](https://en.wikipedia.org/wiki/Edgar%2C_King_of_England))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-09-30 03:15:35 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-01 03:22:10 UTC</sub></p>
