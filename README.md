@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **959** - Edgar acceded to the English throne upon the death of his brother Eadwig. ([Read more](https://en.wikipedia.org/wiki/Edgar%2C_King_of_England))
+> **1470** - With King Edward IV of England forced to flee to the Burgundian Netherlands after a rebellion organised by Richard Neville, 16th Earl of Warwick, Henry VI was restored to the throne. ([Read more](https://en.wikipedia.org/wiki/Edward_IV))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
+| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-01 03:22:10 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-02 03:22:47 UTC</sub></p>
