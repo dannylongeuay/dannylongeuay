@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1470** - With King Edward IV of England forced to flee to the Burgundian Netherlands after a rebellion organised by Richard Neville, 16th Earl of Warwick, Henry VI was restored to the throne. ([Read more](https://en.wikipedia.org/wiki/Edward_IV))
+> **1981** - A hunger strike by Irish republican prisoners at HM Prison Maze outside Belfast, Northern Ireland, ended after seven months and ten deaths. ([Read more](https://en.wikipedia.org/wiki/1981_Irish_hunger_strike))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
+| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-02 03:22:47 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-03 03:08:02 UTC</sub></p>
