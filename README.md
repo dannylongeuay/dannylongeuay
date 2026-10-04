@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1981** - A hunger strike by Irish republican prisoners at HM Prison Maze outside Belfast, Northern Ireland, ended after seven months and ten deaths. ([Read more](https://en.wikipedia.org/wiki/1981_Irish_hunger_strike))
+> **1927** - Gutzon Borglum and approximately 400 workers began sculpting Mount Rushmore. ([Read more](https://en.wikipedia.org/wiki/Gutzon_Borglum))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard |
+| [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-03 03:08:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-04 03:36:24 UTC</sub></p>
