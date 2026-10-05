@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1927** - Gutzon Borglum and approximately 400 workers began sculpting Mount Rushmore. ([Read more](https://en.wikipedia.org/wiki/Gutzon_Borglum))
+> **1986** - Eugene Hasenfus's plane was shot down by Nicaraguan forces while carrying weapons to the Contra rebels on behalf of the U.S. government; he was subsequently captured, leading to an international controversy. ([Read more](https://en.wikipedia.org/wiki/Eugene_Hasenfus))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium |
+| [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-04 03:36:24 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-05 03:18:33 UTC</sub></p>
