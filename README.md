@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1986** - Eugene Hasenfus's plane was shot down by Nicaraguan forces while carrying weapons to the Contra rebels on behalf of the U.S. government; he was subsequently captured, leading to an international controversy. ([Read more](https://en.wikipedia.org/wiki/Eugene_Hasenfus))
+> **1981** - Egyptian president Anwar Sadat (pictured) was assassinated while attending a parade in Cairo to mark the eighth anniversary of the Crossing of the Bar Lev Line at the start of the 1973 Arab-Israeli War. ([Read more](https://en.wikipedia.org/wiki/Anwar_Sadat))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium |
+| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-05 03:18:33 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-06 04:05:37 UTC</sub></p>
