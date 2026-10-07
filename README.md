@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1981** - Egyptian president Anwar Sadat (pictured) was assassinated while attending a parade in Cairo to mark the eighth anniversary of the Crossing of the Bar Lev Line at the start of the 1973 Arab-Israeli War. ([Read more](https://en.wikipedia.org/wiki/Anwar_Sadat))
+> **2023** - Palestinian nationalist groups launched armed incursions into the Gaza envelope, starting the Gaza war. ([Read more](https://en.wikipedia.org/wiki/Palestinian_nationalism))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium |
+| [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-06 04:05:37 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-07 03:33:27 UTC</sub></p>
