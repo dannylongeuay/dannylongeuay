@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2023** - Palestinian nationalist groups launched armed incursions into the Gaza envelope, starting the Gaza war. ([Read more](https://en.wikipedia.org/wiki/Palestinian_nationalism))
+> **2016** - Yemen War: A funeral in Sanaa was hit by two consecutive airstrikes  by a Saudi-led coalition, leaving 143–155 civilians dead and more than 525 injured. ([Read more](https://en.wikipedia.org/wiki/Saudi-led_intervention_in_the_Yemeni_civil_war))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
+| [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-07 03:33:27 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-08 03:47:46 UTC</sub></p>
