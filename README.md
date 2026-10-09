@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2016** - Yemen War: A funeral in Sanaa was hit by two consecutive airstrikes  by a Saudi-led coalition, leaving 143–155 civilians dead and more than 525 injured. ([Read more](https://en.wikipedia.org/wiki/Saudi-led_intervention_in_the_Yemeni_civil_war))
+> **1813** - Late in the Napoleonic Wars, Empress Marie Louise (pictured) issued decrees conscripting tens of thousands of French teenagers, who became known as Marie-Louises. ([Read more](https://en.wikipedia.org/wiki/Napoleonic_Wars))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy |
+| [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-08 03:47:46 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-09 03:53:12 UTC</sub></p>
