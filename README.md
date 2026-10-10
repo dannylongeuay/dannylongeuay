@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1813** - Late in the Napoleonic Wars, Empress Marie Louise (pictured) issued decrees conscripting tens of thousands of French teenagers, who became known as Marie-Louises. ([Read more](https://en.wikipedia.org/wiki/Napoleonic_Wars))
+> **1846** - English astronomer William Lassell discovered Triton, the largest moon of Neptune. ([Read more](https://en.wikipedia.org/wiki/William_Lassell))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-09 03:53:12 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-10 03:37:12 UTC</sub></p>
