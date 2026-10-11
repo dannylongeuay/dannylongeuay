@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1846** - English astronomer William Lassell discovered Triton, the largest moon of Neptune. ([Read more](https://en.wikipedia.org/wiki/William_Lassell))
+> **1797** - French Revolutionary Wars: The Royal Navy captured eleven Dutch Navy ships without any losses at the Battle of Camperdown. ([Read more](https://en.wikipedia.org/wiki/French_Revolutionary_Wars))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium |
+| [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-10 03:37:12 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-11 03:10:02 UTC</sub></p>
