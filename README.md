@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1797** - French Revolutionary Wars: The Royal Navy captured eleven Dutch Navy ships without any losses at the Battle of Camperdown. ([Read more](https://en.wikipedia.org/wiki/French_Revolutionary_Wars))
+> **1798** - The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers. ([Read more](https://en.wikipedia.org/wiki/Peasants'_War_(1798)))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy |
+| [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-11 03:10:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-12 03:33:03 UTC</sub></p>
