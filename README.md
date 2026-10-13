@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1798** - The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers. ([Read more](https://en.wikipedia.org/wiki/Peasants'_War_(1798)))
+> **1710** - Queen Anne's War: French and Wabanaki forces surrendered to end the Siege of Port Royal, giving the British permanent possession of Nova Scotia. ([Read more](https://en.wikipedia.org/wiki/Queen_Anne's_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-12 03:33:03 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-13 04:47:23 UTC</sub></p>
