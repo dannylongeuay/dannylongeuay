@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1710** - Queen Anne's War: French and Wabanaki forces surrendered to end the Siege of Port Royal, giving the British permanent possession of Nova Scotia. ([Read more](https://en.wikipedia.org/wiki/Queen_Anne's_War))
+> **2014** - A snowstorm and series of avalanches occurred on and around the Himalayan peaks of Annapurna and Dhaulagiri, resulting in the deaths of at least 43 people. ([Read more](https://en.wikipedia.org/wiki/2014_Nepal_snowstorm_disaster))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium |
+| [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-13 04:47:23 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-14 02:55:01 UTC</sub></p>
