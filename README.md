@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2014** - A snowstorm and series of avalanches occurred on and around the Himalayan peaks of Annapurna and Dhaulagiri, resulting in the deaths of at least 43 people. ([Read more](https://en.wikipedia.org/wiki/2014_Nepal_snowstorm_disaster))
+> **2007** - New Zealand Police conducted several anti-terrorism raids in relation to the discovery of an alleged paramilitary training camp in the Urewera mountain ranges, arresting 17 people and seizing four guns and 230 rounds of ammunition. ([Read more](https://en.wikipedia.org/wiki/New_Zealand_Police))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium |
+| [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-14 02:55:01 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-15 02:34:11 UTC</sub></p>
