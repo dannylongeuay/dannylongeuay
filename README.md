@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2007** - New Zealand Police conducted several anti-terrorism raids in relation to the discovery of an alleged paramilitary training camp in the Urewera mountain ranges, arresting 17 people and seizing four guns and 230 rounds of ammunition. ([Read more](https://en.wikipedia.org/wiki/New_Zealand_Police))
+> **2013** - In Laos's deadliest air accident, Lao Airlines Flight 301 crashed into the Mekong River, resulting in the deaths of all 49 people aboard. ([Read more](https://en.wikipedia.org/wiki/Lao_Airlines_Flight_301))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-15 02:34:11 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-16 02:29:22 UTC</sub></p>
