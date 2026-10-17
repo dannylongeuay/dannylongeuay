@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2013** - In Laos's deadliest air accident, Lao Airlines Flight 301 crashed into the Mekong River, resulting in the deaths of all 49 people aboard. ([Read more](https://en.wikipedia.org/wiki/Lao_Airlines_Flight_301))
+> **1952** - Indonesian Army elements surrounded the Merdeka Palace in Jakarta, demanding that President Sukarno disband the Provisional People's Representative Council. ([Read more](https://en.wikipedia.org/wiki/Indonesian_Army))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-16 02:29:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-17 02:22:03 UTC</sub></p>
