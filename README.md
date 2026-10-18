@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1952** - Indonesian Army elements surrounded the Merdeka Palace in Jakarta, demanding that President Sukarno disband the Provisional People's Representative Council. ([Read more](https://en.wikipedia.org/wiki/Indonesian_Army))
+> **1967** - The Soviet space probe Venera 4 became the first spacecraft to perform direct in situ analysis of the environment of another planet (Venus). ([Read more](https://en.wikipedia.org/wiki/Venera_4))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-17 02:22:03 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-18 02:22:05 UTC</sub></p>
