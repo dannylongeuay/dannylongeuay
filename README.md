@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1967** - The Soviet space probe Venera 4 became the first spacecraft to perform direct in situ analysis of the environment of another planet (Venus). ([Read more](https://en.wikipedia.org/wiki/Venera_4))
+> **1988** - The British government restricted the broadcast of the voices of representatives from Sinn Féin and several Irish republican and loyalist paramilitary groups on television and radio. ([Read more](https://en.wikipedia.org/wiki/1988%E2%80%931994_British_broadcasting_voice_restrictions))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-18 02:22:05 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-19 02:36:33 UTC</sub></p>
