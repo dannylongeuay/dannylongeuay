@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1988** - The British government restricted the broadcast of the voices of representatives from Sinn Féin and several Irish republican and loyalist paramilitary groups on television and radio. ([Read more](https://en.wikipedia.org/wiki/1988%E2%80%931994_British_broadcasting_voice_restrictions))
+> **1986** - Aeroflot Flight 6502 crashed on approach to Kurumoch Airport in Samara, Russia (then Kuybyshev in the Soviet Union), killing 70 people on board. ([Read more](https://en.wikipedia.org/wiki/Aeroflot_Flight_6502))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy |
+| [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-19 02:36:33 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-20 02:48:59 UTC</sub></p>
