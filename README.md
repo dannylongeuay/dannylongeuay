@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1986** - Aeroflot Flight 6502 crashed on approach to Kurumoch Airport in Samara, Russia (then Kuybyshev in the Soviet Union), killing 70 people on board. ([Read more](https://en.wikipedia.org/wiki/Aeroflot_Flight_6502))
+> **1867** - The first and second of three treaties were signed near Medicine Lodge, Kansas, between the United States federal government and several Native American tribes in the Great Plains, requiring them to relocate to areas in present-day western Oklahoma. ([Read more](https://en.wikipedia.org/wiki/Medicine_Lodge_Treaty))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard |
+| [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-20 02:48:59 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-21 02:43:02 UTC</sub></p>
