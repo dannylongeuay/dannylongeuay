@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1867** - The first and second of three treaties were signed near Medicine Lodge, Kansas, between the United States federal government and several Native American tribes in the Great Plains, requiring them to relocate to areas in present-day western Oklahoma. ([Read more](https://en.wikipedia.org/wiki/Medicine_Lodge_Treaty))
+> **1936** - The Royal Navy cutlass  was withdrawn from combat service. ([Read more](https://en.wikipedia.org/wiki/Royal_Navy_cutlasses))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium |
+| [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-21 02:43:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-22 02:46:02 UTC</sub></p>
