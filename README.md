@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1936** - The Royal Navy cutlass  was withdrawn from combat service. ([Read more](https://en.wikipedia.org/wiki/Royal_Navy_cutlasses))
+> **1957** - A screening of Mother India, one of the most influential Indian films in history, was held for President Rajendra Prasad and Prime Minister Jawaharlal Nehru two days before its release. ([Read more](https://en.wikipedia.org/wiki/Mother_India))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium |
+| [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-22 02:46:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-23 02:44:56 UTC</sub></p>
