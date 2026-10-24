@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1957** - A screening of Mother India, one of the most influential Indian films in history, was held for President Rajendra Prasad and Prime Minister Jawaharlal Nehru two days before its release. ([Read more](https://en.wikipedia.org/wiki/Mother_India))
+> **1931** - The George Washington Bridge (pictured), connecting Manhattan, New York City, to Fort Lee, New Jersey, and today the world's busiest motor-vehicle bridge, was dedicated. ([Read more](https://en.wikipedia.org/wiki/George_Washington_Bridge))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium |
+| [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-23 12:53:59 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-24 02:42:18 UTC</sub></p>
