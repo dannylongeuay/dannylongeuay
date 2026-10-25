@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1931** - The George Washington Bridge (pictured), connecting Manhattan, New York City, to Fort Lee, New Jersey, and today the world's busiest motor-vehicle bridge, was dedicated. ([Read more](https://en.wikipedia.org/wiki/George_Washington_Bridge))
+> **1864** - American Civil War: During Price's Missouri Expedition, Union troops defeated Sterling Price's Confederate army in three successive battles: Marais des Cygnes, Mine Creek, and Marmiton River. ([Read more](https://en.wikipedia.org/wiki/American_Civil_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy |
+| [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-24 02:42:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-25 02:32:26 UTC</sub></p>
