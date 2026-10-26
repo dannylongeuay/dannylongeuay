@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1864** - American Civil War: During Price's Missouri Expedition, Union troops defeated Sterling Price's Confederate army in three successive battles: Marais des Cygnes, Mine Creek, and Marmiton River. ([Read more](https://en.wikipedia.org/wiki/American_Civil_War))
+> **1892** - Ida B. Wells (pictured) began publishing her research on lynching in the United States, for which she was posthumously awarded a Pulitzer Prize in 2020. ([Read more](https://en.wikipedia.org/wiki/Ida_B._Wells))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |
+| [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-25 02:32:26 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-26 02:31:27 UTC</sub></p>
