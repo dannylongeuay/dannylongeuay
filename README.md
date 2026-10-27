@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1892** - Ida B. Wells (pictured) began publishing her research on lynching in the United States, for which she was posthumously awarded a Pulitzer Prize in 2020. ([Read more](https://en.wikipedia.org/wiki/Ida_B._Wells))
+> **1913** - A rail workers' strike in Chile escalates into a general strike, organized by the Regional Workers' Federation of Chile. ([Read more](https://en.wikipedia.org/wiki/General_strike))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium |
+| [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-26 02:31:27 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-27 03:06:05 UTC</sub></p>
