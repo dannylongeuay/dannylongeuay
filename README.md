@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1913** - A rail workers' strike in Chile escalates into a general strike, organized by the Regional Workers' Federation of Chile. ([Read more](https://en.wikipedia.org/wiki/General_strike))
+> **1707** - The Hōei earthquake ruptured all segments of the Nankai megathrust simultaneously – the only earthquake recorded to have done so. ([Read more](https://en.wikipedia.org/wiki/1707_H%C5%8Dei_earthquake))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy |
+| [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-27 03:06:05 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-28 03:18:57 UTC</sub></p>
