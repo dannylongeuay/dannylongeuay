@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1707** - The Hōei earthquake ruptured all segments of the Nankai megathrust simultaneously – the only earthquake recorded to have done so. ([Read more](https://en.wikipedia.org/wiki/1707_H%C5%8Dei_earthquake))
+> **1868** - The Nanbu clan of Honshu surrendered to Japanese imperial forces during the Boshin War. ([Read more](https://en.wikipedia.org/wiki/Nanbu_clan))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium |
+| [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-28 03:18:57 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-29 03:43:35 UTC</sub></p>
