@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1868** - The Nanbu clan of Honshu surrendered to Japanese imperial forces during the Boshin War. ([Read more](https://en.wikipedia.org/wiki/Nanbu_clan))
+> **1806** - War of the Fourth Coalition: Believing that they were outnumbered, the German garrison at Stettin surrendered to a much smaller French force (pictured) without a fight. ([Read more](https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard |
+| [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-29 03:43:35 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-30 03:46:05 UTC</sub></p>
