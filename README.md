@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1806** - War of the Fourth Coalition: Believing that they were outnumbered, the German garrison at Stettin surrendered to a much smaller French force (pictured) without a fight. ([Read more](https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition))
+> **1999** - All 217 people on board EgyptAir Flight 990 perished when the aircraft suddenly crashed into the Atlantic Ocean off the coast of Nantucket, Massachusetts. ([Read more](https://en.wikipedia.org/wiki/EgyptAir_Flight_990))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+| [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-30 03:46:05 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-10-31 03:29:30 UTC</sub></p>
