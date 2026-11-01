@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1999** - All 217 people on board EgyptAir Flight 990 perished when the aircraft suddenly crashed into the Atlantic Ocean off the coast of Nantucket, Massachusetts. ([Read more](https://en.wikipedia.org/wiki/EgyptAir_Flight_990))
+> **1824** - The disposable ship Columbus (pictured) arrived in the The Downs off England, becoming, at that time, the largest vessel to have crossed the Atlantic Ocean. ([Read more](https://en.wikipedia.org/wiki/Disposable_ship))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium |
+| [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-10-31 03:29:30 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-01 03:33:47 UTC</sub></p>
