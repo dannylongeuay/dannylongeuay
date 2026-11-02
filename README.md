@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1824** - The disposable ship Columbus (pictured) arrived in the The Downs off England, becoming, at that time, the largest vessel to have crossed the Atlantic Ocean. ([Read more](https://en.wikipedia.org/wiki/Disposable_ship))
+> **1957** - A large number of people witnessed a fiery object in the sky near Levelland, Texas, which the United States Air Force said was ball lightning. ([Read more](https://en.wikipedia.org/wiki/Levelland_UFO_case))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium |
+| [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-01 03:33:47 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-02 03:41:30 UTC</sub></p>
