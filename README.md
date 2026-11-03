@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1957** - A large number of people witnessed a fiery object in the sky near Levelland, Texas, which the United States Air Force said was ball lightning. ([Read more](https://en.wikipedia.org/wiki/Levelland_UFO_case))
+> **1996** - Abdullah Çatlı, a leader of the ultra-nationalist Grey Wolves, was killed in a car crash near Susurluk, Turkey, sparking a scandal that exposed the depth of the state's complicity in organized crime. ([Read more](https://en.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-02 03:41:30 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-03 04:46:00 UTC</sub></p>
