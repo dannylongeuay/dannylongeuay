@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1996** - Abdullah Çatlı, a leader of the ultra-nationalist Grey Wolves, was killed in a car crash near Susurluk, Turkey, sparking a scandal that exposed the depth of the state's complicity in organized crime. ([Read more](https://en.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1))
+> **2008** - Barack Obama (pictured) became the first person of biracial or African-American descent to be elected President of the United States. ([Read more](https://en.wikipedia.org/wiki/Barack_Obama))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-03 04:46:00 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-04 04:09:31 UTC</sub></p>
