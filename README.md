@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2008** - Barack Obama (pictured) became the first person of biracial or African-American descent to be elected President of the United States. ([Read more](https://en.wikipedia.org/wiki/Barack_Obama))
+> **1916** - An armed confrontation in Everett, Washington, between local authorities and members of the Industrial Workers of the World resulted in seven deaths. ([Read more](https://en.wikipedia.org/wiki/Everett_massacre))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-04 04:09:31 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-05 04:29:32 UTC</sub></p>
