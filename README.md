@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1916** - An armed confrontation in Everett, Washington, between local authorities and members of the Industrial Workers of the World resulted in seven deaths. ([Read more](https://en.wikipedia.org/wiki/Everett_massacre))
+> **1868** - Sioux Wars: Red Cloud (pictured), a Native American leader of the Oglala Lakota tribe, signed the Treaty of Fort Laramie, ending Red Cloud's War and establishing the Great Sioux Reservation. ([Read more](https://en.wikipedia.org/wiki/Sioux_Wars))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy |
+| [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-05 04:29:32 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-06 04:28:38 UTC</sub></p>
