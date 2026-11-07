@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1868** - Sioux Wars: Red Cloud (pictured), a Native American leader of the Oglala Lakota tribe, signed the Treaty of Fort Laramie, ending Red Cloud's War and establishing the Great Sioux Reservation. ([Read more](https://en.wikipedia.org/wiki/Sioux_Wars))
+> **1972** - A ship collision with the Sidney Lanier Bridge in the U.S. state of Georgia resulted in a bridge collapse (pictured), which killed ten people. ([Read more](https://en.wikipedia.org/wiki/Sidney_Lanier_Bridge))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium |
+| [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-06 04:28:38 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-07 03:55:10 UTC</sub></p>
