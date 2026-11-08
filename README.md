@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1972** - A ship collision with the Sidney Lanier Bridge in the U.S. state of Georgia resulted in a bridge collapse (pictured), which killed ten people. ([Read more](https://en.wikipedia.org/wiki/Sidney_Lanier_Bridge))
+> **1971** - The English rock group Led Zeppelin released their fourth album, which became one of the best-selling albums worldwide. ([Read more](https://en.wikipedia.org/wiki/Led_Zeppelin))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | Medium |
+| [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-07 03:55:10 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-08 03:40:07 UTC</sub></p>
