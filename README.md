@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1971** - The English rock group Led Zeppelin released their fourth album, which became one of the best-selling albums worldwide. ([Read more](https://en.wikipedia.org/wiki/Led_Zeppelin))
+> **1928** - The Great Mecca Feast, the first documentary film on the Hajj, premiered in the Netherlands. ([Read more](https://en.wikipedia.org/wiki/The_Great_Mecca_Feast))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | Medium |
+| [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-08 03:40:07 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-09 03:53:09 UTC</sub></p>
