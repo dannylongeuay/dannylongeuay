@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1928** - The Great Mecca Feast, the first documentary film on the Hajj, premiered in the Netherlands. ([Read more](https://en.wikipedia.org/wiki/The_Great_Mecca_Feast))
+> **1202** - Fourth Crusade: The Siege of Zara, the first attack on a Catholic city by Catholic crusaders, began in present-day Zadar, Croatia. ([Read more](https://en.wikipedia.org/wiki/Fourth_Crusade))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard |
+| [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-09 03:53:09 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-10 05:26:56 UTC</sub></p>
