@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1202** - Fourth Crusade: The Siege of Zara, the first attack on a Catholic city by Catholic crusaders, began in present-day Zadar, Croatia. ([Read more](https://en.wikipedia.org/wiki/Fourth_Crusade))
+> **2008** - After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives. ([Read more](https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium |
+| [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-10 05:26:56 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-11 03:57:18 UTC</sub></p>
