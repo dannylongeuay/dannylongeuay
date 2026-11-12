@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2008** - After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives. ([Read more](https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom))
+> **2011** - An explosion in the Shahid Modarres missile base led to the deaths of 17 members of the Revolutionary Guards, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program. ([Read more](https://en.wikipedia.org/wiki/Bid_Kaneh_explosion))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium |
+| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-11 03:57:18 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-12 05:06:14 UTC</sub></p>
