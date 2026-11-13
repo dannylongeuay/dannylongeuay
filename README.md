@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2011** - An explosion in the Shahid Modarres missile base led to the deaths of 17 members of the Revolutionary Guards, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program. ([Read more](https://en.wikipedia.org/wiki/Bid_Kaneh_explosion))
+> **1985** - The volcano Nevado del Ruiz (pictured) erupted, causing a volcanic mudslide that buried the town of Armero, Colombia, killing approximately 23,000 people. ([Read more](https://en.wikipedia.org/wiki/Nevado_del_Ruiz))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-12 05:06:14 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-13 04:22:22 UTC</sub></p>
