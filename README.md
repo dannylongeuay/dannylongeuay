@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1985** - The volcano Nevado del Ruiz (pictured) erupted, causing a volcanic mudslide that buried the town of Armero, Colombia, killing approximately 23,000 people. ([Read more](https://en.wikipedia.org/wiki/Nevado_del_Ruiz))
+> **1992** - In poor conditions caused by Cyclone Forrest, Vietnam Airlines Flight 474 crashed near Nha Trang, killing 30 people. ([Read more](https://en.wikipedia.org/wiki/Cyclone_Forrest))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-13 04:22:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-14 04:17:56 UTC</sub></p>
