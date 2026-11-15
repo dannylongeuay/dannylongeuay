@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1992** - In poor conditions caused by Cyclone Forrest, Vietnam Airlines Flight 474 crashed near Nha Trang, killing 30 people. ([Read more](https://en.wikipedia.org/wiki/Cyclone_Forrest))
+> **1908** - After numerous atrocities in the territory, the Congo Free State was annexed to Belgium to form the Belgian Congo. ([Read more](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy |
+| [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-14 04:17:56 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-15 04:01:45 UTC</sub></p>
