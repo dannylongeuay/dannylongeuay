@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1908** - After numerous atrocities in the territory, the Congo Free State was annexed to Belgium to form the Belgian Congo. ([Read more](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State))
+> **1632** - Gustavus Adolphus, King of Sweden, was killed at the Battle of Lützen during the Thirty Years' War. ([Read more](https://en.wikipedia.org/wiki/Gustavus_Adolphus))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium |
+| [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-15 04:01:45 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-16 04:01:49 UTC</sub></p>
