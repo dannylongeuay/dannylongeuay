@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1632** - Gustavus Adolphus, King of Sweden, was killed at the Battle of Lützen during the Thirty Years' War. ([Read more](https://en.wikipedia.org/wiki/Gustavus_Adolphus))
+> **1292** - John Balliol was chosen to be King of Scots over Robert de Brus. ([Read more](https://en.wikipedia.org/wiki/John_Balliol))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy |
+| [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-16 04:01:49 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-17 05:53:43 UTC</sub></p>
