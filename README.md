@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1292** - John Balliol was chosen to be King of Scots over Robert de Brus. ([Read more](https://en.wikipedia.org/wiki/John_Balliol))
+> **2011** - The sandbox video game Minecraft exited beta with the official release of version 1.0. ([Read more](https://en.wikipedia.org/wiki/Minecraft))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-17 05:53:43 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-18 05:21:09 UTC</sub></p>
