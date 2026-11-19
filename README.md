@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2011** - The sandbox video game Minecraft exited beta with the official release of version 1.0. ([Read more](https://en.wikipedia.org/wiki/Minecraft))
+> **2010** - The first of four explosions occurred at the Pike River Mine in the West Coast in New Zealand's worst mining disaster in nearly a century. ([Read more](https://en.wikipedia.org/wiki/Pike_River_Mine_disaster))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-18 05:21:09 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-19 05:17:05 UTC</sub></p>
