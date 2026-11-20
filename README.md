@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2010** - The first of four explosions occurred at the Pike River Mine in the West Coast in New Zealand's worst mining disaster in nearly a century. ([Read more](https://en.wikipedia.org/wiki/Pike_River_Mine_disaster))
+> **1739** - War of Jenkins' Ear: A British naval force arrived at the settlement of Portobello in the Spanish Main, capturing it the next day. ([Read more](https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium |
+| [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-19 05:17:05 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-20 05:03:16 UTC</sub></p>
