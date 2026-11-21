@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1739** - War of Jenkins' Ear: A British naval force arrived at the settlement of Portobello in the Spanish Main, capturing it the next day. ([Read more](https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear))
+> **2009** - An explosion in a coal mine in Heilongjiang, China, killed 108 miners. ([Read more](https://en.wikipedia.org/wiki/2009_Heilongjiang_mine_explosion))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-20 05:03:16 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-21 04:58:19 UTC</sub></p>
