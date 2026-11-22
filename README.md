@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **2009** - An explosion in a coal mine in Heilongjiang, China, killed 108 miners. ([Read more](https://en.wikipedia.org/wiki/2009_Heilongjiang_mine_explosion))
+> **1995** - Toy Story, the first feature film created using only computer-generated imagery, was released in theaters in the United States. ([Read more](https://en.wikipedia.org/wiki/Toy_Story))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | Medium |
+| [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-21 04:58:19 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-22 04:20:17 UTC</sub></p>
