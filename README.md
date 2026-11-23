@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1995** - Toy Story, the first feature film created using only computer-generated imagery, was released in theaters in the United States. ([Read more](https://en.wikipedia.org/wiki/Toy_Story))
+> **1700** - A papal conclave, which had been deadlocked due to concerns over how a successor would respond to the impending death of Charles II of Spain, ended with the election of Clement XI. ([Read more](https://en.wikipedia.org/wiki/1700_conclave))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy |
+| [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-22 04:20:17 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-23 04:58:02 UTC</sub></p>
