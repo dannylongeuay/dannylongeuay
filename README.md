@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1700** - A papal conclave, which had been deadlocked due to concerns over how a successor would respond to the impending death of Charles II of Spain, ended with the election of Clement XI. ([Read more](https://en.wikipedia.org/wiki/1700_conclave))
+> **1922** - Irish Civil War: Irish nationalist author Erskine Childers was executed by the Irish Free State for illegally carrying a semi-automatic pistol. ([Read more](https://en.wikipedia.org/wiki/Irish_Civil_War))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium |
+| [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-23 04:58:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-24 07:46:23 UTC</sub></p>
