@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1922** - Irish Civil War: Irish nationalist author Erskine Childers was executed by the Irish Free State for illegally carrying a semi-automatic pistol. ([Read more](https://en.wikipedia.org/wiki/Irish_Civil_War))
+> **1951** - The left-wing Japanese novelist Wataru Kaji disappeared, leading to a government inquiry in which CIA involvement was investigated. ([Read more](https://en.wikipedia.org/wiki/Wataru_Kaji))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy |
+| [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Hard |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-24 07:46:23 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-25 06:18:28 UTC</sub></p>
