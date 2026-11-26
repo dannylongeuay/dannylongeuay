@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1951** - The left-wing Japanese novelist Wataru Kaji disappeared, leading to a government inquiry in which CIA involvement was investigated. ([Read more](https://en.wikipedia.org/wiki/Wataru_Kaji))
+> **1942** - A riot involving infantrymen, military police, and local law enforcement officers killed three people in Phoenix, Arizona. ([Read more](https://en.wikipedia.org/wiki/1942_Phoenix_Thanksgiving_Day_riot))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Hard |
+| [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | Easy |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-25 06:18:28 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-26 06:10:23 UTC</sub></p>
