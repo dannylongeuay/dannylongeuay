@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1942** - A riot involving infantrymen, military police, and local law enforcement officers killed three people in Phoenix, Arizona. ([Read more](https://en.wikipedia.org/wiki/1942_Phoenix_Thanksgiving_Day_riot))
+> **1945** - A consortium of twenty-two U.S. charities founded CARE with the mission of delivering food aid to Europe in the aftermath of World War II. ([Read more](https://en.wikipedia.org/wiki/CARE_International))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | Easy |
+| [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-26 06:10:23 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-27 06:00:16 UTC</sub></p>
