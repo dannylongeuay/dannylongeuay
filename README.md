@@ -40,7 +40,7 @@
 
 ### On This Day in History
 
-> **1945** - A consortium of twenty-two U.S. charities founded CARE with the mission of delivering food aid to Europe in the aftermath of World War II. ([Read more](https://en.wikipedia.org/wiki/CARE_International))
+> **1903** - SS Petriana struck a reef near Point Nepean, leading to Australia's first major oil spill and a debate over the White Australia policy. ([Read more](https://en.wikipedia.org/wiki/SS_Petriana))
 
 <hr/>
 
@@ -48,8 +48,8 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Medium |
+| [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | Medium |
 
 <hr/>
 
-<p align="center"><sub>Last updated: 2026-11-27 06:00:16 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-11-28 05:42:17 UTC</sub></p>
